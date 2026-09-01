@@ -10,6 +10,22 @@ validated filters, honoured counts). The agent is the **default engine**; the pi
 
 ---
 
+## Project context
+
+Findora was developed as a group project during my exchange semester at TU Wien.
+
+The project focused on building a conversational recommender system for smartphones and headphones, combining large language models with structured product filtering, ranking, semantic search, and an interactive user interface.
+
+The original collaborative repository, including the full development history, branches, pull requests, and contributors, can be found here:
+
+[Applied-Generative-AI-Group-26](https://github.com/jaklob1233/Applied-Generative-AI-Group-26)
+
+### My contributions
+
+The project was developed collaboratively, with responsibilities shared across the team rather than being strictly divided between individual members.
+
+---
+
 ## Quick start
 
 **Prerequisites:** Python 3.10+ and one LLM API key (Gemini, OpenRouter, OpenAI, or Anthropic, see config below).
