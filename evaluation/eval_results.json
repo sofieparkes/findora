@@ -1,0 +1,29 @@
+{
+  "suites": {
+    "Entity resolution": {
+      "correct": 20,
+      "total": 20,
+      "pct": 100
+    },
+    "Slot validation": {
+      "correct": 10,
+      "total": 10,
+      "pct": 100
+    },
+    "Intent routing": {
+      "correct": 31,
+      "total": 33,
+      "pct": 95
+    },
+    "End-to-end task success": {
+      "correct": 9,
+      "total": 10,
+      "pct": 90
+    }
+  },
+  "avg_latency_s_per_turn": 4.41,
+  "image_coverage_pct": {
+    "smartphone": 100,
+    "headphones": 34
+  }
+}

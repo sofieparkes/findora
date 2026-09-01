@@ -1,0 +1,186 @@
+{
+  "robustness": {
+    "pass": 28,
+    "total": 28,
+    "pct": 100,
+    "by_tag": {
+      "count": {
+        "pass": 4,
+        "total": 4
+      },
+      "compound": {
+        "pass": 2,
+        "total": 2
+      },
+      "correction": {
+        "pass": 2,
+        "total": 2
+      },
+      "scope": {
+        "pass": 2,
+        "total": 2
+      },
+      "reasoning": {
+        "pass": 3,
+        "total": 3
+      },
+      "safety": {
+        "pass": 4,
+        "total": 4
+      },
+      "robustness": {
+        "pass": 4,
+        "total": 4
+      },
+      "i18n": {
+        "pass": 3,
+        "total": 3
+      },
+      "catalog": {
+        "pass": 1,
+        "total": 1
+      },
+      "validation": {
+        "pass": 1,
+        "total": 1
+      },
+      "negation": {
+        "pass": 1,
+        "total": 1
+      },
+      "currency": {
+        "pass": 1,
+        "total": 1
+      }
+    },
+    "misses": []
+  },
+  "deterministic": {
+    "Entity resolution": {
+      "correct": 20,
+      "total": 20,
+      "pct": 100
+    },
+    "Slot validation": {
+      "correct": 10,
+      "total": 10,
+      "pct": 100
+    },
+    "Intent routing": {
+      "correct": 38,
+      "total": 40,
+      "pct": 95
+    }
+  },
+  "personas": {
+    "overall": 0.746,
+    "runs": 3,
+    "by_persona": {
+      "receptionist": {
+        "goal_achieved": 1.0,
+        "honored_requests": 1.0,
+        "grounded": 1.0,
+        "helpful": 1.0,
+        "safe_in_scope": 1.0,
+        "overall": 1.0,
+        "overall_std": 0.0
+      },
+      "delivery_rider": {
+        "goal_achieved": 1.0,
+        "honored_requests": 1.0,
+        "grounded": 1.0,
+        "helpful": 1.0,
+        "safe_in_scope": 1.0,
+        "overall": 1.0,
+        "overall_std": 0.0
+      },
+      "spec_gamer": {
+        "goal_achieved": 0.0,
+        "honored_requests": 0.267,
+        "grounded": 0.333,
+        "helpful": 0.333,
+        "safe_in_scope": 0.6,
+        "overall": 0.307,
+        "overall_std": 0.217
+      },
+      "indecisive": {
+        "goal_achieved": 1.0,
+        "honored_requests": 1.0,
+        "grounded": 1.0,
+        "helpful": 1.0,
+        "safe_in_scope": 1.0,
+        "overall": 1.0,
+        "overall_std": 0.0
+      },
+      "quantity": {
+        "goal_achieved": 1.0,
+        "honored_requests": 0.933,
+        "grounded": 0.933,
+        "helpful": 0.967,
+        "safe_in_scope": 1.0,
+        "overall": 0.967,
+        "overall_std": 0.047
+      },
+      "audiophile": {
+        "goal_achieved": 0.0,
+        "honored_requests": 0.433,
+        "grounded": 0.5,
+        "helpful": 0.433,
+        "safe_in_scope": 0.7,
+        "overall": 0.413,
+        "overall_std": 0.009
+      },
+      "terse": {
+        "goal_achieved": 1.0,
+        "honored_requests": 0.867,
+        "grounded": 1.0,
+        "helpful": 0.6,
+        "safe_in_scope": 1.0,
+        "overall": 0.893,
+        "overall_std": 0.019
+      },
+      "out_of_catalog": {
+        "goal_achieved": 0.0,
+        "honored_requests": 0.0,
+        "grounded": 1.0,
+        "helpful": 0.0,
+        "safe_in_scope": 1.0,
+        "overall": 0.4,
+        "overall_std": 0.0
+      },
+      "mind_changer": {
+        "goal_achieved": 0.0,
+        "honored_requests": 0.5,
+        "grounded": 0.7,
+        "helpful": 0.567,
+        "safe_in_scope": 0.633,
+        "overall": 0.48,
+        "overall_std": 0.057
+      },
+      "value_shopper": {
+        "goal_achieved": 1.0,
+        "honored_requests": 1.0,
+        "grounded": 1.0,
+        "helpful": 1.0,
+        "safe_in_scope": 1.0,
+        "overall": 1.0,
+        "overall_std": 0.0
+      }
+    },
+    "overall_std": 0.024
+  },
+  "latency": {
+    "avg_s": 4.41,
+    "p95_s": 9.64,
+    "max_s": 54.04,
+    "n_turns": 175
+  },
+  "tokens": {
+    "avg_in": 3766,
+    "avg_out": 187,
+    "avg_cached": 2125,
+    "turns": 175
+  },
+  "elapsed_s": 1128.9,
+  "engine": "agent"
+}

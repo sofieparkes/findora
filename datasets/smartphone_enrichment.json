@@ -1,0 +1,2502 @@
+{
+  "smartphone|apple|apple iphone 14 plus (512gb)": {
+    "description": "The Apple iPhone 14 Plus features a 6.7-inch display, 512GB storage, and a dual 12MP rear camera system.",
+    "review_summary": "Owners appreciate the impressive battery life of 4325mAh and the high-quality camera performance, rating it 83 out of 100.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g13": {
+    "description": "The Motorola Moto G13 offers a 6.5-inch screen, 128GB storage, and a 50MP rear camera at an affordable price.",
+    "review_summary": "Users find it a solid choice for budget-conscious buyers, highlighting its decent 5000mAh battery, though some note performance could be better.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo neo 6 5g": {
+    "description": "The iQOO Neo 6 5G boasts an 8GB RAM, 128GB storage, and a powerful 64MP rear camera, making it a strong performer.",
+    "review_summary": "With fast 80W charging and a solid rating of 82, users are generally satisfied with its performance and camera quality.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y15": {
+    "description": "The Vivo Y15 features a 6.35-inch display, 64GB storage, and a 13MP rear camera, catering to entry-level users.",
+    "review_summary": "While it offers a good battery life, some users express concerns about its overall performance, reflected in its 71 rating.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 10 pro 5g": {
+    "description": "The OnePlus 10 Pro 5G is equipped with 8GB RAM, 128GB storage, and a 50MP rear camera, delivering high-end performance.",
+    "review_summary": "With a stellar rating of 89, users rave about its fast charging and camera capabilities, making it a top choice.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei nova y90": {
+    "description": "The Huawei Nova Y90 features a 6.7-inch display, 128GB storage, and a 50MP rear camera, offering a balanced performance.",
+    "review_summary": "Users appreciate its 5000mAh battery and 82 rating, though some mention software limitations as a drawback.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi mi 11i 5g": {
+    "description": "The Xiaomi Mi 11i 5G comes with a 6.67-inch screen, 128GB storage, and an impressive 108MP rear camera.",
+    "review_summary": "With an 81 rating, users enjoy its fast charging and camera quality, though some desire better software support.",
+    "generated": true
+  },
+  "smartphone|honor|honor 80 pro plus": {
+    "description": "The Honor 80 Pro Plus features a large 6.78-inch display, 256GB storage, and a remarkable 200MP rear camera.",
+    "review_summary": "Details on user feedback are currently unavailable, but its high specs suggest strong performance potential.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f22": {
+    "description": "The Samsung Galaxy F22 features a 6.4-inch screen, a 6000mAh battery, and a versatile 48MP quad-camera setup.",
+    "review_summary": "Owners appreciate the long-lasting 6000mAh battery and decent performance, though some note the rating reflects average overall satisfaction.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a13 (4gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A13 offers a 6.6-inch display, 128GB of storage, and a 50MP quad-camera system for versatile photography.",
+    "review_summary": "Users find the 128GB storage and solid performance appealing, contributing to a generally positive experience.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a32": {
+    "description": "The Samsung Galaxy A32 boasts a 6.4-inch screen, 64MP rear camera, and 6GB of RAM for smooth multitasking.",
+    "review_summary": "With a strong 80% rating, users praise its camera quality and performance, making it a reliable choice.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 pro plus (12gb ram + 256gb)": {
+    "description": "The Xiaomi Redmi Note 12 Pro Plus features a stunning 200MP camera, 12GB of RAM, and ultra-fast 120W charging.",
+    "review_summary": "Highly rated at 87%, users rave about its exceptional camera and performance, making it a top-tier option.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 9t": {
+    "description": "The Tecno Spark 9T includes a 6.6-inch display, 50MP rear camera, and a 5000mAh battery for everyday use.",
+    "review_summary": "While the 72% rating indicates some room for improvement, users appreciate its value and decent camera performance.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 30 pro 5g (8gb ram +128gb)": {
+    "description": "The Realme Narzo 30 Pro 5G features 8GB of RAM, a 48MP camera, and 30W fast charging for efficient performance.",
+    "review_summary": "With an 83% rating, users commend its performance and fast charging, making it a solid mid-range choice.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a15": {
+    "description": "The Samsung Galaxy A15 offers a 6.5-inch display, 48MP rear camera, and 6GB of RAM for everyday tasks.",
+    "review_summary": "At a 63% rating, some users express concerns about performance, though the camera quality is generally appreciated.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v20 se": {
+    "description": "The Vivo V20 SE features an 8GB RAM, 32MP front camera, and 6.44-inch display, ideal for selfies and media consumption.",
+    "review_summary": "With an 82% rating, users enjoy its camera capabilities and performance, making it a well-rounded smartphone.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 pro": {
+    "description": "The Apple iPhone 13 Pro features a 6.1-inch display, 6GB RAM, and a powerful triple-camera system for stunning photography.",
+    "review_summary": "Owners appreciate the iPhone 13 Pro's excellent camera quality and performance, highlighted by its 12MP rear cameras and 6GB RAM.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto e32": {
+    "description": "The Motorola Moto E32 offers a 6.5-inch display, 4GB RAM, and a robust 5000mAh battery, making it a solid budget option.",
+    "review_summary": "Users find the Moto E32 satisfactory for everyday tasks, though its performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|zte|zte axon 40 ultra 5g": {
+    "description": "The ZTE Axon 40 Ultra 5G boasts a large 6.8-inch display, 8GB RAM, and a remarkable 64MP rear camera for high-quality images.",
+    "review_summary": "Highly rated for its performance and camera capabilities, the Axon 40 Ultra impresses with 8GB RAM and fast 65W charging.",
+    "generated": true
+  },
+  "smartphone|itel|itel a23 pro": {
+    "description": "The Itel A23 Pro is an entry-level smartphone with a compact 5.0-inch display, 1GB RAM, and basic features for essential use.",
+    "review_summary": "While the Itel A23 Pro is very affordable, its limited 1GB RAM may not meet the needs of more demanding users.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v20 pro": {
+    "description": "The Vivo V20 Pro features a sleek 6.44-inch display, 8GB RAM, and an impressive 44MP front camera for stunning selfies.",
+    "review_summary": "Users love the Vivo V20 Pro for its excellent camera performance and 8GB RAM, making it a great choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a04s (4gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A04s offers a 6.5-inch display, 4GB RAM, and a 5000mAh battery, providing good value for everyday use.",
+    "review_summary": "While generally positive, some users note that the Galaxy A04s could benefit from improved performance given its 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|poco|poco f4 5g (8gb ram + 128gb)": {
+    "description": "The Poco F4 5G features a vibrant 6.67-inch display, 8GB RAM, and fast 67W charging, making it a powerful mid-range option.",
+    "review_summary": "Owners praise the Poco F4 5G for its performance and fast charging capabilities, supported by 8GB RAM and a 64MP camera.",
+    "generated": true
+  },
+  "smartphone|realme|realme c32": {
+    "description": "The Realme C32 is an affordable smartphone with a 6.52-inch display, 4GB RAM, and a 5000mAh battery for extended usage.",
+    "review_summary": "While the Realme C32 is budget-friendly, some users find its performance lacking, especially with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|realme|realme gt neo2 5g": {
+    "description": "The realme GT Neo2 5G features a 6.62-inch display, 8GB RAM, and a powerful 5000mAh battery with 65W fast charging.",
+    "review_summary": "Owners appreciate the strong performance and excellent battery life, highlighted by its 5000mAh battery and 65W fast charging.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a05": {
+    "description": "The Samsung Galaxy A05 offers a 6.5-inch screen, 4GB RAM, and a 5000mAh battery, making it a budget-friendly option.",
+    "review_summary": "While users find it affordable, the performance is modest, with 4GB RAM and a 63% rating indicating some limitations.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi 12t pro 5g": {
+    "description": "The Xiaomi 12T Pro 5G boasts a stunning 200MP rear camera, 8GB RAM, and 120W fast charging in a sleek design.",
+    "review_summary": "Users rave about its exceptional camera quality and rapid charging, reflected in its impressive 89% rating.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y100": {
+    "description": "The Vivo Y100 features a 6.0-inch display, 8GB RAM, and dual 50MP cameras, offering a solid mid-range experience.",
+    "review_summary": "Owners enjoy its camera capabilities and battery life, with an 82% rating supporting its overall value.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a03s": {
+    "description": "The Samsung Galaxy A03s is an entry-level phone with a 6.5-inch screen, 3GB RAM, and a 5000mAh battery.",
+    "review_summary": "While it’s budget-friendly, some users note performance issues, reflected in its 67% rating and limited 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|royole|royole flexpai 3 5g": {
+    "description": "The Royole FlexPai 3 5G features a unique 7.2-inch foldable display, 8GB RAM, and a versatile camera setup.",
+    "review_summary": "Users are impressed with its innovative design and camera quality, earning it an 87% rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12": {
+    "description": "The Xiaomi Redmi Note 12 offers a 6.67-inch display, 4GB RAM, and a 5000mAh battery, balancing performance and affordability.",
+    "review_summary": "Users appreciate its value for money, though some mention it could be faster, reflected in its 76% rating.",
+    "generated": true
+  },
+  "smartphone|realme|realme 10 pro (8gb ram + 128gb)": {
+    "description": "The Realme 10 Pro features a 6.72-inch display, 8GB RAM, and a 108MP rear camera, delivering impressive photography capabilities.",
+    "review_summary": "Owners are pleased with its camera performance and battery life, as indicated by its strong 84% rating.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y55 5g": {
+    "description": "The vivo Y55 5G features a 6.58-inch display, 4GB RAM, and a 50MP rear camera, making it a solid mid-range smartphone.",
+    "review_summary": "Owners appreciate the 5000mAh battery and 128GB storage, though some note performance could be better.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi 12 pro 5g (12gb ram + 256gb)": {
+    "description": "The Xiaomi 12 Pro 5G boasts a powerful 12GB RAM and 256GB storage, complemented by a stunning 6.73-inch display.",
+    "review_summary": "Feedback is pending for this model.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a04e": {
+    "description": "The Samsung Galaxy A04e offers a budget-friendly option with a 6.5-inch screen and a 5000mAh battery.",
+    "review_summary": "While the 5000mAh battery is a plus, some users find the 3GB RAM limiting for multitasking.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 pro plus (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 12 Pro Plus features an impressive 200MP rear camera and 6GB RAM, ideal for photography enthusiasts.",
+    "review_summary": "Users love the fast 120W charging and excellent camera quality, making it a top choice in its price range.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 11 combines 6GB RAM and a 50MP rear camera in a sleek design, perfect for everyday use.",
+    "review_summary": "Owners praise the 5000mAh battery and 33W fast charging, providing great value for the price.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 11 (16gb ram + 256gb)": {
+    "description": "The iQOO 11 stands out with 16GB RAM and 256GB storage, delivering high performance and a vibrant 6.78-inch display.",
+    "review_summary": "Users rave about the 120W fast charging and overall performance, making it a premium choice.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia x100 5g": {
+    "description": "The Nokia X100 5G features a 6.67-inch display and 48MP rear camera, offering a balanced performance for everyday tasks.",
+    "review_summary": "Owners appreciate the solid build and decent camera, though some wish for a larger battery.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 8 (4gb ram + 64gb)": {
+    "description": "The Tecno Spark 8 is an affordable smartphone with a 6.52-inch display and 5000mAh battery, suitable for basic tasks.",
+    "review_summary": "While the price is attractive, some users find the 4GB RAM and 64GB storage limiting for more demanding applications.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y20g": {
+    "description": "The vivo Y20G features a 6.51-inch screen, 4GB RAM, and a 5000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the long-lasting 5000mAh battery, though some note the performance could be better given its 69.0 rating.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei honor 9n": {
+    "description": "The Huawei Honor 9N offers a compact 5.84-inch display, 4GB RAM, and a 3000mAh battery, ideal for basic tasks.",
+    "review_summary": "Users find the 16MP front camera impressive, but the 66.0 rating suggests it may not meet everyone's expectations.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10 pro max (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 10 Pro Max boasts a stunning 108MP rear camera, 6GB RAM, and a 5020mAh battery for excellent performance.",
+    "review_summary": "With an 82.0 rating, users rave about the camera quality and fast 33W charging, making it a top choice.",
+    "generated": true
+  },
+  "smartphone|google|google pixel 7 pro 5g": {
+    "description": "The Google Pixel 7 Pro 5G features a 6.7-inch display, 12GB RAM, and a powerful 50MP rear camera, perfect for photography enthusiasts.",
+    "review_summary": "While the specs are impressive, the lack of a rating may leave potential buyers wanting more information.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s22 5g": {
+    "description": "The Samsung Galaxy S22 5G combines an 86.0 rating with a 6.1-inch screen, 8GB RAM, and a 50MP rear camera for a premium experience.",
+    "review_summary": "Users love the camera performance and fast charging, making it a highly recommended device.",
+    "generated": true
+  },
+  "smartphone|realme|realme 6 pro": {
+    "description": "The Realme 6 Pro features a 6.6-inch display, 6GB RAM, and a 64MP rear camera, offering great value for photography lovers.",
+    "review_summary": "With an 80.0 rating, users appreciate the camera quality and fast 30W charging, making it a solid choice.",
+    "generated": true
+  },
+  "smartphone|realme|realme c35 (4gb ram + 128gb)": {
+    "description": "The Realme C35 offers a 6.6-inch screen, 4GB RAM, and a 50MP rear camera, providing good performance for its price.",
+    "review_summary": "At a 71.0 rating, users enjoy the storage capacity, but some may find performance lacking compared to competitors.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 mini": {
+    "description": "The Apple iPhone 14 Mini features a compact 5.42-inch display, 6GB RAM, and a dual 12MP camera system, perfect for on-the-go users.",
+    "review_summary": "With a 70.0 rating, users appreciate its design and camera, though some feel it lacks battery longevity.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s20 fe": {
+    "description": "The Samsung Galaxy S20 FE features a 6.5-inch display, 8GB RAM, and a versatile camera system with a 12MP rear camera and 32MP front camera.",
+    "review_summary": "Owners appreciate the Galaxy S20 FE's strong performance and camera quality, highlighted by its 8GB RAM and 32MP front camera.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 20 play": {
+    "description": "The Infinix Hot 20 Play offers a large 6.82-inch display, 6000mAh battery, and decent performance with 4GB RAM.",
+    "review_summary": "While the Infinix Hot 20 Play has a long-lasting 6000mAh battery, some users note its performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1x 4g": {
+    "description": "The Vivo T1x 4G features a 6.58-inch display, 50MP rear camera, and 5000mAh battery, making it a solid mid-range option.",
+    "review_summary": "Users find the Vivo T1x 4G appealing for its impressive 50MP camera and decent battery life, though performance is average with 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g 5g": {
+    "description": "The Motorola Moto G 5G boasts a 6.67-inch display, 48MP rear camera, and 5000mAh battery, providing a reliable smartphone experience.",
+    "review_summary": "Owners commend the Moto G 5G for its solid performance and camera capabilities, particularly the 48MP rear camera.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 9 5g": {
+    "description": "The OPPO Reno 9 5G features a sleek design with a 6.7-inch display, 64MP rear camera, and fast 67W charging.",
+    "review_summary": "Users are impressed with the OPPO Reno 9 5G's camera quality and rapid charging, thanks to its 64MP rear camera and 67W fast charging.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y21e": {
+    "description": "The Vivo Y21e offers a 6.51-inch display, 5000mAh battery, and basic performance with 3GB RAM.",
+    "review_summary": "While the Vivo Y21e has a decent battery life, some users express concerns about its performance with only 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a53 5g (8gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A53 5G features a 6.5-inch display, 64MP rear camera, and 5000mAh battery, delivering a premium experience.",
+    "review_summary": "Owners rave about the Galaxy A53 5G's excellent performance and camera quality, particularly its 64MP rear camera.",
+    "generated": true
+  },
+  "smartphone|poco|poco c31": {
+    "description": "The POCO C31 features a 6.53-inch display, 5000mAh battery, and basic specs with 3GB RAM and 32GB storage.",
+    "review_summary": "While the POCO C31 is budget-friendly, some users find its performance lacking due to only 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|realme|realme 7 pro (8gb ram + 128gb)": {
+    "description": "The realme 7 Pro features 8GB RAM, 128GB storage, and a 64MP rear camera, making it a powerful mid-range smartphone.",
+    "review_summary": "Owners appreciate the fast 65W charging and impressive camera quality, rating it highly overall.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g32": {
+    "description": "The Motorola Moto G32 offers a 6.55-inch screen, 4GB RAM, and a 50MP rear camera, providing solid performance for everyday tasks.",
+    "review_summary": "Users find it reliable for basic use, though some note the performance may lag under heavy multitasking.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 8t 4g": {
+    "description": "The Oppo Reno 8T 4G boasts 8GB RAM, 256GB storage, and a 50MP rear camera, delivering excellent performance and ample space.",
+    "review_summary": "Customers are pleased with its fast 66W charging and overall performance, rating it positively.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 11 (128gb)": {
+    "description": "The Apple iPhone 11 features 128GB storage and a dual 12MP camera system, offering a premium experience in a compact design.",
+    "review_summary": "While users enjoy its camera and build quality, some feel it lacks the latest features compared to newer models.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a17": {
+    "description": "The OPPO A17 comes with 4GB RAM, 64GB storage, and a 50MP rear camera, making it a budget-friendly option for basic use.",
+    "review_summary": "Users appreciate its battery life, but some express concerns about its overall performance and speed.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi 13 5g": {
+    "description": "The Xiaomi 13 5G features 8GB RAM, 128GB storage, and a 50MP rear camera, providing high-end performance and fast charging.",
+    "review_summary": "Owners rave about its performance and camera quality, giving it a strong positive rating.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z7 5g": {
+    "description": "The iQOO Z7 5G offers 8GB RAM, 128GB storage, and a 50MP rear camera, making it a competitive choice in the mid-range market.",
+    "review_summary": "Users commend its performance and fast charging, rating it favorably overall.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a16e": {
+    "description": "The OPPO A16e features 3GB RAM, 32GB storage, and a 13MP rear camera, catering to users seeking a basic smartphone experience.",
+    "review_summary": "While it serves basic needs, some users find its performance lacking for more demanding tasks.",
+    "generated": true
+  },
+  "smartphone|poco|poco m4 5g (6gb ram + 128gb)": {
+    "description": "The Poco M4 5G features a 6.58-inch display, 6GB RAM, and a 50MP rear camera, making it a solid choice for budget-conscious users.",
+    "review_summary": "Owners appreciate the 128GB storage and 5000mAh battery, though some note performance could be better.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v23e": {
+    "description": "The Vivo V23e boasts an impressive 64MP rear camera, 8GB RAM, and 44W fast charging, ideal for photography enthusiasts.",
+    "review_summary": "Users love the 50MP front camera and sleek design, contributing to its positive reception.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei mate x": {
+    "description": "The Huawei Mate X features a large 8-inch display, 8GB RAM, and 512GB storage, designed for premium multitasking and media consumption.",
+    "review_summary": "Feedback is currently unavailable for this model.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a17k": {
+    "description": "The OPPO A17K offers a 6.56-inch screen, 3GB RAM, and an 8MP rear camera, catering to basic smartphone needs.",
+    "review_summary": "While affordable, users find the performance lacking, especially with only 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|poco|poco m3": {
+    "description": "The Poco M3 features a 6.53-inch display, 6GB RAM, and a massive 6000mAh battery, perfect for extended use.",
+    "review_summary": "Users appreciate the long battery life and decent performance, though some desire more storage options.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 9rt 5g": {
+    "description": "The OnePlus 9RT 5G combines an 8GB RAM, 50MP rear camera, and 4500mAh battery, delivering a premium smartphone experience.",
+    "review_summary": "Owners praise its performance and camera quality, making it a favorite among tech enthusiasts.",
+    "generated": true
+  },
+  "smartphone|jio|jio jiophone next (3gb ram + 32gb)": {
+    "description": "The Jio JioPhone Next features a compact 5.5-inch display, 3GB RAM, and a 13MP rear camera, designed for basic smartphone tasks.",
+    "review_summary": "Feedback is currently unavailable for this model.",
+    "generated": true
+  },
+  "smartphone|realme|realme c31 (4gb ram + 64gb)": {
+    "description": "The Realme C31 offers a 6.52-inch display, 4GB RAM, and a 13MP rear camera, suitable for everyday use.",
+    "review_summary": "While users appreciate its affordability, some express concerns about its overall performance.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f19s": {
+    "description": "The OPPO F19s features a 6.43-inch display, 6GB RAM, and a 5000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the 48MP rear camera and 33W fast charging, though some note it could be more powerful.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus nord n10": {
+    "description": "The OnePlus Nord N10 offers a 6.49-inch screen, 64MP rear camera, and 4300mAh battery, delivering a balanced performance for its price.",
+    "review_summary": "Users enjoy the 30W fast charging and 128GB storage, highlighting its value, though some wish for a larger battery.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 20": {
+    "description": "The Infinix Hot 20 features a 6.6-inch display, 50MP rear camera, and 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "While the 50MP camera is a highlight, some users feel the performance could be improved given its 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y22 (6gb ram + 128gb)": {
+    "description": "The Vivo Y22 comes with a 6.55-inch screen, 50MP rear camera, and 5000mAh battery, providing decent specifications for everyday tasks.",
+    "review_summary": "Users appreciate the 128GB storage and battery life, but some express concerns about its overall performance.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y55s 5g": {
+    "description": "The Vivo Y55s 5G features an 8GB RAM, 6000mAh battery, and 50MP rear camera, making it a robust option for multitasking.",
+    "review_summary": "Owners value the long battery life and ample storage, although some desire faster charging capabilities.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z6 lite (6gb ram + 128gb)": {
+    "description": "The iQOO Z6 Lite offers a 6.58-inch display, 50MP rear camera, and 5000mAh battery, ideal for users seeking a reliable smartphone.",
+    "review_summary": "Users like the 128GB storage and decent camera, but some mention that the charging speed could be better.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v21": {
+    "description": "The Vivo V21 features an 8GB RAM, 64MP rear camera, and 4000mAh battery, excelling in photography and performance.",
+    "review_summary": "Owners rave about the 44MP front camera and 33W fast charging, making it a favorite for selfie enthusiasts.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a83 5g": {
+    "description": "The Samsung Galaxy A83 5G boasts a 6.71-inch display, 64MP rear camera, and 4500mAh battery, offering premium features in a mid-range phone.",
+    "review_summary": "Users appreciate the large screen and solid camera performance, though some feel the price is on the higher side.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi mi 11x pro": {
+    "description": "The Xiaomi Mi 11X Pro features a powerful 108MP rear camera, 8GB RAM, and a vibrant 6.67-inch display, making it a strong performer.",
+    "review_summary": "Owners appreciate the impressive 108MP camera and fast performance, though some note the battery could be larger.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f22 (6gb ram + 128gb)": {
+    "description": "The Samsung Galaxy F22 offers a solid 6000mAh battery and 6GB RAM, ideal for users seeking longevity and decent performance.",
+    "review_summary": "Users find the battery life excellent, but some mention the camera quality could be better for the price.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m51s 5g": {
+    "description": "The Samsung Galaxy M51s 5G combines a 6000mAh battery with a 64MP rear camera, providing good performance for everyday tasks.",
+    "review_summary": "While many enjoy the long battery life, some users feel the camera performance is average compared to competitors.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 12 (g96)": {
+    "description": "The Infinix Note 12 (G96) features an 8GB RAM and a 50MP rear camera, offering a balanced performance for its price.",
+    "review_summary": "Users appreciate the performance and fast charging, although some desire a higher camera resolution.",
+    "generated": true
+  },
+  "smartphone|lg|lg velvet 5g": {
+    "description": "The LG Velvet 5G boasts a sleek design, 6GB RAM, and a 48MP rear camera, making it a stylish choice for users.",
+    "review_summary": "Owners love the design and camera quality, but some feel the battery life could be improved.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia x30": {
+    "description": "The Nokia X30 features a 50MP rear camera and 6GB RAM, providing a reliable performance in a compact design.",
+    "review_summary": "Users appreciate the build quality and camera, though some wish for a larger battery capacity.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia 5 iv 5g": {
+    "description": "The Sony Xperia 5 IV 5G offers premium features with 8GB RAM and a 256GB storage capacity, perfect for power users.",
+    "review_summary": "Owners rave about the performance and camera quality, making it a top choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|ikall|ikall z18": {
+    "description": "The iKall Z18 is an entry-level phone with 4GB RAM and a 20MP rear camera, suitable for basic tasks.",
+    "review_summary": "While users find it affordable, many note the performance is limited and the camera quality is below expectations.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g71 5g": {
+    "description": "The Motorola Moto G71 5G features a 6.4-inch display, 50MP rear camera, and a robust 5000mAh battery with 33W fast charging.",
+    "review_summary": "Owners appreciate the Moto G71 5G for its solid performance and impressive battery life, highlighted by 6GB RAM and 128GB storage.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a23 5g": {
+    "description": "The Samsung Galaxy A23 5G offers a 6.6-inch screen, 50MP rear camera, and a long-lasting 5000mAh battery with 25W fast charging.",
+    "review_summary": "Users find the Galaxy A23 5G reliable, especially for its ample storage and decent camera performance, though some note it could be faster.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 mini": {
+    "description": "The Apple iPhone 13 Mini features a compact 5.4-inch display, dual 12MP cameras, and a sleek design powered by iOS.",
+    "review_summary": "Owners enjoy the iPhone 13 Mini's premium build and camera quality, but some feel the battery life could be improved.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a04e (4gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A04e comes with a 6.5-inch display, 13MP rear camera, and a 5000mAh battery, making it a budget-friendly option.",
+    "review_summary": "While the Galaxy A04e is affordable and offers decent storage, some users express concerns about its overall performance.",
+    "generated": true
+  },
+  "smartphone|realme|realme c11 2021 (4gb ram + 64gb)": {
+    "description": "The Realme C11 2021 features a 6.52-inch display, 8MP rear camera, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "Users appreciate the low price of the Realme C11 2021, but many find its performance and camera capabilities lacking.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v25 pro (12gb ram + 256gb)": {
+    "description": "The Vivo V25 Pro boasts a 6.56-inch display, 64MP rear camera, and 12GB RAM, delivering high performance and fast 66W charging.",
+    "review_summary": "Owners rave about the Vivo V25 Pro's exceptional performance and camera quality, making it a top choice for power users.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi 11i 5g (8gb ram + 128gb)": {
+    "description": "The Xiaomi 11i 5G features a 6.67-inch display, 108MP rear camera, and a powerful 5160mAh battery with 67W fast charging.",
+    "review_summary": "Users are impressed with the Xiaomi 11i 5G's stunning camera and battery life, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1x (4gb ram + 128gb)": {
+    "description": "The Vivo T1x offers a 6.58-inch display, 50MP rear camera, and a 5000mAh battery, providing good value for everyday use.",
+    "review_summary": "While the Vivo T1x is well-received for its features and price, some users wish for better performance under heavy use.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s24 ultra": {
+    "description": "The Samsung Galaxy S24 Ultra features a stunning 6.83-inch display, a powerful 200MP rear camera, and a robust 5100mAh battery.",
+    "review_summary": "Owners praise the Galaxy S24 Ultra for its impressive 200MP camera and long-lasting 5100mAh battery, making it a top choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y93": {
+    "description": "The Vivo Y93 offers a budget-friendly experience with a 6.2-inch display and a 13MP rear camera, suitable for basic tasks.",
+    "review_summary": "While the Vivo Y93 is affordable, some users note its limited 4GB RAM and 32GB storage may not meet all needs.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi a1 plus": {
+    "description": "The Xiaomi Redmi A1 Plus is an entry-level phone with a 6.52-inch screen and a 5000mAh battery, ideal for basic usage.",
+    "review_summary": "Users find the Xiaomi Redmi A1 Plus satisfactory for everyday tasks, though its 2GB RAM may limit performance for more demanding applications.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 20i": {
+    "description": "The Infinix Hot 20i features a 6.6-inch display and a 5000mAh battery, providing decent performance for everyday tasks.",
+    "review_summary": "While the Infinix Hot 20i is affordable, some users mention its 3GB RAM may not be sufficient for multitasking.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a55 4g (6gb ram + 128gb)": {
+    "description": "The OPPO A55 4G combines a 6.51-inch display with a 50MP rear camera and 5000mAh battery, offering solid performance for its price.",
+    "review_summary": "Owners appreciate the OPPO A55's 50MP camera and good battery life, making it a reliable choice for budget-conscious users.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei p50 pro 4g": {
+    "description": "The Huawei P50 Pro 4G boasts an 8GB RAM and a 50MP rear camera, delivering premium performance and photography capabilities.",
+    "review_summary": "The Huawei P50 Pro is well-regarded for its powerful specs, though the lack of a rating may leave potential buyers uncertain.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone se 2020": {
+    "description": "The Apple iPhone SE 2020 features a compact 4.7-inch display and a 12MP rear camera, offering a classic iPhone experience.",
+    "review_summary": "While the iPhone SE 2020 is praised for its compact design, some users feel its 3GB RAM and smaller battery may limit performance.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10 prime (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi 10 Prime features a 6.5-inch display, a 50MP rear camera, and a large 6000mAh battery, making it a strong contender in its price range.",
+    "review_summary": "Users commend the Xiaomi Redmi 10 Prime for its excellent battery life and camera quality, making it a great value for money.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei nova 7i": {
+    "description": "The Huawei Nova 7i features a 6.4-inch display, 8GB RAM, and a versatile 48MP quad-camera setup, making it a solid mid-range smartphone.",
+    "review_summary": "Owners appreciate the 40W fast charging and 128GB storage, though some note it could benefit from a larger battery.",
+    "generated": true
+  },
+  "smartphone|poco|poco f3 gt": {
+    "description": "The Poco F3 GT offers a 6.67-inch screen, 6GB RAM, and a powerful 64MP camera, designed for gaming enthusiasts.",
+    "review_summary": "Users enjoy the impressive 67W fast charging and large 5065mAh battery, but some express concerns about its overall performance.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto edge s30 pro": {
+    "description": "The Motorola Moto Edge S30 Pro boasts a 6.67-inch display, 8GB RAM, and a 64MP camera, delivering a premium experience.",
+    "review_summary": "With a strong rating, users highlight the 68W fast charging and 5000mAh battery as standout features.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto edge s30 5g": {
+    "description": "The Motorola Moto Edge S30 5G features a large 6.8-inch screen, 6GB RAM, and an impressive 108MP rear camera for stunning photography.",
+    "review_summary": "Highly rated by users, the phone's 5000mAh battery and 33W fast charging are frequently praised.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9i 5g": {
+    "description": "The Realme 9i 5G is an affordable option with a 6.6-inch display, 4GB RAM, and a 50MP camera, suitable for everyday use.",
+    "review_summary": "While users appreciate the 5000mAh battery, some mention the 4GB RAM may limit performance for heavy multitasking.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s22 5g (8gb ram + 256gb)": {
+    "description": "The Samsung Galaxy S22 5G features a compact 6.1-inch display, 8GB RAM, and a 50MP camera, offering a premium smartphone experience.",
+    "review_summary": "Users love the high-quality build and 256GB storage, though the 3700mAh battery could be larger for heavy users.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m21 2021": {
+    "description": "The Samsung Galaxy M21 2021 offers a 6.4-inch display, 4GB RAM, and a 6000mAh battery, making it a great choice for budget-conscious users.",
+    "review_summary": "While the large battery is a highlight, some users feel the performance may not meet expectations for demanding tasks.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11t 5g (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 11T 5G features a 6.6-inch display, 6GB RAM, and a 50MP camera, providing good value in the mid-range segment.",
+    "review_summary": "Users appreciate the 5000mAh battery and 33W fast charging, contributing to a positive overall experience.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z6 lite 5g": {
+    "description": "The iQOO Z6 Lite 5G features a 6.58-inch display, 50MP rear camera, and a robust 5000mAh battery.",
+    "review_summary": "Owners appreciate the solid performance with 4GB RAM and decent battery life, though some note the camera could be better.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus ace 2": {
+    "description": "The OnePlus Ace 2 boasts a 6.7-inch screen, 50MP rear camera, and lightning-fast 100W charging.",
+    "review_summary": "Users love the impressive performance and fast charging capabilities, making it a top choice for power users.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y35": {
+    "description": "The Vivo Y35 offers a 6.58-inch display, 50MP rear camera, and 44W fast charging in a stylish package.",
+    "review_summary": "Customers enjoy the strong performance with 8GB RAM and good camera quality, making it a solid mid-range option.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola edge 30 pro 5g": {
+    "description": "The Motorola Edge 30 Pro 5G features a 6.7-inch display, 50MP rear camera, and a powerful 60MP front camera.",
+    "review_summary": "Highly rated for its exceptional camera quality and performance, users find it a premium choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 12 (128gb)": {
+    "description": "The Apple iPhone 12 features a 6.1-inch display, 12MP rear camera, and a sleek design.",
+    "review_summary": "While users appreciate its build quality and camera, some feel the performance is not as competitive at this price point.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola edge plus": {
+    "description": "The Motorola Edge Plus features a stunning 6.7-inch display, 108MP rear camera, and 12GB of RAM for top-tier performance.",
+    "review_summary": "Users rave about its exceptional camera and performance, making it a standout flagship device.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi mi 11x 5g (8gb ram + 128gb)": {
+    "description": "The Xiaomi Mi 11X 5G features a 6.67-inch display, 48MP rear camera, and 8GB RAM for smooth multitasking.",
+    "review_summary": "Owners appreciate its value for money with good performance and camera quality, though battery life could be improved.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno7 pro 5g": {
+    "description": "The OPPO Reno7 Pro 5G features a 6.55-inch display, 50MP rear camera, and 12GB RAM for excellent performance.",
+    "review_summary": "Users are impressed with its camera quality and fast charging, making it a strong contender in the premium segment.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 9 activ (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi 9 Activ features 6GB RAM, 128GB storage, and a 5000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the ample 128GB storage and decent performance, though some note the rating reflects modest overall satisfaction.",
+    "generated": true
+  },
+  "smartphone|poco|poco m5": {
+    "description": "The Poco M5 offers a 50MP rear camera, 4GB RAM, and a 5000mAh battery, providing good value for photography enthusiasts.",
+    "review_summary": "Users enjoy the impressive 50MP camera and solid battery life, but some feel the performance could be better.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo find n flip": {
+    "description": "The OPPO Find N Flip boasts an 8GB RAM, 128GB storage, and a 50MP camera, delivering a premium folding smartphone experience.",
+    "review_summary": "Highly rated for its innovative design and powerful camera, users love the 44W fast charging feature.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo neo 7 racing edition": {
+    "description": "The iQOO Neo 7 Racing Edition features 8GB RAM, 256GB storage, and 120W fast charging, making it a powerhouse for gaming and multitasking.",
+    "review_summary": "Users rave about the lightning-fast charging and performance, contributing to its strong overall rating.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 pro max (256gb)": {
+    "description": "The Apple iPhone 14 Pro Max offers 6GB RAM, 256GB storage, and a 48MP camera, providing a premium smartphone experience with iOS.",
+    "review_summary": "Owners appreciate the high-quality camera and robust performance, though some feel the price is quite steep.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 12": {
+    "description": "The Infinix Note 12 features 4GB RAM, 64GB storage, and a 5000mAh battery, making it a reliable option for budget-conscious users.",
+    "review_summary": "Users like the 50MP camera and decent battery life, but some express concerns about overall performance.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno pova neo 2": {
+    "description": "The Tecno Pova Neo 2 comes with 6GB RAM, 128GB storage, and a massive 7000mAh battery, ideal for heavy users.",
+    "review_summary": "While the battery life is impressive, some users find the performance lacking, reflected in its lower rating.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 11s": {
+    "description": "The Infinix Hot 11S features 4GB RAM, 64GB storage, and a 50MP camera, offering good performance for everyday tasks.",
+    "review_summary": "Users appreciate the camera quality and battery life, but some feel it could use more RAM for better multitasking.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y15c": {
+    "description": "The vivo Y15C features a 6.51-inch screen, 3GB RAM, and a 5000mAh battery, making it a budget-friendly option for basic smartphone needs.",
+    "review_summary": "Owners appreciate the long-lasting 5000mAh battery, though some note the performance may lag with only 3GB of RAM.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a77s": {
+    "description": "The OPPO A77s offers a 6.56-inch display, 8GB RAM, and a powerful 50MP rear camera, ideal for users seeking performance and photography capabilities.",
+    "review_summary": "Users are pleased with the 50MP camera and 8GB RAM, contributing to a solid overall experience.",
+    "generated": true
+  },
+  "smartphone|honor|honor 60 se 5g": {
+    "description": "The Honor 60 SE 5G boasts a 6.67-inch screen, 8GB RAM, and a 64MP rear camera, providing a balanced performance for multimedia enthusiasts.",
+    "review_summary": "Owners enjoy the fast 66W charging and impressive camera quality, although some feel the battery could be larger.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f42 5g (8gb ram + 128gb)": {
+    "description": "The Samsung Galaxy F42 5G features a 6.6-inch display, 8GB RAM, and a 64MP rear camera, delivering strong performance and versatility.",
+    "review_summary": "Users commend the excellent performance and camera quality, making it a top choice in its price range.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10 prime": {
+    "description": "The Xiaomi Redmi 10 Prime includes a 6.5-inch screen, 4GB RAM, and a massive 6000mAh battery, perfect for users needing extended usage.",
+    "review_summary": "While the 6000mAh battery is a highlight, some users mention that performance may not meet expectations with 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10t 5g": {
+    "description": "The Xiaomi Redmi Note 10T 5G features a 6.5-inch display, 4GB RAM, and a 48MP rear camera, offering decent performance for everyday tasks.",
+    "review_summary": "Users appreciate the 48MP camera and solid battery life, though some find the performance slightly underwhelming.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 13 pro 5g": {
+    "description": "The Xiaomi Redmi Note 13 Pro 5G offers a 6.67-inch screen, 6GB RAM, and an impressive 108MP rear camera, catering to photography enthusiasts.",
+    "review_summary": "Owners are impressed with the 108MP camera and fast 67W charging, making it a strong contender in its category.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y53s": {
+    "description": "The Vivo Y53s features a 6.58-inch display, 8GB RAM, and a 64MP rear camera, providing a well-rounded experience for users.",
+    "review_summary": "Users enjoy the camera quality and performance, making it a reliable choice for daily use.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v23 pro 5g (12gb ram + 256gb)": {
+    "description": "The vivo V23 Pro 5G features a stunning 108MP rear camera, 12GB RAM, and 256GB storage, making it a powerful smartphone for photography enthusiasts.",
+    "review_summary": "Owners appreciate the impressive 108MP camera and fast 44W charging, contributing to a high satisfaction rating.",
+    "generated": true
+  },
+  "smartphone|letv|letv y2 pro": {
+    "description": "The Letv Y2 Pro offers basic functionality with 4GB RAM and 32GB storage, ideal for users seeking an affordable smartphone.",
+    "review_summary": "While budget-friendly, some users note limited performance with only 4GB RAM, which may affect multitasking.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 9": {
+    "description": "The Tecno Spark 9 features a 6.6-inch display, 6GB RAM, and a 5000mAh battery, providing decent performance for everyday tasks.",
+    "review_summary": "Users find the 5000mAh battery appealing, but the overall performance is considered average, reflected in its lower rating.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 9 pro 5g": {
+    "description": "The iQOO 9 Pro 5G boasts an 8GB RAM, 256GB storage, and lightning-fast 120W charging, making it a top-tier choice for power users.",
+    "review_summary": "Owners rave about the exceptional charging speed and 50MP camera, leading to a highly positive overall experience.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo find n2 5g": {
+    "description": "The Oppo Find N2 5G features a compact design with 12GB RAM and 256GB storage, perfect for users seeking a premium foldable experience.",
+    "review_summary": "Details on user feedback are unavailable, but its high specs suggest it could be a strong contender in the premium market.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto e32s": {
+    "description": "The Motorola Moto E32s is an entry-level smartphone with 3GB RAM and a 5000mAh battery, suitable for basic tasks.",
+    "review_summary": "While affordable, users express concerns about performance due to the limited 3GB RAM, impacting multitasking capabilities.",
+    "generated": true
+  },
+  "smartphone|lava|lava agni 5g": {
+    "description": "The Lava Agni 5G features 8GB RAM and a 64MP rear camera, offering solid performance and photography capabilities at a competitive price.",
+    "review_summary": "Users appreciate the 64MP camera and 5000mAh battery, contributing to a favorable overall rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m04": {
+    "description": "The Samsung Galaxy M04 is a budget-friendly smartphone with 4GB RAM and a 5000mAh battery, designed for everyday use.",
+    "review_summary": "While it offers decent battery life, users note that performance may be lacking with only 4GB RAM, reflected in its lower rating.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 pro max (1tb)": {
+    "description": "The Apple iPhone 13 Pro Max features a stunning 6.7-inch display, 1TB storage, and a powerful 4352mAh battery.",
+    "review_summary": "Owners praise the iPhone 13 Pro Max for its impressive battery life and storage capacity, making it a top choice for heavy users.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno phantom x2": {
+    "description": "The Tecno Phantom X2 boasts a large 6.8-inch screen, 64MP rear camera, and a robust 5160mAh battery.",
+    "review_summary": "Users appreciate the Tecno Phantom X2 for its excellent camera quality and fast charging capabilities, though some note it lacks premium build quality.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 pro 4g": {
+    "description": "The Xiaomi Redmi Note 12 Pro 4G offers a 6.67-inch display, 50MP rear camera, and 5000mAh battery at an affordable price.",
+    "review_summary": "While the Redmi Note 12 Pro 4G is well-received for its value and fast charging, some users feel it could perform better in low light.",
+    "generated": true
+  },
+  "smartphone|google|google pixel 8 pro": {
+    "description": "The Google Pixel 8 Pro features a 6.73-inch display, 12GB RAM, and a 50MP rear camera, delivering a premium Android experience.",
+    "review_summary": "Owners commend the Google Pixel 8 Pro for its exceptional camera performance and smooth multitasking, making it a strong contender in its class.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 8 pro": {
+    "description": "The Xiaomi Redmi Note 8 Pro includes a 6.53-inch screen, 64MP rear camera, and a 4500mAh battery, providing solid performance for its price.",
+    "review_summary": "Users find the Redmi Note 8 Pro's camera impressive for the price, but some express concerns about its overall performance under heavy use.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi k50i (8gb ram + 256gb)": {
+    "description": "The Xiaomi Redmi K50i features an 8GB RAM, 256GB storage, and a 6.6-inch display, making it a powerful mid-range option.",
+    "review_summary": "Owners appreciate the Redmi K50i for its strong performance and fast charging, positioning it as a great value in the mid-range market.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a77": {
+    "description": "The OPPO A77 offers a 6.56-inch display, 50MP rear camera, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "While the OPPO A77 is praised for its battery life, some users note that its performance may not meet expectations for demanding tasks.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s20": {
+    "description": "The Samsung Galaxy S20 features a 6.2-inch display, 64MP rear camera, and 8GB RAM, delivering a premium smartphone experience.",
+    "review_summary": "Users highly rate the Galaxy S20 for its camera quality and overall performance, making it a favorite among Android enthusiasts.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z6 5g (8gb ram + 128gb)": {
+    "description": "The iQOO Z6 5G features 8GB RAM, 128GB storage, and a 50MP rear camera, making it a solid choice for performance and photography.",
+    "review_summary": "Owners appreciate the strong performance with 8GB RAM and a long-lasting 5000mAh battery, though some note the fast charging could be faster.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 6 pro 5g": {
+    "description": "The OPPO Reno 6 Pro 5G boasts 12GB RAM, 256GB storage, and a stunning 64MP rear camera, ideal for high-performance users and photography enthusiasts.",
+    "review_summary": "Users love the impressive 12GB RAM and rapid 65W fast charging, contributing to a highly positive experience overall.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 12 pro (512gb)": {
+    "description": "The Apple iPhone 12 Pro features 512GB storage and a dual 12MP camera system, offering a premium experience in a compact design.",
+    "review_summary": "While many enjoy the ample 512GB storage and quality camera, some feel the price is steep for the features offered.",
+    "generated": true
+  },
+  "smartphone|poco|poco f4 (12gb ram + 256gb)": {
+    "description": "The Poco F4 comes with 12GB RAM, 256GB storage, and a 64MP rear camera, delivering excellent performance and photography capabilities.",
+    "review_summary": "Users are impressed with the 12GB RAM and fast 67W charging, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|realme|realme 10 5g": {
+    "description": "The Realme 10 5G features 8GB RAM, 128GB storage, and a 50MP rear camera, providing a balanced performance for everyday use.",
+    "review_summary": "While the 8GB RAM and 5000mAh battery are appreciated, some users mention the camera performance could be improved.",
+    "generated": true
+  },
+  "smartphone|realme|realme c35 (6gb ram + 128gb)": {
+    "description": "The Realme C35 offers 6GB RAM, 128GB storage, and a 50MP rear camera, making it a budget-friendly option with decent specs.",
+    "review_summary": "Users find the 6GB RAM and 5000mAh battery satisfactory, but some express concerns about overall performance at this price point.",
+    "generated": true
+  },
+  "smartphone|redmi|redmi 12c": {
+    "description": "The Redmi 12C features 4GB RAM, 64GB storage, and a 50MP rear camera, catering to basic smartphone needs at an affordable price.",
+    "review_summary": "While the 50MP camera and 5000mAh battery are decent, some users feel the performance is limited with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia x60 pro 5g": {
+    "description": "The Nokia X60 Pro 5G boasts an impressive 200MP rear camera, 8GB RAM, and a 6000mAh battery, designed for high-end photography and longevity.",
+    "review_summary": "With a remarkable camera and large battery, users are eager for more details, as the rating is currently unavailable.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 10": {
+    "description": "The OPPO Reno 10 features a 6.73-inch display, 8GB RAM, and a powerful 120W fast charging capability.",
+    "review_summary": "Owners appreciate the impressive 50MP rear camera and 256GB storage, contributing to a solid overall experience.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi k60 gaming edition": {
+    "description": "The Xiaomi Redmi K60 Gaming Edition boasts a 6.73-inch screen, 8GB RAM, and 67W fast charging, ideal for gaming enthusiasts.",
+    "review_summary": "Users praise its 50MP rear camera and robust performance, making it a strong choice for gamers.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m32 prime edition (6gb ram + 128gb)": {
+    "description": "The Samsung Galaxy M32 Prime Edition offers a 6.4-inch display, 6GB RAM, and a long-lasting 6000mAh battery.",
+    "review_summary": "While the 64MP rear camera is a highlight, some users note performance could be better for demanding tasks.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 7 (12gb ram + 256gb)": {
+    "description": "The iQOO 7 features a 6.62-inch display, 12GB RAM, and 66W fast charging, delivering high performance for multitasking.",
+    "review_summary": "Users love the 48MP rear camera and ample RAM, making it a great option for power users.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12t 5g": {
+    "description": "The Xiaomi Redmi Note 12T 5G comes with a 6.52-inch display, 6GB RAM, and a 64MP rear camera for impressive photography.",
+    "review_summary": "While the camera is well-received, some users feel the performance may not meet higher expectations.",
+    "generated": true
+  },
+  "smartphone|jio|jio jiophone next": {
+    "description": "The Jio JioPhone Next is a budget-friendly option with a 5.45-inch display, 2GB RAM, and a 3500mAh battery.",
+    "review_summary": "Though affordable, users find its performance limited, especially with only 2GB RAM.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 12 pro": {
+    "description": "The Infinix Hot 12 Pro features a 6.6-inch display, 6GB RAM, and a 50MP rear camera for decent photography.",
+    "review_summary": "While the camera is appreciated, some users mention that performance could be improved for everyday tasks.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m35": {
+    "description": "The Samsung Galaxy M35 offers an expansive 6.5-inch display, 8GB RAM, and a 6000mAh battery for extended use.",
+    "review_summary": "Users enjoy the 64MP rear camera, but some express concerns about the lack of fast charging options.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t2 5g": {
+    "description": "The vivo Vivo T2 5G features a 6.62-inch display, 8GB RAM, and a powerful 64MP rear camera, making it a solid choice for performance and photography.",
+    "review_summary": "Owners appreciate the fast 80W charging and 4700mAh battery, contributing to a positive experience overall.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a34 5g": {
+    "description": "The Samsung Galaxy A34 5G offers a 6.5-inch screen, 6GB RAM, and a 48MP rear camera, balancing performance and affordability.",
+    "review_summary": "While generally well-received, some users note the 75 rating reflects average performance, despite the decent 5000mAh battery.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 11 pro": {
+    "description": "The OnePlus 11 Pro boasts an impressive 6.7-inch display, 8GB RAM, and 100W fast charging, designed for high-end performance.",
+    "review_summary": "Feedback is currently unavailable for this model.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 pro max (256gb)": {
+    "description": "The Apple iPhone 13 Pro Max features a 6.7-inch display, 6GB RAM, and a dual 12MP camera system, delivering premium performance and photography.",
+    "review_summary": "Users love the 256GB storage and overall performance, reflected in its strong 84 rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi mix fold 2 5g": {
+    "description": "The Xiaomi Mix Fold 2 5G features a large 8.02-inch display, 12GB RAM, and a 50MP rear camera, ideal for multitasking and media consumption.",
+    "review_summary": "Feedback is currently unavailable for this model.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y21t": {
+    "description": "The vivo Y21T offers a 6.51-inch display, 4GB RAM, and a 50MP rear camera, providing a budget-friendly option for everyday use.",
+    "review_summary": "While it has a decent 5000mAh battery, the 74 rating suggests some users find it lacking in performance.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei mate 40 pro 4g": {
+    "description": "The Huawei Mate 40 Pro 4G features a 6.76-inch display, 8GB RAM, and a 50MP rear camera, designed for high performance and photography.",
+    "review_summary": "Feedback is currently unavailable for this model.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10s (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 10S features a 6.43-inch display, 6GB RAM, and a 64MP rear camera, offering good value for budget-conscious users.",
+    "review_summary": "Users appreciate the solid performance and 5000mAh battery, reflected in its favorable 79 rating.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f23 pro plus 5g": {
+    "description": "The OPPO F23 Pro Plus 5G features a 6.43-inch display, 8GB RAM, and a powerful 4500mAh battery with 65W fast charging.",
+    "review_summary": "Owners appreciate the strong performance with 8GB RAM and impressive camera quality, rating it 83 out of 100.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia c01 plus": {
+    "description": "The Nokia C01 Plus is an affordable smartphone with a 5.45-inch screen, 2GB RAM, and a 3000mAh battery.",
+    "review_summary": "While budget-friendly, some users find the 2GB RAM and 5MP camera limiting for daily tasks.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo s16 pro": {
+    "description": "The Vivo S16 Pro boasts a 6.78-inch display, 8GB RAM, and a 4600mAh battery with 66W fast charging for a premium experience.",
+    "review_summary": "Users love the high-quality 50MP cameras and ample storage, reflected in its strong 86 rating.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 9 pro 5g": {
+    "description": "The OPPO Reno 9 Pro 5G features a sleek 6.7-inch display, 16GB RAM, and a 4500mAh battery with 67W fast charging.",
+    "review_summary": "With 16GB RAM and a 32MP front camera, users are highly satisfied, giving it an 86 rating.",
+    "generated": true
+  },
+  "smartphone|lava|lava blaze 5g": {
+    "description": "The Lava Blaze 5G offers a 6.5-inch display, 4GB RAM, and a robust 5000mAh battery, making it a solid mid-range option.",
+    "review_summary": "While generally positive, some users note that performance could be better, reflected in its 73 rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s21": {
+    "description": "The Samsung Galaxy S21 features a 6.2-inch display, 8GB RAM, and a 4000mAh battery with 25W fast charging for a premium experience.",
+    "review_summary": "Users praise the 64MP camera and overall performance, leading to an impressive 88 rating.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola edge 30 ultra (12gb ram + 256gb)": {
+    "description": "The Motorola Edge 30 Ultra comes with a stunning 6.67-inch display, 12GB RAM, and a remarkable 200MP rear camera.",
+    "review_summary": "Details on user feedback are unavailable, but its high specs suggest strong performance.",
+    "generated": true
+  },
+  "smartphone|realme|realme c25y (4gb ram + 64gb)": {
+    "description": "The Realme C25Y features a 6.5-inch display, 4GB RAM, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "With a 69 rating, users find it decent but note that performance may not meet higher expectations.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 9 (4gb ram + 64gb)": {
+    "description": "The Tecno Spark 9 features a 6.6-inch screen, 4GB RAM, and a 5000mAh battery, making it a budget-friendly option for basic smartphone needs.",
+    "review_summary": "Owners appreciate the large battery and decent storage, though some note the performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a52 (8gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A52 offers an impressive 64MP rear camera, 8GB RAM, and 128GB storage, delivering a well-rounded performance for its price.",
+    "review_summary": "Users love the camera quality and smooth performance, rating it highly for its 25W fast charging and overall value.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 5": {
+    "description": "The Oppo Reno 5 boasts a sleek design with a 6.43-inch screen, 64MP rear camera, and 65W fast charging for quick power-ups.",
+    "review_summary": "Customers enjoy the fast charging and camera capabilities, contributing to its strong overall rating.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 12 (256gb)": {
+    "description": "The Apple iPhone 12 features a 6.1-inch display, 256GB storage, and dual 12MP cameras, offering a premium experience in a compact design.",
+    "review_summary": "Users appreciate the storage and camera quality, though some feel the price is a bit high for the specs.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 12 pro": {
+    "description": "The Infinix Note 12 Pro stands out with a 108MP rear camera, 8GB RAM, and a large 256GB storage capacity, ideal for photography enthusiasts.",
+    "review_summary": "Owners praise the camera performance and ample storage, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a74 5g": {
+    "description": "The Samsung Galaxy A74 5G features a powerful 108MP rear camera, 8GB RAM, and a 5000mAh battery, designed for high-performance users.",
+    "review_summary": "Feedback is pending, but the specs suggest it will be a strong performer with excellent camera capabilities.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno pop 5 go": {
+    "description": "The Tecno Pop 5 Go is an entry-level smartphone with a 6.1-inch screen, 1GB RAM, and a 4000mAh battery, suitable for basic tasks.",
+    "review_summary": "Feedback is pending, but the low RAM may limit performance for more demanding applications.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a12": {
+    "description": "The Samsung Galaxy A12 features a 6.5-inch display, 48MP rear camera, and 5000mAh battery, providing solid performance for everyday use.",
+    "review_summary": "Users appreciate the battery life and camera quality, though some mention it could be faster with 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno phantom x": {
+    "description": "The Tecno Phantom X features a stunning 6.7-inch display, 8GB RAM, and a powerful 50MP rear camera, making it a great choice for photography enthusiasts.",
+    "review_summary": "Owners appreciate the impressive 50MP camera and 256GB storage, though some note the battery life could be better.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a73 5g (8gb ram + 256gb)": {
+    "description": "The Samsung Galaxy A73 5G boasts a large 108MP rear camera and a 5000mAh battery, perfect for users seeking high-quality photography and long-lasting performance.",
+    "review_summary": "Feedback highlights the exceptional camera quality and ample storage, but the lack of a rating may raise some concerns.",
+    "generated": true
+  },
+  "smartphone|realme|realme x50 pro 5g (8gb ram + 128gb)": {
+    "description": "The Realme X50 Pro 5G offers a vibrant 6.44-inch display, 64MP rear camera, and rapid 65W fast charging for a premium user experience.",
+    "review_summary": "Users love the fast charging and solid camera performance, making it a popular choice among mid-range smartphones.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 10r prime edition": {
+    "description": "The OnePlus 10R Prime Edition features an impressive 80W fast charging capability and a 5000mAh battery, ensuring you stay powered throughout the day.",
+    "review_summary": "Owners praise the fast charging and overall performance, making it a reliable option for daily use.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia 5 ii": {
+    "description": "The Sony Xperia 5 II combines a compact 6.1-inch display with a versatile 12MP camera system, ideal for photography and multimedia consumption.",
+    "review_summary": "Users appreciate the camera quality and compact design, though some feel the price is on the higher side.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo x fold 2": {
+    "description": "The Vivo X Fold 2 features a large 8.03-inch display and 12GB RAM, designed for users who demand high performance and multitasking capabilities.",
+    "review_summary": "The advanced specs and large screen are impressive, but the lack of a rating may leave potential buyers uncertain.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y35 5g": {
+    "description": "The Vivo Y35 5G is an affordable option with a 5000mAh battery and 4GB RAM, suitable for everyday tasks and basic usage.",
+    "review_summary": "While the battery life is commendable, some users note the performance may lag with only 4GB of RAM.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a22 5g": {
+    "description": "The Samsung Galaxy A22 5G features a 48MP rear camera and a 5000mAh battery, offering a solid balance of performance and value.",
+    "review_summary": "Users appreciate the camera and battery life, but some express concerns about the overall performance at this price point.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 11": {
+    "description": "The Apple iPhone 11 features a 6.1-inch display, dual 12MP rear cameras, and a 3110mAh battery with fast charging support.",
+    "review_summary": "Owners appreciate the dual-camera system and iOS experience, though some note the battery life could be better.",
+    "generated": true
+  },
+  "smartphone|poco|poco x5 pro": {
+    "description": "The Poco X5 Pro boasts a 6.67-inch screen, a powerful 108MP rear camera, and a large 5000mAh battery with 67W fast charging.",
+    "review_summary": "Users love the impressive camera quality and battery life, making it a strong choice for its price.",
+    "generated": true
+  },
+  "smartphone|poco|poco c50 (3gb ram + 32gb)": {
+    "description": "The Poco C50 features a 6.52-inch display, 8MP rear camera, and a 5000mAh battery, ideal for basic smartphone needs.",
+    "review_summary": "While budget-friendly, some users find performance lacking with only 3GB of RAM.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia n73 5g": {
+    "description": "The Nokia N73 5G offers a massive 12GB RAM, 256GB storage, and a stunning 200MP rear camera, perfect for photography enthusiasts.",
+    "review_summary": "This phone is highly anticipated for its specs, promising exceptional performance and camera capabilities.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo x fold 5g (12gb ram + 512gb)": {
+    "description": "The Vivo X Fold 5G features a large 8.03-inch display, 12GB RAM, and 512GB storage, designed for multitasking and media consumption.",
+    "review_summary": "With its premium specs, this foldable phone is expected to impress, though user feedback is yet to be gathered.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a9 pro (2019)": {
+    "description": "The Samsung Galaxy A9 Pro (2019) includes a 6.4-inch screen, 24MP rear camera, and 128GB storage, balancing performance and style.",
+    "review_summary": "Users enjoy the camera quality and storage, but some feel the battery life could be improved.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 8 z": {
+    "description": "The OPPO Reno 8 Z features an 8GB RAM, 256GB storage, and a 64MP rear camera, offering a solid performance for everyday use.",
+    "review_summary": "Owners praise its camera and overall performance, making it a great mid-range option.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 10t (16gb ram + 256gb)": {
+    "description": "The OnePlus 10T comes with a 6.7-inch display, 16GB RAM, and 150W fast charging, designed for high performance and speed.",
+    "review_summary": "Users are thrilled with its fast charging and performance, making it a top choice for power users.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a01 core": {
+    "description": "The Samsung Galaxy A01 Core features a compact 5.3-inch screen, 1GB RAM, and a 3000mAh battery, making it a budget-friendly option for basic tasks.",
+    "review_summary": "Owners appreciate its affordability and decent battery life, though performance may be limited with only 1GB of RAM.",
+    "generated": true
+  },
+  "smartphone|poco|poco m4 pro 5g (8gb ram + 128gb)": {
+    "description": "The Poco M4 Pro 5G boasts 8GB RAM, 128GB storage, and a powerful 50MP rear camera, delivering excellent performance for its price.",
+    "review_summary": "Users praise its fast performance and impressive camera quality, making it a strong choice for mid-range smartphones.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 10r 5g (12gb ram + 256gb)": {
+    "description": "The OnePlus 10R 5G offers a robust 12GB RAM, 256GB storage, and 80W fast charging, ensuring top-tier performance and efficiency.",
+    "review_summary": "Highly rated for its speed and camera capabilities, users find it an excellent flagship option in the Android market.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 9 pro (4gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 9 Pro features 4GB RAM, 128GB storage, and a 48MP camera, providing solid performance and versatility.",
+    "review_summary": "While generally well-received, some users note that it could benefit from faster charging options despite its good battery life.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f22 pro": {
+    "description": "The OPPO F22 Pro comes with 8GB RAM, 128GB storage, and a 64MP rear camera, offering a premium experience at a competitive price.",
+    "review_summary": "Users enjoy its high-quality camera and fast charging, making it a popular choice among mid-range smartphones.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a04 (4gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A04 features 4GB RAM, 128GB storage, and a 50MP rear camera, providing a balanced performance for everyday use.",
+    "review_summary": "While it offers good storage and camera quality, some users feel its performance could be improved for a better experience.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 12 mini (256gb)": {
+    "description": "The Apple iPhone 12 Mini features 256GB storage and a dual 12MP camera setup, delivering a compact yet powerful iOS experience.",
+    "review_summary": "Users appreciate its compact design and camera quality, though some find the battery life less impressive for heavy use.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9 5g": {
+    "description": "The Realme 9 5G offers 4GB RAM, 64GB storage, and a 48MP camera, making it a solid choice for budget-conscious users seeking 5G connectivity.",
+    "review_summary": "While generally positive, some users mention that storage could be limited for heavy app users despite its good performance.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a76": {
+    "description": "The OPPO A76 features a 6.56-inch display, 6GB RAM, and a 5000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the 5000mAh battery and 128GB storage, though some note the performance could be better.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1x (6gb ram + 128gb)": {
+    "description": "The Vivo T1x offers a 6.58-inch screen, 50MP rear camera, and 5000mAh battery, providing excellent value for photography enthusiasts.",
+    "review_summary": "Users are pleased with the 50MP camera and 128GB storage, highlighting its strong performance for the price.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 (256gb)": {
+    "description": "The Apple iPhone 13 features a 6.1-inch display, 256GB storage, and dual 12MP cameras, delivering a premium smartphone experience.",
+    "review_summary": "Owners love the camera quality and storage capacity, making it a highly rated choice among users.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 20s": {
+    "description": "The Infinix Hot 20S boasts an 8GB RAM, 50MP rear camera, and a large 6.78-inch display, ideal for multitasking and media consumption.",
+    "review_summary": "Users enjoy the ample RAM and camera quality, though some mention the charging speed could be improved.",
+    "generated": true
+  },
+  "smartphone|tcl|tcl ion x": {
+    "description": "The TCL Ion X features a compact 6.0-inch display, 3GB RAM, and a 3000mAh battery, suitable for basic smartphone tasks.",
+    "review_summary": "While some appreciate its affordability, the limited RAM and storage may not meet everyone's needs.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f19": {
+    "description": "The OPPO F19 offers a 6.4-inch display, 48MP rear camera, and 5000mAh battery, making it a versatile option for users.",
+    "review_summary": "Users commend the camera quality and battery life, contributing to its positive reception overall.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a14 5g": {
+    "description": "The Samsung Galaxy A14 5G features a 6.6-inch display, 50MP rear camera, and 5000mAh battery, providing a reliable smartphone experience.",
+    "review_summary": "Owners appreciate the camera and battery life, although some feel the performance could be enhanced.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 pro max 5g": {
+    "description": "The Xiaomi Redmi Note 11 Pro Max 5G features a stunning 6.67-inch display, 108MP rear camera, and a robust 5200mAh battery.",
+    "review_summary": "Users rave about the exceptional camera and battery performance, making it a top choice for many.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy note 10 plus 5g": {
+    "description": "The Samsung Galaxy Note 10 Plus 5G features a 6.8-inch display, 12GB RAM, and a powerful 4300mAh battery, making it ideal for productivity and entertainment.",
+    "review_summary": "Owners appreciate the impressive 12GB RAM and 4300mAh battery, contributing to a high satisfaction rating of 89.",
+    "generated": true
+  },
+  "smartphone|oukitel|oukitel wp9": {
+    "description": "The Oukitel WP9 is a rugged smartphone with an 8000mAh battery and 6GB RAM, designed for durability and extended usage.",
+    "review_summary": "While the 8000mAh battery is a standout feature, some users note performance limitations, reflected in its 72 rating.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno pova 5g": {
+    "description": "The Tecno Pova 5G offers a large 6.9-inch screen, 50MP rear camera, and 6000mAh battery, catering to multimedia enthusiasts.",
+    "review_summary": "Users enjoy the impressive 50MP camera and 6000mAh battery, leading to a solid 78 rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 pro (8gb ram + 256gb)": {
+    "description": "The Xiaomi Redmi Note 12 Pro features a 6.67-inch display, 50MP camera, and fast 67W charging, balancing performance and value.",
+    "review_summary": "With a strong 50MP camera and 67W fast charging, users are generally pleased, reflected in its 82 rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi civi 3": {
+    "description": "The Xiaomi Civi 3 boasts a sleek design with a 6.7-inch screen, 64MP rear camera, and 80W fast charging for a premium experience.",
+    "review_summary": "Users love the 64MP camera and 80W charging speed, contributing to a favorable 86 rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f23 5g (6gb ram + 128gb)": {
+    "description": "The Samsung Galaxy F23 5G features a 6.6-inch display, 50MP camera, and a reliable 5000mAh battery, making it a solid mid-range option.",
+    "review_summary": "The 50MP camera and decent battery life earn it a respectable 80 rating, though some seek more advanced features.",
+    "generated": true
+  },
+  "smartphone|realme|realme 10": {
+    "description": "The Realme 10 is an affordable smartphone with a 6.4-inch display, 50MP camera, and 5000mAh battery, suitable for everyday use.",
+    "review_summary": "While the 50MP camera is appreciated, some users find performance lacking, reflected in its 74 rating.",
+    "generated": true
+  },
+  "smartphone|realme|realme gt master edition 5g": {
+    "description": "The Realme GT Master Edition 5G features a 6.43-inch display, 64MP camera, and 65W fast charging, appealing to performance-oriented users.",
+    "review_summary": "Users praise the 64MP camera and fast charging, leading to a positive 84 rating overall.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a92 5g": {
+    "description": "The Samsung Galaxy A92 5G features a 6.7-inch screen, 8GB RAM, and a versatile 48MP rear camera, making it a solid mid-range option.",
+    "review_summary": "Owners appreciate the 5000mAh battery and 128GB storage, though some note it could use more advanced camera features.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 8c (4gb ram + 64gb)": {
+    "description": "The Tecno Spark 8C offers a budget-friendly experience with 4GB RAM, 64GB storage, and a 13MP rear camera in a 6.6-inch display.",
+    "review_summary": "While users find the 5000mAh battery impressive, the overall performance is limited, reflected in its lower rating.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo u3 (6gb ram + 64gb)": {
+    "description": "The Vivo U3 combines a 6.53-inch display with 6GB RAM and a 16MP rear camera, providing decent performance for everyday tasks.",
+    "review_summary": "Users enjoy the 5000mAh battery and 64GB storage, but some feel it lacks standout features compared to competitors.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 11 5g": {
+    "description": "The iQOO 11 5G boasts a powerful 6.78-inch display, 8GB RAM, and a 50MP rear camera, along with ultra-fast 120W charging.",
+    "review_summary": "Highly rated for its performance and camera quality, users love the 5000mAh battery and fast charging capabilities.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 11 pro max": {
+    "description": "The Apple iPhone 11 Pro Max features a 6.5-inch display, 4GB RAM, and a 12MP rear camera, delivering a premium iOS experience.",
+    "review_summary": "While users appreciate the build quality and camera, some feel the battery life could be better for its price.",
+    "generated": true
+  },
+  "smartphone|poco|poco m4 5g": {
+    "description": "The Poco M4 5G offers a 6.58-inch display, 4GB RAM, and a 50MP rear camera, making it a competitive budget smartphone.",
+    "review_summary": "Users like the 5000mAh battery and camera performance, but some mention it could be faster in processing tasks.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a1 pro": {
+    "description": "The OPPO A1 Pro features a 6.7-inch display, 8GB RAM, and an impressive 108MP rear camera, ideal for photography enthusiasts.",
+    "review_summary": "Owners praise the camera quality and fast 67W charging, though the battery capacity is slightly lower at 4800mAh.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s22 ultra 5g (8gb ram + 128gb)": {
+    "description": "The Samsung Galaxy S22 Ultra 5G is a flagship device with an 8GB RAM, 108MP rear camera, and a stunning 6.8-inch display.",
+    "review_summary": "Users rave about its camera and performance, but the lack of a rating suggests uncertainty in overall satisfaction.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a21s (6gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A21s features a 6.5-inch screen, 6GB RAM, and a 48MP rear camera, making it a solid mid-range smartphone.",
+    "review_summary": "Owners appreciate the 5000mAh battery and 128GB storage, though some note performance could be better.",
+    "generated": true
+  },
+  "smartphone|realme|realme c2": {
+    "description": "The Realme C2 is an affordable smartphone with a 6.1-inch screen, 2GB RAM, and a 13MP rear camera, ideal for basic tasks.",
+    "review_summary": "Users find it suitable for light use, but the limited 2GB RAM may hinder multitasking.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 12 vip": {
+    "description": "The Infinix Note 12 VIP boasts an impressive 108MP rear camera, 8GB RAM, and 120W fast charging, perfect for photography enthusiasts.",
+    "review_summary": "Highly rated for its camera quality and fast charging, users love the performance and features.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y15c (3gb ram + 64gb)": {
+    "description": "The Vivo Y15C offers a 6.51-inch display, 3GB RAM, and a 13MP rear camera, catering to budget-conscious users.",
+    "review_summary": "While it has a decent battery, some users feel the 3GB RAM limits its overall performance.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s20 fe 5g": {
+    "description": "The Samsung Galaxy S20 FE 5G features a 6.5-inch screen, 8GB RAM, and a versatile 12MP rear camera, delivering flagship performance.",
+    "review_summary": "Users rave about its excellent performance and camera quality, making it a top choice in its price range.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m13 5g": {
+    "description": "The Samsung Galaxy M13 5G includes a 6.5-inch display, 6GB RAM, and a 50MP rear camera, offering good value for its price.",
+    "review_summary": "Owners appreciate the 5000mAh battery and 128GB storage, though some mention the camera could be improved.",
+    "generated": true
+  },
+  "smartphone|realme|realme 10 pro": {
+    "description": "The Realme 10 Pro features a 6.72-inch screen, 6GB RAM, and a stunning 108MP rear camera, ideal for media consumption and photography.",
+    "review_summary": "Users are impressed with its camera and battery life, making it a strong contender in its category.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v25e": {
+    "description": "The Vivo V25e offers an 8GB RAM, 256GB storage, and a 64MP rear camera, providing ample power and storage for users.",
+    "review_summary": "Highly rated for its performance and camera capabilities, users enjoy the fast charging feature as well.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo x80 5g": {
+    "description": "The vivo X80 5G features a 6.78-inch display, 8GB RAM, and a powerful 50MP rear camera, making it a strong contender in the smartphone market.",
+    "review_summary": "Owners appreciate the impressive 80W fast charging and 4500mAh battery, contributing to a positive experience.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9 5g se": {
+    "description": "The realme 9 5G SE offers a 6.6-inch screen, 48MP rear camera, and a robust 5000mAh battery at an affordable price.",
+    "review_summary": "Users find value in its 128GB storage and decent performance, though some note it lacks premium features.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 12 mini (128gb)": {
+    "description": "The Apple iPhone 12 Mini features a compact 5.4-inch display, 128GB storage, and dual 12MP cameras, ideal for users seeking portability.",
+    "review_summary": "While many enjoy its size and camera quality, some users feel the 4GB RAM limits multitasking capabilities.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 50i": {
+    "description": "The realme Narzo 50i is an entry-level phone with a 6.5-inch display, 5000mAh battery, and basic 8MP rear camera.",
+    "review_summary": "Users appreciate its low price, but performance may be limited due to only 2GB RAM.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo k10 (8gb ram + 128gb)": {
+    "description": "The OPPO K10 features a 6.59-inch display, 50MP rear camera, and 8GB RAM, providing solid performance for everyday tasks.",
+    "review_summary": "Owners enjoy the good battery life and fast charging, though some desire more advanced features.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei nova 10 se": {
+    "description": "The Huawei Nova 10 SE boasts a 6.67-inch display, 108MP rear camera, and 256GB storage, catering to photography enthusiasts.",
+    "review_summary": "Users praise its camera quality and ample storage, making it a strong choice for media consumption.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g73": {
+    "description": "The Motorola Moto G73 features a 6.5-inch display, 50MP rear camera, and 256GB storage, balancing performance and value.",
+    "review_summary": "Owners appreciate the solid battery life and performance, though some mention it could use faster charging.",
+    "generated": true
+  },
+  "smartphone|tesla|tesla pi phone": {
+    "description": "The Tesla Pi Phone offers a large 6.73-inch display, 16GB RAM, and 512GB storage, designed for high-performance users.",
+    "review_summary": "Users are impressed with its fast charging and overall performance, though the price may be a concern for some.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo x90 pro 5g": {
+    "description": "The vivo X90 Pro 5G features a 6.78-inch display, 50.3MP rear camera, and 120W fast charging for a premium smartphone experience.",
+    "review_summary": "Owners appreciate the impressive 120W fast charging and 4870mAh battery, though some note the price is on the higher side.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno phantom x2 pro": {
+    "description": "The Tecno Phantom X2 Pro boasts a 6.8-inch screen, 12GB RAM, and a 50MP rear camera, making it a powerful device for multitasking.",
+    "review_summary": "With a strong rating of 89, users love the 12GB RAM and 5160mAh battery, highlighting its performance and longevity.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix zero x pro": {
+    "description": "The Infinix Zero X Pro features a stunning 108MP rear camera and 4500mAh battery, perfect for photography enthusiasts.",
+    "review_summary": "Users are impressed with the 108MP camera and 8GB RAM, though some mention the battery could be larger.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f42 5g": {
+    "description": "The Samsung Galaxy F42 5G offers a 6.6-inch display, 64MP rear camera, and a solid 5000mAh battery for everyday use.",
+    "review_summary": "At an 80 rating, users appreciate the 64MP camera and decent battery life, but some feel it lacks premium features.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus nord ce 3 lite 5g": {
+    "description": "The OnePlus Nord CE 3 Lite 5G features a 6.59-inch display, 50MP rear camera, and 5000mAh battery, balancing performance and affordability.",
+    "review_summary": "With an 81 rating, users enjoy the 50MP camera and 5000mAh battery, though some desire faster charging options.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s20 ultra 5g": {
+    "description": "The Samsung Galaxy S20 Ultra 5G is a flagship device with a 6.9-inch display, 108MP rear camera, and 12GB RAM for top-tier performance.",
+    "review_summary": "Owners rave about the exceptional camera and 12GB RAM, but the high price is a common concern.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a14 5g (8gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A14 5G features an 8GB RAM, 50MP rear camera, and a 6.6-inch display, offering solid performance at a budget-friendly price.",
+    "review_summary": "With an 82 rating, users appreciate the good camera and battery life, though some wish for faster charging.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno camon 19 pro mondrian edition": {
+    "description": "The Tecno Camon 19 Pro Mondrian Edition features a vibrant 6.8-inch display, 64MP rear camera, and 5000mAh battery for a stylish experience.",
+    "review_summary": "At an 84 rating, users enjoy the unique design and camera quality, but some mention performance could be improved.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia l5 5g": {
+    "description": "The Sony Xperia L5 5G features a 6.2-inch display, 4GB RAM, and a 4000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the decent performance with 4GB RAM, though some note the 73 rating suggests room for improvement.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 9t 5g": {
+    "description": "The iQOO 9T 5G boasts a powerful 50MP rear camera, 8GB RAM, and 120W fast charging, delivering exceptional performance and speed.",
+    "review_summary": "Users rave about the impressive 120W fast charging and 8GB RAM, contributing to its high 85 rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 explorer": {
+    "description": "The Xiaomi Redmi Note 12 Explorer features a stunning 200MP rear camera, 8GB RAM, and 120W fast charging for an outstanding photography experience.",
+    "review_summary": "With an impressive 89 rating, users love the 200MP camera and fast charging capabilities.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9 5g se (8gb ram + 128gb)": {
+    "description": "The Realme 9 5G SE offers 8GB RAM, a 48MP rear camera, and a 5000mAh battery, providing a balanced performance for its price.",
+    "review_summary": "Owners appreciate the solid performance and battery life, reflected in its 82 rating.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9 5g (6gb ram + 128gb)": {
+    "description": "The Realme 9 5G features 6GB RAM, a 48MP rear camera, and a 5000mAh battery, making it a reliable option for budget-conscious users.",
+    "review_summary": "While the 79 rating indicates good value, some users mention the need for faster charging options.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei mate xs 2": {
+    "description": "The Huawei Mate Xs 2 is a premium foldable phone with 8GB RAM, a 50MP rear camera, and 512GB storage, designed for high-end users.",
+    "review_summary": "With an 89 rating, users are impressed by its performance and storage capacity.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 8 pro (8gb ram + 256gb)": {
+    "description": "The Oppo Reno 8 Pro features a 50MP rear camera, 8GB RAM, and 80W fast charging, offering a blend of performance and style.",
+    "review_summary": "Users enjoy the fast charging and camera quality, contributing to its strong 85 rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy z fold 4 (12gb ram + 1tb)": {
+    "description": "The Samsung Galaxy Z Fold 4 is a high-end device with 12GB RAM, 1TB storage, and a 7.6-inch display, perfect for multitasking.",
+    "review_summary": "While the rating is currently unavailable, its premium specs suggest it will appeal to power users.",
+    "generated": true
+  },
+  "smartphone|realme|realme gt neo 3t": {
+    "description": "The realme GT Neo 3T features a 6.62-inch display, 6GB RAM, and a powerful 5000mAh battery with 80W fast charging.",
+    "review_summary": "Owners appreciate the solid performance and 64MP rear camera, though some note the price could be more competitive.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus ace 5g": {
+    "description": "The OnePlus Ace 5G boasts an impressive 6.7-inch screen, 8GB RAM, and lightning-fast 150W charging for quick power-ups.",
+    "review_summary": "Users love the 50MP camera and fast charging capabilities, making it a strong choice for performance enthusiasts.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 plus (256gb)": {
+    "description": "The Apple iPhone 14 Plus features a 6.7-inch display, 256GB storage, and dual 12MP cameras for high-quality photography.",
+    "review_summary": "Owners praise its camera quality and overall performance, though the price is on the higher side.",
+    "generated": true
+  },
+  "smartphone|realme|realme gt neo 4t": {
+    "description": "The realme GT Neo 4T offers a 6.73-inch display, 8GB RAM, and 120W fast charging, ensuring quick power replenishment.",
+    "review_summary": "Users enjoy the 50MP camera and robust battery life, making it a reliable option for daily use.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei mate 50 rs porsche design": {
+    "description": "The Huawei Mate 50 RS Porsche Design features a luxurious design, 12GB RAM, and 512GB storage, perfect for power users.",
+    "review_summary": "Owners appreciate its premium build and performance, though the high price may deter some buyers.",
+    "generated": true
+  },
+  "smartphone|poco|poco x3": {
+    "description": "The Poco X3 comes with a 6.67-inch display, 6GB RAM, and a massive 6000mAh battery for extended usage.",
+    "review_summary": "Users are impressed by the 64MP camera and battery life, but some mention it feels bulky.",
+    "generated": true
+  },
+  "smartphone|poco|poco m4 pro 4g (6gb ram + 128gb)": {
+    "description": "The POCO M4 Pro 4G features a 6.43-inch display, 6GB RAM, and a reliable 5000mAh battery for everyday tasks.",
+    "review_summary": "Owners find value in its performance and camera quality, although some wish for faster charging.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix hot 12 pro (8gb ram+ 128gb)": {
+    "description": "The Infinix Hot 12 Pro offers an 8GB RAM configuration, 128GB storage, and a 5000mAh battery for solid performance.",
+    "review_summary": "Users appreciate the 50MP camera and decent battery life, but some note the charging speed could be improved.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y01a": {
+    "description": "The vivo Y01A features a 6.51-inch screen, 2GB RAM, and a 5000mAh battery, making it a budget-friendly option for basic tasks.",
+    "review_summary": "Owners appreciate the long-lasting 5000mAh battery, though performance may lag with only 2GB RAM.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11t pro 5g": {
+    "description": "The Xiaomi Redmi Note 11T Pro 5G boasts a 6.6-inch display, 6GB RAM, and a powerful 64MP rear camera, ideal for photography enthusiasts.",
+    "review_summary": "Users love the impressive 64MP camera and fast 67W charging, making it a solid choice for its price.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 pro plus": {
+    "description": "The Xiaomi Redmi Note 12 Pro Plus features a stunning 200MP rear camera, 8GB RAM, and 120W fast charging for an exceptional smartphone experience.",
+    "review_summary": "Highly rated for its outstanding camera and rapid charging, this phone is a favorite among users seeking top performance.",
+    "generated": true
+  },
+  "smartphone|realme|realme c30": {
+    "description": "The Realme C30 offers a 6.5-inch display, 2GB RAM, and a 5000mAh battery, catering to users looking for an affordable smartphone.",
+    "review_summary": "While the 5000mAh battery is appreciated, the lack of performance with only 2GB RAM may be a concern for some users.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10c (4gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi 10C features a 6.7-inch screen, 4GB RAM, and a 6000mAh battery, providing a good balance of performance and longevity.",
+    "review_summary": "Users enjoy the long-lasting 6000mAh battery and decent 50MP camera, making it a reliable mid-range option.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei nova y61": {
+    "description": "The Huawei Nova Y61 comes with a 6.52-inch display, 4GB RAM, and a 50MP rear camera, offering a solid experience for everyday use.",
+    "review_summary": "While the 50MP camera is a highlight, some users note that the performance could be better given the 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|realme|realme 8 5g": {
+    "description": "The Realme 8 5G features a 6.5-inch screen, 4GB RAM, and a 48MP rear camera, making it a competitive choice in the mid-range market.",
+    "review_summary": "Users appreciate the 48MP camera and decent performance, though some desire more power from the 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|nubia|nubia red magic 6s 5g": {
+    "description": "The Nubia Red Magic 6S 5G offers a 6.8-inch display, 8GB RAM, and a 64MP rear camera, designed for gaming and high-performance tasks.",
+    "review_summary": "With its strong performance and 64MP camera, users find it an excellent choice for gaming and multimedia.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia 10 iii lite 5g": {
+    "description": "The Sony Xperia 10 III Lite 5G features a 6-inch display, 6GB RAM, and a 4500mAh battery with 30W fast charging.",
+    "review_summary": "Owners appreciate the solid performance with 6GB RAM and decent battery life, though some find it lacks advanced features.",
+    "generated": true
+  },
+  "smartphone|leitz|leitz phone 2": {
+    "description": "The Leitz Phone 2 boasts a 6.6-inch screen, 12GB RAM, and a powerful 47.2MP rear camera, making it a premium choice.",
+    "review_summary": "Users rave about its impressive camera and ample storage, highlighting the 12GB RAM as a standout feature.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y12g (3gb ram + 64gb)": {
+    "description": "The Vivo Y12G features a 6.51-inch display, 3GB RAM, and a 5000mAh battery, offering basic functionality at an affordable price.",
+    "review_summary": "While some users find it budget-friendly, the 3GB RAM may limit performance for heavy multitasking.",
+    "generated": true
+  },
+  "smartphone|honor|honor 50": {
+    "description": "The Honor 50 comes with a 6.57-inch display, 6GB RAM, and a remarkable 108MP rear camera, perfect for photography enthusiasts.",
+    "review_summary": "Users are impressed with the camera quality and fast 66W charging, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y55 4g": {
+    "description": "The Vivo Y55 4G features an 8GB RAM, 128GB storage, and a 50MP rear camera, delivering solid performance and photography capabilities.",
+    "review_summary": "Owners appreciate the good balance of performance and camera quality, with 8GB RAM being a notable advantage.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a13 5g": {
+    "description": "The Samsung Galaxy A13 5G offers a 6.5-inch display, 4GB RAM, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "While it provides decent features for the price, some users note that the 4GB RAM may not suffice for demanding tasks.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus nord 4 5g": {
+    "description": "The OnePlus Nord 4 5G features an 8GB RAM, 128GB storage, and 80W fast charging, making it a powerful mid-range option.",
+    "review_summary": "Users commend its fast charging and performance, with the 32MP front camera being a highlight for selfies.",
+    "generated": true
+  },
+  "smartphone|nubia|nubia z40 pro 5g": {
+    "description": "The Nubia Z40 Pro 5G features an 8GB RAM, 128GB storage, and a 64MP rear camera, offering a premium experience.",
+    "review_summary": "Owners appreciate its performance and fast charging capabilities, with the camera quality receiving positive feedback.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g31 (6gb ram+ 128gb)": {
+    "description": "The Motorola Moto G31 features a 6.47-inch display, 6GB RAM, and a 50MP rear camera, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the 5000mAh battery and 20W fast charging, though some note performance could be better.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi k50 ultra 5g": {
+    "description": "The Xiaomi Redmi K50 Ultra 5G boasts an impressive 108MP rear camera, 8GB RAM, and 120W fast charging for rapid power-ups.",
+    "review_summary": "Users rave about the stunning camera quality and fast charging, making it a top pick for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y78 5g": {
+    "description": "The Vivo Y78 5G offers a 6.58-inch display, 8GB RAM, and a 50MP rear camera, providing a balanced performance for its price.",
+    "review_summary": "While many enjoy its features, some users feel the battery life could be improved given its 4500mAh capacity.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 8 pro 5g": {
+    "description": "The OPPO Reno 8 Pro 5G features a sleek 6.7-inch display, 12GB RAM, and a 50MP rear camera, ideal for high-performance tasks.",
+    "review_summary": "Users are impressed with the powerful performance and 80W fast charging, making it a favorite among power users.",
+    "generated": true
+  },
+  "smartphone|poco|poco f4 5g": {
+    "description": "The Poco F4 5G includes a 6.67-inch display, 6GB RAM, and a 64MP rear camera, offering great value for performance enthusiasts.",
+    "review_summary": "Owners appreciate the solid performance and 67W fast charging, although some wish for a larger battery.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi k50 5g": {
+    "description": "The Xiaomi Redmi K50 5G features a 6.67-inch display, 8GB RAM, and a 5500mAh battery, ensuring long-lasting performance.",
+    "review_summary": "Users enjoy the extended battery life and decent camera, though some find the charging speed could be faster.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9 pro 5g": {
+    "description": "The Realme 9 Pro 5G offers a 6.6-inch display, 6GB RAM, and a 64MP rear camera, making it a reliable mid-range option.",
+    "review_summary": "Many users appreciate the good camera and 5000mAh battery, but some note that the fast charging could be improved.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10a (4gb ram + 64gb)": {
+    "description": "The Xiaomi Redmi 10A features a 6.53-inch display, 4GB RAM, and a 13MP rear camera, catering to budget-conscious users.",
+    "review_summary": "While it offers basic functionality at a low price, some users express concerns about its performance and camera quality.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10": {
+    "description": "The Xiaomi Redmi 10 features a 6.7-inch screen, 50MP rear camera, and a massive 6000mAh battery for extended usage.",
+    "review_summary": "Owners appreciate the long-lasting 6000mAh battery and decent performance, though some note the rating is just above average.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10 (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi 10 with 6GB RAM and 128GB storage offers a vibrant 6.7-inch display and a reliable 50MP camera.",
+    "review_summary": "Users enjoy the ample storage and solid performance, making it a good choice for everyday tasks.",
+    "generated": true
+  },
+  "smartphone|poco|poco c55": {
+    "description": "The Poco C55 features a 6.71-inch display and a 50MP rear camera, powered by a 5000mAh battery.",
+    "review_summary": "While the 50MP camera is a highlight, some users feel the overall performance could be better given its lower rating.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia 1 iv (12gb ram + 512gb)": {
+    "description": "The Sony Xperia 1 IV boasts 12GB RAM and 512GB storage, featuring a 6.5-inch display and advanced camera capabilities.",
+    "review_summary": "This premium device is praised for its high-end specs, though the lack of a rating may raise questions for potential buyers.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y77 5g": {
+    "description": "The Vivo Y77 5G offers 6GB RAM, 128GB storage, and fast 80W charging, along with a 50MP rear camera.",
+    "review_summary": "Users are impressed with the fast charging and overall performance, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia g11 plus": {
+    "description": "The Nokia G11 Plus features a 6.52-inch display, 50MP rear camera, and a 5000mAh battery for reliable daily use.",
+    "review_summary": "While it offers decent specs, some users feel it lacks standout features, reflected in its average rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy z fold 4": {
+    "description": "The Samsung Galaxy Z Fold 4 features a large 7.6-inch display, 12GB RAM, and a versatile camera setup.",
+    "review_summary": "This high-end foldable phone is lauded for its innovative design and performance, though the lack of a rating may concern some buyers.",
+    "generated": true
+  },
+  "smartphone|nothing|nothing phone 1 (8gb ram + 256gb)": {
+    "description": "The Nothing Phone 1 features 8GB RAM, 256GB storage, and a 6.55-inch display, along with a 50MP rear camera.",
+    "review_summary": "With a high rating, users love its performance and unique design, making it a standout option in the market.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus nord n300": {
+    "description": "The OnePlus Nord N300 features a 6.56-inch display, 48MP rear camera, and a robust 5000mAh battery with 33W fast charging.",
+    "review_summary": "Owners appreciate the solid performance with 4GB RAM and decent camera quality, though some note it could be more powerful.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s22 ultra 5g (12gb ram + 512gb)": {
+    "description": "The Samsung Galaxy S22 Ultra 5G boasts a stunning 6.8-inch screen, 108MP rear camera, and 12GB RAM for top-tier performance.",
+    "review_summary": "Feedback highlights its exceptional camera and performance, making it a premium choice for enthusiasts.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia ace iv": {
+    "description": "The Sony Xperia Ace IV offers a compact 6.5-inch display, 50MP rear camera, and 8GB RAM, ideal for everyday use.",
+    "review_summary": "Users enjoy its performance and camera capabilities, making it a reliable option in its price range.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g91 5g": {
+    "description": "The Motorola Moto G91 5G features a large 6.8-inch display, 108MP rear camera, and 6GB RAM for a smooth experience.",
+    "review_summary": "Owners praise its impressive camera and battery life, though some desire faster charging options.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 11 5g": {
+    "description": "The OnePlus 11 5G combines a 6.7-inch display, 50MP rear camera, and 12GB RAM with lightning-fast 100W charging.",
+    "review_summary": "Users rave about its performance and charging speed, making it a standout in the flagship category.",
+    "generated": true
+  },
+  "smartphone|poco|poco x5 gt": {
+    "description": "The POCO X5 GT features a 6.7-inch display, 64MP rear camera, and 8GB RAM, delivering strong performance and fast charging.",
+    "review_summary": "Owners appreciate its value for money and performance, with many highlighting the fast 80W charging.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a50s": {
+    "description": "The Samsung Galaxy A50s offers a 6.4-inch display, 48MP rear camera, and 4GB RAM, providing a balanced performance for everyday tasks.",
+    "review_summary": "Users find it reliable for daily use, though some mention it could benefit from more RAM.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a16k (4gb ram + 64gb)": {
+    "description": "The OPPO A16K features a 6.52-inch display, 13MP rear camera, and 4GB RAM, catering to budget-conscious users.",
+    "review_summary": "While it offers decent features for the price, some users note performance limitations and average camera quality.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a54 (6gb ram + 128gb)": {
+    "description": "The OPPO A54 features 6GB RAM, 128GB storage, and a 5000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the 5000mAh battery and decent performance, though some note it could be faster.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y73 2021": {
+    "description": "The Vivo Y73 2021 offers 8GB RAM, 128GB storage, and a 64MP rear camera, delivering impressive performance and photography capabilities.",
+    "review_summary": "Users love the 64MP camera and fast 33W charging, highlighting its strong performance overall.",
+    "generated": true
+  },
+  "smartphone|nothing|nothing phone 1 lite": {
+    "description": "The Nothing Phone 1 Lite features 6GB RAM, 128GB storage, and a 50MP rear camera, providing a unique design and solid performance.",
+    "review_summary": "Owners enjoy the 50MP camera and 5000mAh battery, though some wish for more advanced features.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi k60 pro": {
+    "description": "The Xiaomi Redmi K60 Pro boasts 8GB RAM, 128GB storage, and a powerful 120W fast charging capability, ideal for heavy users.",
+    "review_summary": "Users rave about the 120W charging and 54MP camera, making it a top choice for performance enthusiasts.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a74 5g": {
+    "description": "The OPPO A74 5G features 6GB RAM, 128GB storage, and a 48MP rear camera, offering reliable performance for everyday tasks.",
+    "review_summary": "Owners appreciate the 48MP camera and 5000mAh battery, but some mention it lacks advanced features.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v23 5g": {
+    "description": "The Vivo V23 5G comes with 8GB RAM, 128GB storage, and a remarkable 50MP front camera, perfect for selfie enthusiasts.",
+    "review_summary": "Users are impressed by the 50MP front camera and 44W fast charging, highlighting its strong selfie capabilities.",
+    "generated": true
+  },
+  "smartphone|asus|asus rog phone 6": {
+    "description": "The Asus ROG Phone 6 features 12GB RAM, 256GB storage, and a massive 6000mAh battery, designed for gaming and high performance.",
+    "review_summary": "Gamers love the 12GB RAM and 6000mAh battery, making it a top choice for intensive use.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 15 ultra": {
+    "description": "The Apple iPhone 15 Ultra offers 8GB RAM, 128GB storage, and a 48MP rear camera, delivering premium performance and design.",
+    "review_summary": "Users appreciate the 48MP camera and overall performance, though the price is a concern for some.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a12": {
+    "description": "The Oppo A12 features a 6.22-inch screen, 3GB RAM, and a 4230mAh battery, making it a budget-friendly option for basic smartphone needs.",
+    "review_summary": "Owners appreciate the affordable price and decent battery life, though some note the performance may lag with only 3GB of RAM.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y21 2021": {
+    "description": "The Vivo Y21 2021 offers a 6.51-inch display, 4GB RAM, and a 5000mAh battery, providing solid performance for everyday tasks.",
+    "review_summary": "Users find the battery life impressive and the camera satisfactory, but some express concerns about the overall performance at this price point.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 11 (6gb ram + 128gb)": {
+    "description": "The Infinix Note 11 boasts a large 6.7-inch screen, 6GB RAM, and a powerful 50MP rear camera, ideal for photography enthusiasts.",
+    "review_summary": "With a high rating, users praise its camera quality and fast charging capabilities, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark go 2023": {
+    "description": "The Tecno Spark Go 2023 features a 6.56-inch display, 3GB RAM, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "While the battery life is appreciated, some users feel the performance is limited due to the 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi 12 pro 5g": {
+    "description": "The Xiaomi 12 Pro 5G is a premium smartphone with an 8GB RAM, 256GB storage, and a stunning 6.73-inch display, perfect for high-end users.",
+    "review_summary": "Highly rated for its performance and fast charging, users love the camera quality and overall experience, justifying its premium price.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 5 pro 5g": {
+    "description": "The Oppo Reno 5 Pro 5G features an 8GB RAM, 128GB storage, and a 6.53-inch display, offering a balance of performance and style.",
+    "review_summary": "Users commend its camera capabilities and fast charging, making it a popular choice among mid-range smartphones.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo find n fold": {
+    "description": "The Oppo Find N Fold features a unique 7.1-inch foldable display, 8GB RAM, and 256GB storage, designed for innovative users.",
+    "review_summary": "While details are limited, the foldable design and substantial storage are intriguing, though the lack of a rating raises some questions.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10s (8gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 10S offers an 8GB RAM, 128GB storage, and a 6.43-inch display, making it a versatile choice for various users.",
+    "review_summary": "Users appreciate its camera performance and battery life, contributing to a strong overall satisfaction with the device.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10 lite": {
+    "description": "The Xiaomi Redmi Note 10 Lite features a 6.67-inch display, 48MP rear camera, and a robust 5020mAh battery.",
+    "review_summary": "Owners appreciate the solid performance with 4GB RAM and a long-lasting battery, though some note it could be faster.",
+    "generated": true
+  },
+  "smartphone|realme|realme c30 (3gb ram + 32gb)": {
+    "description": "The Realme C30 offers a 6.5-inch screen, 8MP rear camera, and a 5000mAh battery in a budget-friendly package.",
+    "review_summary": "Users find it adequate for basic tasks, but the 3GB RAM and 8MP camera may limit performance and quality.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t3 pro": {
+    "description": "The Vivo T3 Pro boasts an impressive 64MP rear camera, 8GB RAM, and 80W fast charging in a sleek design.",
+    "review_summary": "Highly rated for its performance and camera quality, users love the 8GB RAM and fast charging capabilities.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s21 ultra": {
+    "description": "The Samsung Galaxy S21 Ultra features a stunning 6.8-inch display, 108MP rear camera, and 12GB RAM for top-tier performance.",
+    "review_summary": "This flagship phone is praised for its exceptional camera and performance, making it a favorite among enthusiasts.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus clover": {
+    "description": "The OnePlus Clover offers a 6.52-inch display, 6000mAh battery, and 4GB RAM, balancing performance and battery life.",
+    "review_summary": "While users appreciate the long battery life, the 69 rating suggests some may find performance lacking.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a77 (4gb ram + 128 gb)": {
+    "description": "The OPPO A77 features a 6.56-inch display, 50MP rear camera, and 128GB storage, catering to mid-range users.",
+    "review_summary": "Users enjoy the ample storage and decent camera, though the 71 rating indicates room for improvement.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 pro plus 5g (8gb ram + 256gb)": {
+    "description": "The Xiaomi Redmi Note 11 Pro Plus 5G offers a 6.67-inch display, 108MP rear camera, and 67W fast charging.",
+    "review_summary": "With an 87 rating, users rave about its performance and camera quality, making it a standout choice.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m62": {
+    "description": "The Samsung Galaxy M62 features a massive 7000mAh battery, 64MP rear camera, and 6GB RAM for extended use.",
+    "review_summary": "Users appreciate the long battery life and solid performance, reflected in its strong 83 rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f13": {
+    "description": "The Samsung Galaxy F13 features a 6.6-inch screen, 50MP rear camera, and a massive 6000mAh battery for extended usage.",
+    "review_summary": "Owners appreciate the long-lasting 6000mAh battery and decent performance, though some note the 4GB RAM may limit multitasking.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v25 5g": {
+    "description": "The Vivo V25 5G offers a vibrant 6.44-inch display, 64MP rear camera, and fast 44W charging for a premium experience.",
+    "review_summary": "Users love the impressive camera quality and 8GB RAM, making it a strong performer in its price range.",
+    "generated": true
+  },
+  "smartphone|poco|poco f5 pro": {
+    "description": "The Poco F5 Pro boasts a 6.67-inch screen, 64MP rear camera, and rapid 67W charging, ideal for power users.",
+    "review_summary": "With its powerful performance and excellent battery life, owners are highly satisfied, rating it as a top choice.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola edge 30 fusion 5g": {
+    "description": "The Motorola Edge 30 Fusion 5G features a sleek 6.55-inch display, 50MP rear camera, and 68W fast charging for quick power-ups.",
+    "review_summary": "Users praise its premium design and camera capabilities, making it a favorite among mid-range smartphones.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 12 (6gb ram + 128gb)": {
+    "description": "The Infinix Note 12 offers a large 6.7-inch screen, 50MP rear camera, and a solid 5000mAh battery for everyday use.",
+    "review_summary": "While many appreciate the 6GB RAM and good value, some users feel it could perform better under heavy loads.",
+    "generated": true
+  },
+  "smartphone|poco|poco f4 gt 5g": {
+    "description": "The POCO F4 GT 5G features a 6.67-inch display, 64MP rear camera, and lightning-fast 120W charging for gamers and power users.",
+    "review_summary": "Owners are thrilled with its performance and rapid charging, making it a standout option for gaming enthusiasts.",
+    "generated": true
+  },
+  "smartphone|letv|letv y1 pro": {
+    "description": "The Letv Y1 Pro is an affordable option with a 6.54-inch screen, 8MP rear camera, and a compact design.",
+    "review_summary": "While it offers basic features at a low price, some users find its performance lacking compared to competitors.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno7 z 5g": {
+    "description": "The OPPO Reno7 Z 5G features a stylish 6.43-inch display, 64MP rear camera, and 33W fast charging for convenience.",
+    "review_summary": "Users appreciate its sleek design and camera performance, making it a popular choice in the mid-range segment.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z6 5g": {
+    "description": "The iQOO Z6 5G features a 6.58-inch display, 50MP rear camera, and a robust 5000mAh battery for reliable performance.",
+    "review_summary": "Owners appreciate the solid battery life and decent camera quality, though some note it could use more RAM.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 9": {
+    "description": "The Apple iPhone 9 offers a compact 4.7-inch screen, 12MP rear camera, and 64GB of storage, ideal for basic smartphone needs.",
+    "review_summary": "While users enjoy its classic design, the limited RAM and battery life may leave some wanting more.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14": {
+    "description": "The Apple iPhone 14 boasts a 6.1-inch display, dual 12MP cameras, and 6GB of RAM, delivering a premium smartphone experience.",
+    "review_summary": "Users praise its camera performance and smooth operation, making it a strong choice for iOS fans.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y33s": {
+    "description": "The Vivo Y33s features a 6.58-inch display, 50MP rear camera, and a large 5000mAh battery, perfect for everyday use.",
+    "review_summary": "Customers enjoy the excellent battery life and camera quality, making it a great value for its price.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi 12 ultra 5g": {
+    "description": "The Xiaomi 12 Ultra 5G is a high-end smartphone with a 6.73-inch display, 12GB of RAM, and a powerful 50MP camera.",
+    "review_summary": "This phone is highly rated for its performance and camera capabilities, appealing to tech enthusiasts.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 10t": {
+    "description": "The OnePlus 10T features a 6.7-inch display, 50MP rear camera, and lightning-fast 150W charging for a premium experience.",
+    "review_summary": "Users rave about its fast charging and performance, making it a top choice for power users.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11r": {
+    "description": "The Xiaomi Redmi Note 11R offers a 6.58-inch display, 13MP rear camera, and a solid 5000mAh battery for everyday tasks.",
+    "review_summary": "While it provides good value, some users feel the camera could be improved for better photography.",
+    "generated": true
+  },
+  "smartphone|poco|poco f5": {
+    "description": "The Poco F5 features a 6.7-inch display, 64MP rear camera, and 8GB of RAM, designed for performance and photography enthusiasts.",
+    "review_summary": "Owners love its camera quality and fast charging, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y75 4g": {
+    "description": "The vivo Y75 4G features a 6.44-inch display, 8GB RAM, and a powerful 50MP rear camera, making it a solid choice for photography enthusiasts.",
+    "review_summary": "Owners appreciate the impressive 44W fast charging and 128GB storage, contributing to a positive experience overall.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f04": {
+    "description": "The Samsung Galaxy F04 offers a 6.5-inch screen, 4GB RAM, and a 5000mAh battery, ideal for basic smartphone needs.",
+    "review_summary": "While the 68% rating reflects some limitations, users find the 5000mAh battery and affordable price appealing.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v15 pro (8gb ram +128gb)": {
+    "description": "The vivo V15 Pro features a 6.39-inch display, 8GB RAM, and a 48MP rear camera, delivering a balanced performance for everyday use.",
+    "review_summary": "With a rating of 78%, users enjoy the 128GB storage and decent camera quality, though some seek better battery life.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1 44w": {
+    "description": "The vivo T1 44W boasts a 6.44-inch display, 4GB RAM, and a 50MP rear camera, providing a good mix of performance and features.",
+    "review_summary": "At 77%, users appreciate the 44W fast charging and 128GB storage, though some desire more RAM for multitasking.",
+    "generated": true
+  },
+  "smartphone|realme|realme 9 pro plus 5g": {
+    "description": "The realme 9 Pro Plus 5G features a 6.4-inch display, 6GB RAM, and a 50MP rear camera, making it a strong contender in its price range.",
+    "review_summary": "With a rating of 78%, users enjoy the 60W fast charging and solid camera performance, though some mention battery life could be improved.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y01": {
+    "description": "The vivo Y01 is an entry-level phone with a 6.51-inch display, 2GB RAM, and a 5000mAh battery, suitable for basic tasks.",
+    "review_summary": "With a 61% rating, users note the affordability, but the limited RAM and performance may not meet everyone's expectations.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo x fold plus": {
+    "description": "The vivo X Fold Plus features a large 8.03-inch display, 12GB RAM, and a 50MP rear camera, designed for premium multitasking and media consumption.",
+    "review_summary": "Details on user feedback are unavailable, but the high specs suggest a top-tier experience for those seeking advanced features.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto e40": {
+    "description": "The Motorola Moto E40 offers a 6.5-inch display, 4GB RAM, and a 48MP rear camera, catering to budget-conscious users.",
+    "review_summary": "With a 71% rating, users appreciate the camera quality and 5000mAh battery, though some find performance lacking for demanding tasks.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 50i prime (4gb ram + 64gb)": {
+    "description": "The realme Narzo 50i Prime features a 6.5-inch screen, 4GB RAM, and a 5000mAh battery, making it a budget-friendly option for basic tasks.",
+    "review_summary": "Users appreciate the 5000mAh battery, but some note the performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno camon 20 premier": {
+    "description": "The Tecno Camon 20 Premier boasts a 6.83-inch display, 50MP rear camera, and 6GB RAM, ideal for photography enthusiasts.",
+    "review_summary": "Owners love the impressive 50MP camera and fast 33W charging, contributing to a positive overall experience.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus nord 3 5g": {
+    "description": "The OnePlus Nord 3 5G offers a 6.43-inch screen, 8GB RAM, and 120W fast charging, perfect for power users.",
+    "review_summary": "Highly rated for its 120W fast charging and 50MP camera, users find it delivers excellent performance.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 pro plus 5g": {
+    "description": "The Xiaomi Redmi Note 11 Pro Plus 5G features a stunning 108MP rear camera, 6GB RAM, and 67W fast charging for a premium experience.",
+    "review_summary": "Users are impressed with the 108MP camera and fast charging, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|oukitel|oukitel wp21": {
+    "description": "The Oukitel WP21 is a rugged phone with 12GB RAM, 256GB storage, and a massive 9800mAh battery, designed for durability and longevity.",
+    "review_summary": "Owners appreciate the long-lasting 9800mAh battery and robust design, making it suitable for outdoor use.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1 44w (6gb ram + 128gb)": {
+    "description": "The Vivo T1 44W features a 6.44-inch display, 6GB RAM, and 50MP rear camera, balancing performance and style.",
+    "review_summary": "Users enjoy the 50MP camera and 44W fast charging, though some feel it could offer more premium features.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 9 pro": {
+    "description": "The Tecno Spark 9 Pro comes with a 6.6-inch screen, 4GB RAM, and a 48MP rear camera, catering to budget-conscious users.",
+    "review_summary": "While the 48MP camera is a highlight, some users mention performance limitations with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 plus": {
+    "description": "The Apple iPhone 14 Plus features a 6.7-inch display, 6GB RAM, and dual 12MP cameras, delivering a premium smartphone experience.",
+    "review_summary": "Users appreciate the camera quality and overall performance, solidifying its reputation as a top-tier device.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus nord se": {
+    "description": "The OnePlus Nord SE features a 6.3-inch display, 48MP rear camera, and 4500mAh battery with 65W fast charging.",
+    "review_summary": "Owners appreciate the solid performance and fast charging, though some note the 73 rating suggests room for improvement.",
+    "generated": true
+  },
+  "smartphone|honor|honor 70 5g": {
+    "description": "The Honor 70 5G boasts a 6.67-inch screen, 54MP rear camera, and 12GB RAM, making it a powerful device for multitasking.",
+    "review_summary": "Users love the impressive performance and large storage, reflected in its high 88 rating.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 50a prime": {
+    "description": "The Realme Narzo 50A Prime offers a 6.6-inch display, 50MP rear camera, and a robust 5000mAh battery.",
+    "review_summary": "While users enjoy the battery life and camera quality, the 73 rating indicates some limitations.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 4": {
+    "description": "The Xiaomi Redmi Note 4 features a compact 5.5-inch screen, 13MP rear camera, and a 4100mAh battery.",
+    "review_summary": "Users find it affordable, but the 65 rating suggests it may not meet everyone's expectations.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v26 pro": {
+    "description": "The Vivo V26 Pro is equipped with a 6.7-inch display, 64MP rear camera, and 12GB RAM, ideal for photography enthusiasts.",
+    "review_summary": "Owners praise its camera capabilities and fast charging, contributing to its strong 87 rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi mi 11t pro 5g": {
+    "description": "The Xiaomi Mi 11T Pro 5G features a 6.67-inch screen, 108MP rear camera, and 120W fast charging for rapid power-ups.",
+    "review_summary": "Users are impressed with the camera quality and fast charging, reflected in its solid 86 rating.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 pro (256gb)": {
+    "description": "The Apple iPhone 13 Pro offers a 6.1-inch display, 12MP rear camera, and 256GB storage, combining premium features with iOS.",
+    "review_summary": "Users appreciate its performance and camera quality, though the 83 rating suggests some may seek more value.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s22 plus 5g (8gb ram + 256gb)": {
+    "description": "The Samsung Galaxy S22 Plus 5G features an expansive 6.6-inch display, 50MP rear camera, and 8GB RAM for smooth performance.",
+    "review_summary": "Owners enjoy its performance and camera features, contributing to its impressive 88 rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi k60i": {
+    "description": "The Xiaomi Redmi K60i features a 6.67-inch display, 50MP rear camera, and a robust 5080mAh battery with 120W fast charging.",
+    "review_summary": "Owners appreciate the impressive battery life and fast charging capabilities, rating it highly at 85.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto edge x30 pro": {
+    "description": "The Motorola Moto Edge X30 Pro boasts a stunning 200MP rear camera, 6.67-inch display, and 125W fast charging.",
+    "review_summary": "Feedback is pending for this model, but its high-resolution camera is a standout feature.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11s": {
+    "description": "The Xiaomi Redmi Note 11S offers a 6.43-inch screen, 108MP rear camera, and a 5000mAh battery with 33W fast charging.",
+    "review_summary": "Users enjoy the excellent camera quality and solid performance, reflected in its 80 rating.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo neo 7 5g": {
+    "description": "The iQOO Neo 7 5G features an expansive 6.78-inch display, 64MP rear camera, and a 5000mAh battery with 120W fast charging.",
+    "review_summary": "Owners commend its fast charging and performance, leading to a favorable 82 rating.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s23 fe 5g": {
+    "description": "The Samsung Galaxy S23 FE 5G includes a 6.5-inch display, 64MP rear camera, and a 4500mAh battery.",
+    "review_summary": "While generally well-received, some users note the battery life could be better, reflected in its 77 rating.",
+    "generated": true
+  },
+  "smartphone|google|google pixel 2 xl": {
+    "description": "The Google Pixel 2 XL features a 6.0-inch display, 12.2MP rear camera, and a 3520mAh battery.",
+    "review_summary": "With a rating of 69, users appreciate its camera but express concerns about performance and battery life.",
+    "generated": true
+  },
+  "smartphone|zte|zte axon 30s": {
+    "description": "The ZTE Axon 30S offers a 6.9-inch display, 50MP rear camera, and a 4200mAh battery with 55W fast charging.",
+    "review_summary": "Users are pleased with its performance and display, leading to a solid 82 rating.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 (512gb)": {
+    "description": "The Apple iPhone 14 features a 6.1-inch display, 12MP rear camera, and 512GB of storage.",
+    "review_summary": "Users appreciate its storage capacity and camera quality, resulting in a favorable 82 rating.",
+    "generated": true
+  },
+  "smartphone|infinix|infinix note 12 5g": {
+    "description": "The Infinix Note 12 5G features a 6.7-inch display, 50MP rear camera, and a robust 5000mAh battery with 33W fast charging.",
+    "review_summary": "Owners appreciate the solid performance with 6GB RAM and decent camera quality, though some note it could be improved.",
+    "generated": true
+  },
+  "smartphone|google|google pixel 6 pro (12gb ram + 256gb)": {
+    "description": "The Google Pixel 6 Pro boasts a 6.71-inch display, 12GB RAM, and a powerful 50MP rear camera, making it a premium choice.",
+    "review_summary": "Feedback highlights its exceptional camera capabilities and performance, solidifying its status as a top-tier device.",
+    "generated": true
+  },
+  "smartphone|itel|itel vision 3 (2gb ram + 32gb)": {
+    "description": "The itel Vision 3 is an affordable smartphone with a 6.6-inch display, 2GB RAM, and a 5000mAh battery.",
+    "review_summary": "Users find it a budget-friendly option, but the limited 2GB RAM may affect multitasking performance.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f63": {
+    "description": "The Samsung Galaxy F63 features a large 7000mAh battery, 6GB RAM, and a 64MP rear camera, ideal for heavy users.",
+    "review_summary": "Owners rave about its impressive battery life and camera quality, making it a reliable choice.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y12 (3gb ram + 64gb)": {
+    "description": "The Vivo Y12 offers a 6.35-inch display, 3GB RAM, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "While it provides decent features for the price, some users feel the performance could be better with only 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia x50 5g": {
+    "description": "The Nokia X50 5G features a 6.81-inch display, 108MP rear camera, and a 6000mAh battery, combining power and photography.",
+    "review_summary": "Users appreciate the high-resolution camera and solid battery life, though some desire more storage options.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 10r 5g": {
+    "description": "The OnePlus 10R 5G is equipped with 8GB RAM, a 6.7-inch display, and 80W fast charging, delivering high performance.",
+    "review_summary": "Owners are impressed with its fast charging and overall performance, making it a standout in its price range.",
+    "generated": true
+  },
+  "smartphone|realme|realme a1": {
+    "description": "The Realme A1 is a budget smartphone with a 6.2-inch display, 2GB RAM, and a 4000mAh battery.",
+    "review_summary": "While it serves basic needs well, users note that the limited storage and RAM may hinder performance.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 pro 4g": {
+    "description": "The Xiaomi Redmi Note 11 Pro 4G features a 6.67-inch display, 108MP rear camera, and a robust 5000mAh battery with 67W fast charging.",
+    "review_summary": "Owners appreciate the impressive 108MP camera and long-lasting battery, making it a solid choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a32 5g": {
+    "description": "The Samsung Galaxy A32 5G offers a 6.5-inch screen, 48MP rear camera, and a 5000mAh battery, ideal for everyday use.",
+    "review_summary": "Users find the 48MP camera and large battery satisfactory, though some note the slower 15W charging could be improved.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi mi 11x": {
+    "description": "The Xiaomi Mi 11X features a 6.67-inch display, 48MP rear camera, and 33W fast charging, providing a balanced performance.",
+    "review_summary": "Customers enjoy the solid performance and decent camera quality, although the battery life could be better.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11t 5g (8gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 11T 5G boasts 8GB RAM, a 6.6-inch display, and a 50MP rear camera, making it a versatile smartphone.",
+    "review_summary": "Users are pleased with the performance and camera quality, highlighting its value for the price.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1 5g (8gb ram + 128gb)": {
+    "description": "The Vivo T1 5G features 8GB RAM, a 6.58-inch display, and a 50MP rear camera, offering a smooth user experience.",
+    "review_summary": "Owners appreciate the performance and camera capabilities, although the 18W charging speed is seen as a drawback.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo s16": {
+    "description": "The Vivo S16 comes with 8GB RAM, a 6.78-inch display, and a 64MP rear camera, delivering a premium experience.",
+    "review_summary": "Users rave about the high-quality camera and fast charging, making it a top choice for photography lovers.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 6 pro plus 5g": {
+    "description": "The OPPO Reno 6 Pro Plus 5G features an 8GB RAM, a 6.55-inch display, and a 50MP rear camera, designed for high performance.",
+    "review_summary": "Customers are highly satisfied with the camera quality and fast charging, making it a standout option in its class.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 11 prime 5g (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi 11 Prime 5G offers a 6.58-inch display, 50MP rear camera, and a 5000mAh battery, suitable for budget-conscious users.",
+    "review_summary": "While users appreciate the camera and battery life, some mention that the 18W charging is slower than expected.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 turbo": {
+    "description": "The Xiaomi Redmi Note 12 Turbo features a 6.67-inch display, 50MP rear camera, and a robust 5000mAh battery with 67W fast charging.",
+    "review_summary": "Owners appreciate the strong performance with 8GB RAM and excellent battery life, though some note the camera could be better.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 9 5g": {
+    "description": "The iQOO 9 5G boasts a 6.56-inch screen, 48MP rear camera, and rapid 120W fast charging, making it a powerful device.",
+    "review_summary": "Users love the impressive charging speed and performance, highlighted by 8GB RAM, contributing to a highly rated experience.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y22s": {
+    "description": "The Vivo Y22s offers a 6.55-inch display, 50MP rear camera, and a 5000mAh battery, ideal for everyday use.",
+    "review_summary": "While generally positive, some users mention the slower 18W charging as a drawback despite its solid performance with 8GB RAM.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 9 pro": {
+    "description": "The Xiaomi Redmi Note 9 Pro features a 6.67-inch screen, 48MP rear camera, and a 5020mAh battery, providing decent performance.",
+    "review_summary": "Feedback is mixed, with users appreciating the battery life but noting the limited 4GB RAM may hinder performance.",
+    "generated": true
+  },
+  "smartphone|asus|asus rog phone 6 pro 5g": {
+    "description": "The Asus ROG Phone 6 Pro 5G is a high-end gaming phone with a 6.78-inch display, 18GB RAM, and a massive 6000mAh battery.",
+    "review_summary": "Users rave about its gaming performance and battery life, making it a top choice for enthusiasts, reflected in its high rating.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 pro 5g": {
+    "description": "The Xiaomi Redmi Note 12 Pro 5G features a 6.67-inch display, 50MP rear camera, and a 5000mAh battery with 67W fast charging.",
+    "review_summary": "Owners find it a solid mid-range option with good performance and battery life, though some wish for more RAM.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto x40": {
+    "description": "The Motorola Moto X40 offers a 6.7-inch display, 50MP rear camera, and 125W fast charging, making it a powerful smartphone.",
+    "review_summary": "Users are highly satisfied with its performance and camera quality, contributing to its excellent rating.",
+    "generated": true
+  },
+  "smartphone|sony|sony xperia pro-i": {
+    "description": "The Sony Xperia Pro-I features a 6.5-inch display, 12GB RAM, and a unique 12MP rear camera designed for professional photography.",
+    "review_summary": "With no rating available, potential buyers should consider its high price and specialized features for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|realme|realme x7 max": {
+    "description": "The realme X7 Max features a 6.43-inch display, 8GB RAM, and a powerful 4500mAh battery with 50W fast charging.",
+    "review_summary": "Owners appreciate the strong performance and excellent camera quality, highlighted by the 64MP rear camera.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1 44w (8gb ram + 128gb)": {
+    "description": "The vivo T1 44W offers a 6.44-inch screen, 8GB RAM, and a long-lasting 5000mAh battery with 44W fast charging.",
+    "review_summary": "Users find it reliable for daily tasks, especially praising the 50MP rear camera and solid battery life.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 (6gb ram + 64gb)": {
+    "description": "The Xiaomi Redmi Note 11 features a 6.43-inch display, 6GB RAM, and a 5000mAh battery with 33W fast charging.",
+    "review_summary": "While generally positive, some users note performance limitations, though the 50MP camera and battery life are appreciated.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y10": {
+    "description": "The vivo Y10 comes with a 6.51-inch display, 4GB RAM, and a 5000mAh battery, but lacks fast charging.",
+    "review_summary": "Feedback is mixed, with some users citing decent battery life, but the 63 rating reflects concerns about performance.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 7 legend": {
+    "description": "The iQOO 7 Legend features a 6.62-inch display, 8GB RAM, and a 4000mAh battery with 66W fast charging.",
+    "review_summary": "Users rave about its performance and fast charging capabilities, particularly enjoying the 48MP camera.",
+    "generated": true
+  },
+  "smartphone|realme|realme c30s (4gb ram + 64gb)": {
+    "description": "The realme C30s has a 6.5-inch display, 4GB RAM, and a 5000mAh battery with 10W charging.",
+    "review_summary": "With a 62 rating, users express concerns about performance, though the battery life is a noted strength.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 11 prime": {
+    "description": "The Xiaomi Redmi 11 Prime features a 6.58-inch display, 4GB RAM, and a 5000mAh battery with 18W fast charging.",
+    "review_summary": "Users appreciate its value for money, especially the 50MP camera, but some note performance could be better.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo k10x 5g": {
+    "description": "The Oppo K10x 5G offers a 6.59-inch display, 6GB RAM, and a 5000mAh battery with 67W fast charging.",
+    "review_summary": "Owners enjoy the fast charging and camera quality, with the 64MP rear camera receiving particular praise.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 12 4g": {
+    "description": "The Xiaomi Redmi Note 12 4G features a 6.67-inch display, 48MP rear camera, and a robust 5000mAh battery with 33W fast charging.",
+    "review_summary": "Owners appreciate the solid performance with 4GB RAM and a long-lasting battery, though some note it could be more powerful.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 50": {
+    "description": "The Realme Narzo 50 offers a 6.6-inch screen, 50MP rear camera, and a 5000mAh battery with 33W fast charging for reliable daily use.",
+    "review_summary": "Users find the camera and battery life commendable, but some express a desire for improved performance.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a12 (6gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A12 features a 6.5-inch display, 48MP rear camera, and 128GB storage, making it a versatile choice for everyday tasks.",
+    "review_summary": "Customers enjoy the ample storage and decent camera quality, although some feel the charging speed could be faster.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy note 20": {
+    "description": "The Samsung Galaxy Note 20 boasts an impressive 6.7-inch display, 64MP rear camera, and 256GB storage, ideal for productivity and media consumption.",
+    "review_summary": "Highly rated for its performance and camera quality, users love the premium features, making it a worthwhile investment.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a13 (6gb ram + 128gb)": {
+    "description": "The Samsung Galaxy A13 features a 6.6-inch screen, 50MP rear camera, and 128GB storage, providing a balanced experience for users.",
+    "review_summary": "Owners appreciate the good camera and battery life, though some mention it lacks advanced features compared to higher-end models.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z9": {
+    "description": "The iQOO Z9 offers an 8GB RAM configuration, 64MP rear camera, and 128GB storage, along with 45W fast charging for efficient performance.",
+    "review_summary": "Users are pleased with the fast charging and camera quality, but some feel the overall performance could be enhanced.",
+    "generated": true
+  },
+  "smartphone|oneplus|oneplus 6 (8gb ram + 128gb)": {
+    "description": "The OnePlus 6 features an 8GB RAM setup, 20MP rear camera, and a compact 6.28-inch display, catering to users who prefer a smaller phone.",
+    "review_summary": "While users enjoy the design and camera, some express concerns about battery life and charging speed.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo x90 5g": {
+    "description": "The Vivo X90 5G features a 6.78-inch display, 50MP rear camera, and 128GB storage, along with 120W fast charging for rapid power replenishment.",
+    "review_summary": "Highly rated for its exceptional camera and fast charging, users find it a top choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|nubia|nubia red magic 8 pro 5g": {
+    "description": "The nubia Red Magic 8 Pro 5G features a powerful 6000mAh battery, 8GB RAM, and a stunning 50MP rear camera for an exceptional gaming experience.",
+    "review_summary": "Owners appreciate the impressive battery life and fast charging at 80W, making it a top choice for gamers.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia g21": {
+    "description": "The Nokia G21 offers a solid performance with 4GB RAM and a 50MP rear camera, ideal for everyday tasks.",
+    "review_summary": "Users find it reliable for basic use, though some note the performance may lag with heavy multitasking.",
+    "generated": true
+  },
+  "smartphone|realme|realme g1": {
+    "description": "The Realme G1 is an affordable option with a 6000mAh battery and 3GB RAM, suitable for light users.",
+    "review_summary": "While it offers great battery life, some users express concerns about its limited performance for demanding applications.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10 (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 10 features 6GB RAM and a 48MP rear camera, providing a balanced performance for its price.",
+    "review_summary": "Users appreciate its value for money, especially with decent camera quality and battery life.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f21 pro 4g": {
+    "description": "The OPPO F21 Pro 4G boasts an impressive 64MP rear camera and 8GB RAM, perfect for photography enthusiasts.",
+    "review_summary": "Owners love the camera quality and fast charging, making it a strong contender in its price range.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo reno 6": {
+    "description": "The OPPO Reno 6 combines 8GB RAM and a 64MP rear camera, delivering excellent performance and photography capabilities.",
+    "review_summary": "Users are pleased with its camera and fast charging, though some mention the battery could be larger.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10t 5g (6gb ram +128gb)": {
+    "description": "The Xiaomi Redmi Note 10T 5G offers 6GB RAM and a 48MP rear camera, making it a solid choice for everyday use.",
+    "review_summary": "Users appreciate its performance and battery life, although some desire faster charging options.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a53 5g": {
+    "description": "The Samsung Galaxy A53 5G features a vibrant 6.5-inch screen, 6GB RAM, and a 64MP rear camera for a premium experience.",
+    "review_summary": "Owners rave about its display quality and camera performance, making it a top pick in its category.",
+    "generated": true
+  },
+  "smartphone|nubia|nubia red magic 8 pro plus": {
+    "description": "The nubia Red Magic 8 Pro Plus features a powerful 12GB RAM, 256GB storage, and a stunning 50MP rear camera, perfect for gaming and photography.",
+    "review_summary": "Owners praise the impressive performance and fast 165W charging, making it a top choice for gamers.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 10 prime plus 5g": {
+    "description": "The Xiaomi Redmi 10 Prime Plus 5G offers a solid 50MP rear camera and 5000mAh battery, ideal for everyday use at an affordable price.",
+    "review_summary": "While users appreciate its value and decent camera, some note the performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m32 prime edition": {
+    "description": "The Samsung Galaxy M32 Prime Edition boasts a 64MP rear camera and a large 6000mAh battery, providing excellent photography and battery life.",
+    "review_summary": "Users enjoy the camera quality and battery longevity, though some find the performance limited with 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f19 pro plus 5g": {
+    "description": "The OPPO F19 Pro Plus 5G combines 8GB RAM and a 48MP rear camera, delivering a balanced performance for multitasking and photography.",
+    "review_summary": "Owners appreciate its sleek design and fast 50W charging, making it a reliable mid-range option.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi a1": {
+    "description": "The Xiaomi Redmi A1 is a budget-friendly phone with 2GB RAM and a basic 8MP rear camera, suitable for light usage.",
+    "review_summary": "While it offers great affordability, users note limited performance due to only 2GB RAM.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g72": {
+    "description": "The Motorola Moto G72 features a remarkable 108MP rear camera and 6GB RAM, making it a strong contender for photography enthusiasts.",
+    "review_summary": "Users love the camera quality and solid performance, though some wish for faster charging than 33W.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy m04 (4gb ram + 128gb)": {
+    "description": "The Samsung Galaxy M04 offers 4GB RAM and a 13MP rear camera, providing decent performance for everyday tasks.",
+    "review_summary": "While users find it affordable, some express concerns about its overall performance and camera quality.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a03": {
+    "description": "The Samsung Galaxy A03 features a 48MP rear camera and 3GB RAM, making it a basic option for casual users.",
+    "review_summary": "Users appreciate its low price, but many feel the performance is lacking with only 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g62 (8gb ram + 128gb)": {
+    "description": "The Motorola Moto G62 features 8GB RAM, 128GB storage, and a 50MP rear camera, making it a solid choice for everyday use.",
+    "review_summary": "Owners appreciate the Moto G62's performance and battery life, highlighted by its 8GB RAM and 5000mAh battery.",
+    "generated": true
+  },
+  "smartphone|poco|poco m4 pro 4g (8gb ram + 128gb)": {
+    "description": "The POCO M4 Pro 4G offers 8GB RAM, 128GB storage, and a 64MP rear camera, delivering great value for budget-conscious users.",
+    "review_summary": "Users enjoy the POCO M4 Pro's fast charging at 33W and solid camera performance, though some note it lacks premium features.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a73 5g": {
+    "description": "The Samsung Galaxy A73 5G boasts an impressive 108MP rear camera, 8GB RAM, and a large 6.7-inch display for a premium experience.",
+    "review_summary": "Feedback is pending for the Galaxy A73 5G, but its high-end specs suggest it will be well-received.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g60": {
+    "description": "The Motorola Moto G60 features a 108MP rear camera, 6GB RAM, and a massive 6000mAh battery, ideal for photography enthusiasts.",
+    "review_summary": "Owners love the Moto G60's camera quality and battery life, making it a reliable choice for daily use.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola thinkphone": {
+    "description": "The Motorola ThinkPhone combines 8GB RAM, 128GB storage, and 68W fast charging, catering to professionals seeking performance and efficiency.",
+    "review_summary": "Users highly rate the ThinkPhone for its fast charging and camera capabilities, reflecting its premium positioning.",
+    "generated": true
+  },
+  "smartphone|honor|honor x6": {
+    "description": "The Honor X6 features 4GB RAM, 64GB storage, and a 50MP rear camera, offering basic functionality for everyday tasks.",
+    "review_summary": "While the Honor X6 is budget-friendly, some users find its performance limited, particularly with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo z8 5g": {
+    "description": "The iQOO Z8 5G comes with 4GB RAM, 128GB storage, and a 50MP rear camera, providing decent performance for its price.",
+    "review_summary": "Users appreciate the iQOO Z8's value and camera quality, though some mention it could benefit from more RAM.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 7s": {
+    "description": "The Apple iPhone 7s features 3GB RAM, 32GB storage, and a compact 4.7-inch display, appealing to those who prefer smaller devices.",
+    "review_summary": "Feedback is pending for the iPhone 7s, but its compact design and brand reputation suggest it may attract loyal users.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 50i (4gb ram + 64gb)": {
+    "description": "The realme Narzo 50i features a 6.5-inch display, 4GB RAM, and a 5000mAh battery, making it a budget-friendly option for basic tasks.",
+    "review_summary": "Owners appreciate the 5000mAh battery, but some note the performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo k10 pro 5g": {
+    "description": "The Oppo K10 Pro 5G boasts a powerful 50MP rear camera, 8GB RAM, and 80W fast charging, delivering excellent performance for its price.",
+    "review_summary": "Users love the impressive camera quality and fast charging, making it a top choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|realme|realme c33 (4gb ram + 64gb)": {
+    "description": "The realme C33 offers a 50MP rear camera and 4GB RAM, providing solid performance and features for everyday use.",
+    "review_summary": "While many enjoy the camera capabilities, some users feel the overall performance could be improved.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a78": {
+    "description": "The Oppo A78 features an 8GB RAM and a 50MP rear camera, offering a balanced performance and good battery life.",
+    "review_summary": "Users are generally satisfied with its performance and camera quality, making it a reliable mid-range option.",
+    "generated": true
+  },
+  "smartphone|itel|itel p36": {
+    "description": "The itel P36 is an entry-level phone with 1GB RAM and 16GB storage, designed for basic tasks and long battery life.",
+    "review_summary": "While it offers decent battery life, users caution that the limited RAM may hinder multitasking.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy f14": {
+    "description": "The Samsung Galaxy F14 features a 6.62-inch display, 4GB RAM, and a 50MP rear camera, providing a solid experience for everyday tasks.",
+    "review_summary": "Users appreciate the camera and battery life, but some find the performance lacking with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|realme|realme 10 pro plus (8gb ram + 256gb)": {
+    "description": "The realme 10 Pro Plus stands out with its 108MP rear camera, 8GB RAM, and 67W fast charging, making it a high-performance smartphone.",
+    "review_summary": "Owners rave about the exceptional camera quality and fast charging, solidifying its status as a premium choice.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola edge 20 fusion 5g": {
+    "description": "The Motorola Edge 20 Fusion 5G features a stunning 108MP rear camera, 6GB RAM, and 30W fast charging, perfect for photography lovers.",
+    "review_summary": "Users are highly satisfied with the camera performance and overall speed, making it a top-rated option.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo f23 pro": {
+    "description": "The OPPO F23 Pro features a 6.5-inch display, 8GB RAM, and a powerful 64MP rear camera, making it a solid mid-range smartphone.",
+    "review_summary": "Owners appreciate the 4500mAh battery and fast 33W charging, though some note it could use more advanced features.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 9 se 5g": {
+    "description": "The iQOO 9 SE 5G boasts a 6.62-inch screen, 8GB RAM, and 66W fast charging, delivering a robust performance for its price.",
+    "review_summary": "Users are impressed with the 4500mAh battery and 48MP camera, highlighting its value, though some desire better software support.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y3 (4gb ram + 128gb)": {
+    "description": "The Vivo Y3 offers a 6.35-inch display, 4GB RAM, and a 5000mAh battery, catering to budget-conscious users.",
+    "review_summary": "While the 128GB storage is a plus, some users find the 13MP camera and performance lacking for demanding tasks.",
+    "generated": true
+  },
+  "smartphone|iqoo|iqoo 9 5g (12gb ram + 256gb)": {
+    "description": "The iQOO 9 5G features a 6.56-inch display, 12GB RAM, and lightning-fast 120W charging, making it a high-performance flagship.",
+    "review_summary": "Users rave about the 48MP camera and overall speed, making it a top choice for power users.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10 5g": {
+    "description": "The Xiaomi Redmi Note 10 5G includes a 6.5-inch display, 4GB RAM, and a 5000mAh battery, providing good value for everyday use.",
+    "review_summary": "While the 48MP camera is appreciated, some users feel the performance could be improved for more intensive applications.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t2x 5g": {
+    "description": "The Vivo T2x 5G features a 6.58-inch display, 8GB RAM, and an impressive 6000mAh battery, ideal for heavy users.",
+    "review_summary": "Owners enjoy the long-lasting battery and 50MP camera, though some mention it lacks premium build quality.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 pro": {
+    "description": "The Apple iPhone 14 Pro offers a 6.1-inch display, 6GB RAM, and a 48MP rear camera, delivering a premium smartphone experience.",
+    "review_summary": "While users appreciate the camera quality, some feel the battery life could be better for the price.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10": {
+    "description": "The Xiaomi Redmi Note 10 features a 6.43-inch display, 4GB RAM, and a 5000mAh battery, making it a reliable budget option.",
+    "review_summary": "Users like the 48MP camera and decent battery life, but some find the performance underwhelming for multitasking.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo v25 (12gb ram + 256gb)": {
+    "description": "The vivo V25 features 12GB of RAM, 256GB of storage, and a vibrant 6.44-inch display, making it a powerful choice for multitasking and media consumption.",
+    "review_summary": "Owners appreciate the impressive 64MP rear camera and fast 44W charging, though some note the price may be a bit high.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 15 pro": {
+    "description": "The Apple iPhone 15 Pro offers a sleek design with 8GB of RAM and a 50MP rear camera, delivering a premium experience in a compact 6.06-inch size.",
+    "review_summary": "Users enjoy the camera quality and overall performance, but some feel the storage options are limited at 128GB.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 14 pro (256gb)": {
+    "description": "The Apple iPhone 14 Pro features a 6.1-inch display, 256GB of storage, and a powerful 48MP rear camera, ideal for photography enthusiasts.",
+    "review_summary": "While many praise its camera and build quality, some users mention the battery life could be better.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo a55 5g": {
+    "description": "The OPPO A55 5G is an affordable smartphone with 6GB of RAM, 128GB of storage, and a large 6.5-inch display, perfect for everyday use.",
+    "review_summary": "Users find the 5000mAh battery impressive for longevity, but the 13MP camera may not meet everyone's expectations.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno spark 8t": {
+    "description": "The Tecno Spark 8T features 4GB of RAM, 64GB of storage, and a 6.6-inch display, making it a budget-friendly option for basic tasks.",
+    "review_summary": "While the 50MP rear camera is a highlight, some users feel the overall performance is limited for more demanding applications.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13 pro (1tb)": {
+    "description": "The Apple iPhone 13 Pro boasts 1TB of storage, 6GB of RAM, and a stunning 6.1-inch display, catering to users who need ample space and performance.",
+    "review_summary": "Owners love the storage capacity and camera quality, though the high price point is a common concern.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y75 5g": {
+    "description": "The vivo Y75 5G offers 8GB of RAM, 128GB of storage, and a 6.58-inch display, providing a solid balance of performance and usability.",
+    "review_summary": "Users appreciate the 50MP rear camera and 5000mAh battery, but some wish for faster charging capabilities.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 11 5g": {
+    "description": "The Xiaomi Redmi Note 11 5G features 4GB of RAM, 128GB of storage, and a 6.6-inch display, making it a great choice for budget-conscious consumers.",
+    "review_summary": "Many users enjoy the 50MP camera and decent battery life, although some find the performance lacking for heavy multitasking.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo find x5 pro 5g": {
+    "description": "The Oppo Find X5 Pro 5G features a stunning 6.7-inch display, powerful 8GB RAM, and a robust 5000mAh battery with 80W fast charging.",
+    "review_summary": "Owners appreciate the impressive 50MP rear camera and fast charging, making it a top choice for photography enthusiasts.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y95": {
+    "description": "The Vivo Y95 offers a budget-friendly experience with a 6.22-inch screen, 4GB RAM, and a 20MP front camera for selfies.",
+    "review_summary": "While the 65 rating reflects some limitations, users enjoy the decent 20MP front camera, though performance may lag with only 4GB RAM.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi 9a (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi 9A features a 6.53-inch display, 6GB RAM, and a 5000mAh battery, making it a solid choice for everyday use.",
+    "review_summary": "With a 69 rating, users find it reliable for basic tasks, but the performance may not satisfy those seeking high-end features.",
+    "generated": true
+  },
+  "smartphone|oppo|oppo find x3 pro": {
+    "description": "The Oppo Find X3 Pro boasts a 6.7-inch screen, 12GB RAM, and a powerful 4500mAh battery, perfect for demanding users.",
+    "review_summary": "This phone is praised for its exceptional performance and camera quality, making it a favorite among tech enthusiasts.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo t1 pro": {
+    "description": "The Vivo T1 Pro features a vibrant 6.44-inch display, 6GB RAM, and a 64MP rear camera, ideal for photography and multitasking.",
+    "review_summary": "With an 81 rating, users love the impressive camera and fast charging, highlighting its value in the mid-range market.",
+    "generated": true
+  },
+  "smartphone|google|google pixel 5a": {
+    "description": "The Google Pixel 5A offers a 6.34-inch display, 6GB RAM, and a reliable 4620mAh battery, known for its excellent camera performance.",
+    "review_summary": "Users appreciate the camera quality and overall performance, though some desire faster charging options with its 18W capability.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo u3x": {
+    "description": "The Vivo U3x features a 6.58-inch screen, 6GB RAM, and a 5000mAh battery, providing a balanced performance for everyday tasks.",
+    "review_summary": "With a 71 rating, users find it satisfactory for basic use, but some may seek more advanced features in this price range.",
+    "generated": true
+  },
+  "smartphone|nokia|nokia c31": {
+    "description": "The Nokia C31 is an entry-level phone with a 6.74-inch display, 3GB RAM, and a 5050mAh battery, suitable for basic tasks.",
+    "review_summary": "At a 62 rating, users note its affordability, but performance may be limited due to the lower RAM and specs.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy a03 core": {
+    "description": "The Samsung Galaxy A03 Core features a 6.5-inch screen, 2GB RAM, and a 5000mAh battery, making it a budget-friendly option for basic tasks.",
+    "review_summary": "Owners appreciate the long-lasting 5000mAh battery, though performance may be limited with only 2GB RAM.",
+    "generated": true
+  },
+  "smartphone|realme|realme narzo 50 pro 5g (8gb ram + 128gb)": {
+    "description": "The Realme Narzo 50 Pro 5G offers 8GB RAM, 128GB storage, and a 48MP rear camera, delivering solid performance for its price.",
+    "review_summary": "Users praise its strong performance and fast 33W charging, making it a great value for 5G capabilities.",
+    "generated": true
+  },
+  "smartphone|apple|apple iphone 13": {
+    "description": "The Apple iPhone 13 features a 6.1-inch display, 4GB RAM, and dual 12MP cameras, providing a premium smartphone experience.",
+    "review_summary": "Owners enjoy the camera quality and overall performance, though some feel it's pricey compared to competitors.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola moto g62 5g": {
+    "description": "The Motorola Moto G62 5G comes with 6GB RAM, 128GB storage, and a 50MP rear camera, offering good performance for everyday use.",
+    "review_summary": "Users appreciate the camera quality and battery life, making it a reliable mid-range option.",
+    "generated": true
+  },
+  "smartphone|tecno|tecno phantom x pro": {
+    "description": "The Tecno Phantom X Pro boasts 8GB RAM, 256GB storage, and a stunning 50MP rear camera, ideal for photography enthusiasts.",
+    "review_summary": "Owners love the impressive camera and fast 44W charging, making it a standout in its price range.",
+    "generated": true
+  },
+  "smartphone|vivo|vivo y12a": {
+    "description": "The Vivo Y12a features a 6.51-inch screen, 3GB RAM, and a 5000mAh battery, suitable for basic smartphone tasks.",
+    "review_summary": "While users appreciate the battery life, the performance may be limited with only 3GB RAM.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy s22 plus 5g": {
+    "description": "The Samsung Galaxy S22 Plus 5G offers 8GB RAM, 128GB storage, and a 50MP rear camera, delivering high-end performance and features.",
+    "review_summary": "Users rave about its performance and fast 45W charging, making it a top choice for premium smartphone users.",
+    "generated": true
+  },
+  "smartphone|huawei|huawei nova 9 se": {
+    "description": "The Huawei Nova 9 SE features a 6.78-inch display, 8GB RAM, and an impressive 108MP rear camera, perfect for photography lovers.",
+    "review_summary": "Owners appreciate the camera quality and fast 66W charging, making it a strong contender in its category.",
+    "generated": true
+  },
+  "smartphone|motorola|motorola edge 40 5g": {
+    "description": "The Motorola Edge 40 5G features a vibrant 6.5-inch display, powerful 50MP rear camera, and fast 67W charging in a sleek design.",
+    "review_summary": "Owners appreciate the impressive 8GB RAM and 4200mAh battery, contributing to a solid performance and overall satisfaction.",
+    "generated": true
+  },
+  "smartphone|samsung|samsung galaxy note 10 plus": {
+    "description": "The Samsung Galaxy Note 10 Plus boasts a large 6.8-inch screen, versatile 12MP rear camera, and ample 12GB RAM for seamless multitasking.",
+    "review_summary": "Users love the premium build and performance, highlighted by the 256GB storage and 4300mAh battery, making it a top choice.",
+    "generated": true
+  },
+  "smartphone|realme|realme q5 5g": {
+    "description": "The Realme Q5 5G offers a 6.6-inch display, a robust 5000mAh battery, and a capable 50MP rear camera at an affordable price.",
+    "review_summary": "While generally well-received, some users note the 6GB RAM may limit performance under heavy use, despite its strong battery life.",
+    "generated": true
+  },
+  "smartphone|xiaomi|xiaomi redmi note 10 lite (6gb ram + 128gb)": {
+    "description": "The Xiaomi Redmi Note 10 Lite features a 6.67-inch screen, a 48MP rear camera, and a long-lasting 5020mAh battery, all at a budget-friendly price.",
+    "review_summary": "Users find it a great value with decent performance, though the 18W fast charging could be faster compared to competitors.",
+    "generated": true
+  }
+}

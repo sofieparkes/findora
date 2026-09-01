@@ -1,0 +1,501 @@
+Brand,Model,Type,Connectivity,Freq Low (Hz),Freq High (Hz),Cable Length (m),Microphone,Noise Cancellation,Foldable,Battery (hrs),BT Version,Charging Port,Color,Price (USD),Release Year,Avg Rating,Form Factor
+Master & Dynamic,Wave 700,Wireless,Bluetooth,18,20000,,True,True,False,25.9,5.0,USB-C,Gunmetal,430,2019,4.2,In-Ear
+Status Audio,Nano Max,Wireless,Bluetooth,20,25000,,True,False,True,41.7,5.2,USB-C,Sand,100,2021,4.1,On-Ear
+HIFIMAN,Pro 1000,Wireless,Bluetooth,20,22000,,True,False,True,41.1,5.3,Lightning,Pearl White,120,2018,4.4,In-Ear
+SteelSeries,True 200,Wireless,Bluetooth,20,24000,,True,True,False,14.3,Multipoint 5.3,Lightning,Matte Black,150,2023,3.8,In-Ear
+Moondrop,IE702,Wired,3.5mm,8,40000,1.5,False,False,False,,,,Midnight Blue,210,2020,4.5,In-Ear
+Edifier,Apex X,Wireless,Bluetooth,8,20000,,True,False,True,32.0,5.0,USB-C,Gunmetal,200,2024,4.5,Over-Ear
+Anker Soundcore,Drops 300,Wireless,Bluetooth,15,22000,,True,False,False,34.4,5.0,USB-C,Dark Green,160,2024,4.3,In-Ear
+iBasso,K 500 Limited,Wired,3.5mm,8,50000,3.0,False,False,False,,,,Navy,750,2018,3.9,Over-Ear
+Amazfit,X X,Wireless,Bluetooth,12,25000,,True,False,False,69.8,5.0,USB-C,Sand,80,2023,4.2,On-Ear
+Rose,SRH 150 Open,Wired,3.5mm,8,40000,1.5,False,False,False,,,,Pearl White,200,2020,4.3,Over-Ear
+Sivga,T308,Wired,3.5mm,15,30000,1.2,False,False,False,,,,Brown,270,2024,4.2,In-Ear
+64 Audio,E370,Wired,3.5mm,5,20000,1.0,True,False,False,,,,Pearl White,140,2024,4.3,In-Ear
+iBasso,E985,Wired,3.5mm,5,50000,1.5,True,False,False,,,,Brown,530,2020,4.0,In-Ear
+Bang & Olufsen,Air X,Wireless,Bluetooth,4,25000,,True,False,True,35.1,4.2,Lightning,Navy,270,2024,4.4,Over-Ear
+Panasonic,Sound 100,Wireless,Bluetooth,20,20000,,True,False,False,38.1,5.0,USB-C,Space Gray,150,2018,4.5,In-Ear
+Grado,RE245,Wired,3.5mm,14,20000,1.2,False,False,False,,,,Titanium,200,2021,3.9,In-Ear
+iBasso,RE998,Wired,3.5mm,10,50000,1.0,True,False,False,,,,Dark Green,220,2021,4.4,In-Ear
+iBasso,ATH 400,Wired,3.5mm,12,30000,2.5,False,False,True,,,,Midnight Blue,200,2021,4.3,Over-Ear
+Panasonic,Pro 200,Wireless,Bluetooth,5,30000,,True,True,True,39.6,5.1,USB-C,Navy,260,2020,4.5,Over-Ear
+KZ,IE964,Wired,3.5mm,20,40000,1.0,True,False,False,,,,Indigo,130,2024,4.2,In-Ear
+CCA,ER930,Wired,3.5mm,8,30000,1.5,False,False,False,,,,Silver,170,2023,3.7,In-Ear
+Tin HiFi,DT 150 Monitor,Wired,3.5mm,15,22000,1.2,False,False,False,,,,Rose Gold,150,2024,4.2,On-Ear
+Creative,Max 1000,Wireless,Bluetooth,18,22000,,True,True,False,73.7,5.0,Lightning,Red,120,2024,4.5,On-Ear
+Beats,Freedom 3,Wireless,Bluetooth,20,22000,,True,False,True,29.9,5.3,USB-C,Silver,150,2023,4.9,In-Ear
+Skullcandy,T501,Wired,3.5mm,15,50000,1.5,False,False,False,,,,Champagne,110,2018,4.2,In-Ear
+Sennheiser,ER488,Wired,3.5mm,20,20000,1.2,True,False,False,,,,Gunmetal,180,2017,4.1,In-Ear
+Skullcandy,Sport 700,Wireless,Bluetooth,12,25000,,True,False,True,39.8,5.0,USB-C,Graphite,60,2019,4.7,On-Ear
+CCA,IE409,Wired,3.5mm,5,50000,1.0,False,False,False,,,,Indigo,300,2019,4.3,In-Ear
+Empire Ears,K 700 Monitor,Wired,3.5mm,20,20000,1.5,False,False,False,,,,Graphite,200,2018,4.4,On-Ear
+JBL,MDR 150X,Wired,3.5mm,5,40000,1.2,True,False,False,,,,Cosmic Black,260,2023,3.4,Over-Ear
+JBL,HE 700X,Wired,3.5mm,4,22000,1.5,False,False,True,,,,Rose Gold,270,2018,4.2,Over-Ear
+Cleer,HD 5,Wireless,Bluetooth,6,30000,,True,True,False,29.9,5.3,Micro-USB,Matte Black,160,2021,4.3,Over-Ear
+Philips,Nano 200,Wireless,Bluetooth,6,20000,,True,False,False,30.3,5.2,Lightning,Red,210,2019,4.5,Over-Ear
+Pioneer,HD Pro,Wireless,Bluetooth,6,35000,,True,True,True,16.3,4.2,Micro-USB,Champagne,420,2020,4.4,Over-Ear
+Audio-Technica,Go X,Wireless,Bluetooth,4,35000,,True,False,False,61.3,5.3,USB-C,Silver,120,2022,3.9,Over-Ear
+Audio-Technica,Go 1000,Wireless,Bluetooth,20,20000,,True,False,False,22.5,5.2,Lightning,Indigo,110,2018,4.8,In-Ear
+Cleer,Pods 4,Wireless,Bluetooth,10,20000,,True,True,False,30.4,5.2,USB-C,Matte Black,240,2020,4.1,In-Ear
+Koss,Dots 2,Wireless,Bluetooth,18,20000,,True,False,True,31.4,5.2,USB-C,Forest Green,80,2018,3.9,In-Ear
+64 Audio,RE96,Wired,3.5mm,15,20000,1.2,False,False,False,,,,Carbon,200,2016,3.7,In-Ear
+Skullcandy,SE36,Wired,3.5mm,5,50000,1.0,True,False,False,,,,Champagne,190,2024,4.5,In-Ear
+SteelSeries,Active 700,Wireless,Bluetooth,15,40000,,True,True,False,31.5,5.0,Micro-USB,Graphite,220,2022,4.7,In-Ear
+Jomo Audio,RHA291,Wired,3.5mm,20,40000,1.0,False,False,False,,,,Silver,350,2018,3.7,In-Ear
+Nothing,Studio 500,Wireless,Bluetooth,10,30000,,True,False,False,32.2,5.2,USB-C,Cream,140,2019,4.6,Over-Ear
+Samsung,Buds,Wireless,Bluetooth,15,22000,,True,False,False,27.5,5.2,USB-C,Midnight Blue,150,2018,4.2,In-Ear
+Philips,Sport,Wireless,Bluetooth,18,24000,,True,False,True,26.6,5.3,USB-C,Red,110,2022,3.6,In-Ear
+JBL,SRH 990 Studio,Wired,3.5mm,15,30000,2.0,False,False,True,,,,Cosmic Black,420,2023,4.5,Over-Ear
+Turtle Beach,True 4,Wireless,Bluetooth,18,24000,,True,False,False,37.7,5.2,Lightning,Space Gray,250,2023,4.0,In-Ear
+Sony,RHA35,Wired,3.5mm,20,22000,1.2,False,False,False,,,,Titanium,420,2023,4.1,In-Ear
+Samsung,Rhythm 4,Wireless,Bluetooth,20,20000,,True,True,True,65.9,5.3,USB-C,Space Gray,310,2022,4.3,Over-Ear
+OnePlus,Everest 2,Wireless,Bluetooth,15,22000,,True,True,True,48.9,5.0,USB-C,Midnight Blue,270,2018,4.5,Over-Ear
+Sivga,HE472,Wired,3.5mm,10,22000,1.2,False,False,False,,,,Carbon,150,2017,4.5,In-Ear
+Pioneer,Plus 1000,Wireless,Bluetooth,15,40000,,True,True,True,40.0,5.2,Micro-USB,Matte Black,360,2020,4.0,In-Ear
+Turtle Beach,Dots 500,Wireless,Bluetooth,20,22000,,True,False,True,20.5,5.0,Lightning,Brown,200,2021,4.5,In-Ear
+Amazfit,Live 5,Wireless,Bluetooth,8,30000,,True,False,False,27.7,5.3,USB-C,Silver,200,2021,4.0,Over-Ear
+Shure,SRH 600,Wired,3.5mm,5,50000,3.0,False,False,True,,,,Pearl White,210,2019,4.9,Over-Ear
+1MORE,N536,Wired,3.5mm,10,30000,1.0,False,False,False,,,,Cosmic Black,210,2019,4.6,In-Ear
+Shure,SE705,Wired,3.5mm,20,40000,1.0,False,False,False,,,,Titanium,450,2024,4.7,In-Ear
+Skullcandy,EW684,Wired,3.5mm,8,22000,1.5,True,False,False,,,,Titanium,380,2020,4.5,In-Ear
+Dan Clark Audio,HE 100X,Wired,3.5mm,10,50000,2.0,False,False,False,,,,Sand,320,2021,4.6,Over-Ear
+Nothing,Air 300,Wireless,Bluetooth,8,25000,,True,False,False,61.6,5.3,USB-C,Matte Black,150,2021,4.3,Over-Ear
+V-MODA,Signature 2,Wireless,Bluetooth,12,25000,,True,True,False,31.3,5.2,USB-C,Space Gray,80,2020,4.3,On-Ear
+Mpow,Go 200,Wireless,Bluetooth,18,40000,,True,True,True,26.8,5.2,Micro-USB,Forest Green,290,2019,4.6,In-Ear
+Meze,IE708,Wired,3.5mm,5,40000,1.5,False,False,False,,,,Pearl White,140,2020,4.4,In-Ear
+Fiio,EW671,Wired,3.5mm,8,20000,1.2,True,False,False,,,,Carbon,490,2024,3.9,In-Ear
+Amazfit,Buds,Wireless,Bluetooth,10,22000,,True,False,True,16.3,5.1,USB-C,Space Gray,140,2023,4.9,In-Ear
+Plantronics,Reference 900,Wireless,Bluetooth,20,35000,,True,True,True,55.1,5.3,USB-C,Titanium,230,2021,4.3,Over-Ear
+Creative,Rhythm Pro,Wireless,Bluetooth,12,25000,,True,False,False,53.1,5.1,Lightning,Space Gray,150,2023,4.0,On-Ear
+Rose,EW381,Wired,3.5mm,5,50000,1.2,False,False,False,,,,Sand,190,2021,3.3,In-Ear
+Logitech,Sport 300,Wireless,Bluetooth,15,24000,,True,True,False,51.8,5.2,USB-C,Sand,230,2018,4.1,In-Ear
+OnePlus,Air 1000,Wireless,Bluetooth,10,30000,,True,True,False,22.0,5.0,USB-C,Indigo,260,2019,4.2,Over-Ear
+Sony,Plus 4,Wireless,Bluetooth,18,20000,,True,True,False,32.1,Multipoint 5.3,Micro-USB,Rose Gold,250,2023,4.4,In-Ear
+Unique Melody,SR 990X,Wired,3.5mm,5,25000,1.5,False,False,False,,,,Pearl White,210,2022,3.4,Over-Ear
+Thieaudio,SR 100X,Wired,3.5mm,5,35000,2.5,False,False,True,,,,Graphite,610,2016,4.6,Over-Ear
+UE,RE594,Wired,3.5mm,20,20000,1.0,False,False,False,,,,Silver,480,2020,4.8,In-Ear
+Grado,Active 700,Wireless,Bluetooth,10,24000,,True,True,False,19.1,5.2,Lightning,Midnight Blue,280,2021,3.9,In-Ear
+Master & Dynamic,Rush,Wireless,Bluetooth,20,24000,,True,True,False,26.2,5.2,USB-C,Silver,190,2020,4.6,In-Ear
+Etymotic,DCA 400 Limited,Wired,3.5mm,5,30000,1.5,False,False,False,,,,Champagne,90,2018,4.0,Over-Ear
+Rose,RE811,Wired,3.5mm,8,20000,1.0,True,False,False,,,,Matte Black,160,2021,4.0,In-Ear
+Beyerdynamic,SRH 800 Open,Wired,3.5mm,20,22000,1.5,False,False,False,,,,Silver,50,2022,3.8,On-Ear
+Jabra,Pods 200,Wireless,Bluetooth,20,20000,,True,False,False,31.6,5.3,USB-C,Titanium,130,2022,4.7,In-Ear
+1MORE,SR 250 Studio,Wired,3.5mm,5,50000,2.5,True,False,False,,,,Space Gray,180,2017,4.5,Over-Ear
+Plantronics,Bass Max,Wireless,Bluetooth,18,22000,,True,False,False,40.1,Multipoint 5.3,Micro-USB,Space Gray,130,2022,4.6,In-Ear
+Amazfit,Core 3,Wireless,Bluetooth,20,20000,,True,False,False,42.8,4.2,USB-C,Pearl White,170,2024,4.3,In-Ear
+Panasonic,True 900,Wireless,Bluetooth,18,20000,,True,False,False,38.0,5.2,USB-C,Matte Black,70,2019,4.3,In-Ear
+Wyze,Bass 4,Wireless,Bluetooth,18,24000,,True,True,False,36.7,Multipoint 5.3,Micro-USB,Rose Gold,150,2018,4.5,In-Ear
+Beats,Go 1000,Wireless,Bluetooth,15,40000,,True,True,False,27.4,5.3,USB-C,Black,190,2020,4.5,In-Ear
+Master & Dynamic,Core 200,Wireless,Bluetooth,10,40000,,True,False,False,34.8,5.1,Micro-USB,Dark Green,100,2024,4.3,In-Ear
+Audio-Technica,LCD 500X,Wired,3.5mm,15,40000,1.5,False,False,False,,,,Carbon,190,2017,3.9,Over-Ear
+TOZO,Drift 1000,Wireless,Bluetooth,10,22000,,True,True,False,29.3,Multipoint 5.3,USB-C,Matte Black,300,2022,4.1,In-Ear
+Master & Dynamic,Rhythm 500,Wireless,Bluetooth,20,20000,,True,False,True,20.4,5.1,Lightning,Midnight Blue,170,2021,4.3,Over-Ear
+1MORE,Freedom 500,Wireless,Bluetooth,15,24000,,True,False,False,20.4,5.0,USB-C,Gunmetal,210,2020,4.5,In-Ear
+JBL,Max 300,Wireless,Bluetooth,4,25000,,True,False,False,17.6,5.0,USB-C,Cream,220,2022,3.9,Over-Ear
+Beyerdynamic,Reference 100,Wireless,Bluetooth,18,20000,,True,False,True,49.6,5.0,Lightning,Space Gray,270,2020,4.6,Over-Ear
+Koss,MDR 500,Wired,3.5mm,15,40000,2.5,True,False,True,,,,White,310,2023,4.5,Over-Ear
+Skullcandy,HE907,Wired,3.5mm,20,40000,1.2,False,False,False,,,,Brown,390,2016,4.6,In-Ear
+Grado,DT 700 Open,Wired,3.5mm,18,22000,1.2,True,False,False,,,,Silver,50,2023,4.4,On-Ear
+Vision Ears,E543,Wired,3.5mm,14,20000,1.5,False,False,False,,,,Titanium,470,2022,3.7,In-Ear
+Beyerdynamic,Active X,Wireless,Bluetooth,18,24000,,True,True,False,23.8,5.0,Lightning,Champagne,130,2020,4.3,In-Ear
+OnePlus,Air 3,Wireless,Bluetooth,20,22000,,True,True,False,45.9,5.1,Micro-USB,Champagne,230,2019,4.6,In-Ear
+TOZO,Reference 500,Wireless,Bluetooth,18,22000,,True,False,True,53.3,5.3,Micro-USB,Titanium,170,2022,4.1,On-Ear
+Skullcandy,Buds 4,Wireless,Bluetooth,18,40000,,True,False,False,15.7,5.2,USB-C,Cream,70,2024,4.6,In-Ear
+OnePlus,Signature 1000,Wireless,Bluetooth,5,20000,,True,False,True,33.7,5.1,USB-C,Graphite,160,2020,4.4,Over-Ear
+iBasso,RHA641,Wired,3.5mm,14,50000,1.2,False,False,False,,,,Matte Black,210,2017,4.0,In-Ear
+Skullcandy,Vibe Max,Wireless,Bluetooth,8,30000,,True,True,True,71.2,5.0,Lightning,Red,270,2020,4.3,Over-Ear
+Monoprice,Apex 900,Wireless,Bluetooth,15,22000,,True,False,False,42.7,5.3,USB-C,Titanium,150,2024,3.9,On-Ear
+Westone,SR 250 Open,Wired,3.5mm,5,50000,2.0,True,False,False,,,,Space Gray,130,2019,4.2,Over-Ear
+Monoprice,Max 4,Wireless,Bluetooth,5,20000,,True,False,True,46.8,5.1,Lightning,Navy,200,2019,4.7,Over-Ear
+Panasonic,Vibe 1000,Wireless,Bluetooth,20,22000,,True,False,False,19.7,5.2,USB-C,Gunmetal,130,2021,4.4,Over-Ear
+Tin HiFi,HE 990,Wired,3.5mm,12,40000,2.0,False,False,False,,,,Navy,90,2023,4.2,Over-Ear
+Focal,Clear 900,Wireless,Bluetooth,10,40000,,True,True,False,15.3,4.2,USB-C,Black,320,2018,4.4,In-Ear
+Westone,HE897,Wired,3.5mm,14,30000,1.0,True,False,False,,,,Gunmetal,290,2019,4.4,In-Ear
+Westone,LCD 1000 Monitor,Wired,3.5mm,15,50000,3.0,False,False,True,,,,Carbon,160,2021,4.1,Over-Ear
+OnePlus,Wave Max,Wireless,Bluetooth,10,22000,,True,False,True,8.6,5.0,USB-C,Forest Green,110,2018,4.4,In-Ear
+Jabra,Sport Max,Wireless,Bluetooth,10,20000,,True,True,True,64.4,5.3,USB-C,Cream,330,2021,4.1,Over-Ear
+Tribit,Mini 900,Wireless,Bluetooth,4,35000,,True,False,True,20.3,4.2,USB-C,Titanium,270,2018,3.9,Over-Ear
+CCA,IE244,Wired,3.5mm,5,40000,1.2,False,False,False,,,,Silver,290,2023,3.6,In-Ear
+Fiio,MDR 150Pro,Wired,3.5mm,4,40000,1.5,True,False,False,,,,Cream,130,2016,4.4,Over-Ear
+Skullcandy,ER813,Wired,3.5mm,15,40000,1.0,False,False,False,,,,Rose Gold,190,2021,4.4,In-Ear
+Vision Ears,LCD 300X,Wired,3.5mm,12,30000,1.5,False,False,False,,,,Carbon,220,2017,4.0,Over-Ear
+Beats,True 5,Wireless,Bluetooth,18,20000,,True,False,False,44.7,5.0,Micro-USB,Brown,120,2023,4.9,In-Ear
+Unique Melody,SE563,Wired,3.5mm,14,50000,1.5,False,False,False,,,,Gunmetal,150,2018,3.9,In-Ear
+Bowers & Wilkins,Nano 100,Wireless,Bluetooth,10,25000,,True,True,False,31.1,5.2,USB-C,Cream,290,2023,4.3,On-Ear
+AKG,DT 100 Limited,Wired,3.5mm,8,35000,1.5,True,False,True,,,,Pearl White,360,2021,4.3,Over-Ear
+Pioneer,Prestige 500,Wireless,Bluetooth,15,30000,,True,True,True,43.3,4.2,USB-C,Silver,160,2021,4.6,Over-Ear
+Beats,Nano 3,Wireless,Bluetooth,20,25000,,True,False,True,21.8,5.2,USB-C,Gunmetal,210,2024,4.3,Over-Ear
+Plantronics,Sound 900,Wireless,Bluetooth,20,20000,,True,False,True,37.9,5.3,USB-C,Pearl White,120,2022,4.2,In-Ear
+HyperX,Active 2,Wireless,Bluetooth,5,20000,,True,True,True,23.7,5.2,USB-C,Cosmic Black,210,2024,4.7,Over-Ear
+Razer,Sparks X,Wireless,Bluetooth,15,20000,,True,False,False,40.1,5.1,USB-C,Forest Green,110,2019,4.8,In-Ear
+Creative,Studio 300,Wireless,Bluetooth,8,40000,,True,True,True,34.0,5.1,Micro-USB,Champagne,390,2020,4.6,Over-Ear
+Razer,Clear 700,Wireless,Bluetooth,10,20000,,True,False,False,16.4,5.0,USB-C,Graphite,90,2024,4.4,In-Ear
+EarFun,Freedom 300,Wireless,Bluetooth,20,20000,,True,True,False,19.8,5.2,Lightning,Forest Green,250,2019,4.5,In-Ear
+Shokz,Studio 1000,Wireless,Bluetooth,18,25000,,True,False,True,51.6,5.2,USB-C,Graphite,90,2023,3.9,On-Ear
+Technics,Studio 300,Wireless,Bluetooth,8,22000,,True,True,True,49.0,Multipoint 5.3,USB-C,Midnight Blue,260,2023,4.2,Over-Ear
+Bose,Go 200,Wireless,Bluetooth,10,25000,,True,True,False,56.9,5.0,Micro-USB,Sand,120,2023,4.2,On-Ear
+Grado,RHA233,Wired,3.5mm,14,50000,1.2,False,False,False,,,,Champagne,530,2018,4.4,In-Ear
+Plantronics,Studio 100,Wireless,Bluetooth,12,25000,,True,False,False,37.8,5.1,Lightning,Midnight Blue,280,2019,4.5,Over-Ear
+Monoprice,Sport,Wireless,Bluetooth,8,30000,,True,False,True,36.7,5.2,USB-C,Cream,150,2023,4.1,Over-Ear
+TOZO,Go 200,Wireless,Bluetooth,18,22000,,True,False,False,39.2,5.2,Micro-USB,Space Gray,250,2020,4.1,In-Ear
+AKG,DCA 800Pro,Wired,3.5mm,10,40000,1.5,False,False,True,,,,Midnight Blue,540,2017,3.8,Over-Ear
+Skullcandy,Elite 300,Wireless,Bluetooth,20,25000,,True,False,True,57.7,5.2,Micro-USB,Sand,170,2018,3.8,Over-Ear
+Beats,Pods 200,Wireless,Bluetooth,20,22000,,True,False,False,41.4,5.1,Micro-USB,Brown,230,2021,4.0,In-Ear
+Grado,EW892,Wired,3.5mm,8,30000,1.2,False,False,False,,,,Cosmic Black,190,2024,4.0,In-Ear
+Bang & Olufsen,Drift 3,Wireless,Bluetooth,20,40000,,True,False,False,17.3,5.3,USB-C,Silver,100,2019,4.7,In-Ear
+Denon,Studio X,Wireless,Bluetooth,20,20000,,True,False,False,45.7,5.1,Micro-USB,Matte Black,150,2020,3.5,Over-Ear
+Audio-Technica,Air 200,Wireless,Bluetooth,15,40000,,True,True,True,43.1,5.2,USB-C,Cosmic Black,270,2021,4.0,In-Ear
+Sony,Sound 1000,Wireless,Bluetooth,20,24000,,True,True,True,53.4,5.1,USB-C,Cream,170,2020,3.6,In-Ear
+Sennheiser,Core 2,Wireless,Bluetooth,20,22000,,True,True,False,14.0,5.2,Lightning,Navy,160,2024,4.4,In-Ear
+Sennheiser,Everest 900,Wireless,Bluetooth,5,40000,,True,False,False,38.9,5.2,Micro-USB,Brown,160,2023,4.1,Over-Ear
+SteelSeries,Zen 2,Wireless,Bluetooth,18,20000,,True,True,True,33.2,5.3,USB-C,Sand,330,2021,4.3,Over-Ear
+Beats,Wings 5,Wireless,Bluetooth,20,24000,,True,False,False,26.5,4.2,USB-C,Graphite,130,2023,4.2,In-Ear
+Grado,SRH 150 Open,Wired,3.5mm,5,40000,1.5,False,False,False,,,,Sand,300,2024,4.4,Over-Ear
+Thieaudio,DT 800 Limited,Wired,3.5mm,4,35000,1.5,False,False,False,,,,Space Gray,80,2018,4.5,Over-Ear
+Sony,Veritas 4,Wireless,Bluetooth,15,22000,,True,False,True,36.1,5.2,USB-C,White,240,2022,4.4,Over-Ear
+AKG,E488,Wired,3.5mm,20,20000,1.0,False,False,False,,,,Dark Green,180,2018,4.2,In-Ear
+Audeze,RE519,Wired,3.5mm,5,50000,1.5,False,False,False,,,,Carbon,100,2024,4.5,In-Ear
+Pioneer,Clear 100,Wireless,Bluetooth,20,24000,,True,True,False,21.0,Multipoint 5.3,USB-C,Pearl White,210,2019,4.4,In-Ear
+Fiio,RHA202,Wired,3.5mm,5,40000,1.0,True,False,False,,,,Sand,160,2018,4.8,In-Ear
+AKG,Everest 500,Wireless,Bluetooth,20,25000,,True,False,True,64.6,Multipoint 5.3,USB-C,Pearl White,150,2024,4.5,Over-Ear
+Creative,Aura 3,Wireless,Bluetooth,18,40000,,True,True,True,26.5,5.1,Lightning,Space Gray,250,2019,4.5,In-Ear
+Moondrop,LCD 300 Monitor,Wired,3.5mm,15,40000,1.5,False,False,True,,,,Space Gray,130,2017,4.2,Over-Ear
+Focal,IE187,Wired,3.5mm,14,22000,1.0,False,False,False,,,,Graphite,60,2017,4.0,In-Ear
+Etymotic,DCA 150X,Wired,3.5mm,4,25000,1.5,False,False,True,,,,Brown,110,2017,4.1,Over-Ear
+CCA,EW388,Wired,3.5mm,10,30000,1.0,True,False,False,,,,Indigo,320,2017,3.8,In-Ear
+Moondrop,HE100,Wired,3.5mm,8,30000,1.2,False,False,False,,,,Cream,80,2021,4.1,In-Ear
+Meze,HE 600,Wired,3.5mm,8,40000,2.5,False,False,False,,,,Dark Green,250,2017,4.4,Over-Ear
+Rose,T831,Wired,3.5mm,20,22000,1.0,False,False,False,,,,Dark Green,240,2018,3.4,In-Ear
+Anker Soundcore,Sparks 300,Wireless,Bluetooth,15,24000,,True,True,False,36.6,5.2,USB-C,Forest Green,360,2023,4.0,In-Ear
+Bowers & Wilkins,Bass,Wireless,Bluetooth,20,40000,,True,False,True,26.8,5.0,USB-C,Cosmic Black,170,2019,4.4,In-Ear
+Moondrop,SE898,Wired,3.5mm,15,22000,1.0,False,False,False,,,,Carbon,270,2023,4.6,In-Ear
+Edifier,Reference 1000,Wireless,Bluetooth,18,20000,,True,True,True,48.8,5.2,Lightning,Rose Gold,140,2018,4.4,Over-Ear
+Skullcandy,N345,Wired,3.5mm,14,20000,1.5,False,False,False,,,,Black,420,2021,4.4,In-Ear
+Focal,X 200,Wireless,Bluetooth,18,20000,,True,True,False,21.2,5.2,Micro-USB,Dark Green,150,2022,4.1,Over-Ear
+ZMF,IE623,Wired,3.5mm,15,50000,1.5,True,False,False,,,,White,190,2019,3.5,In-Ear
+Turtle Beach,Apex Max,Wireless,Bluetooth,6,40000,,True,True,True,38.9,5.3,USB-C,Rose Gold,260,2021,4.4,Over-Ear
+Beyerdynamic,LCD 400 Limited,Wired,3.5mm,8,40000,2.0,False,False,False,,,,Pearl White,330,2023,4.1,Over-Ear
+Campfire Audio,E203,Wired,3.5mm,20,20000,1.2,False,False,False,,,,Rose Gold,370,2018,3.9,In-Ear
+Letshuoer,LCD 990 Studio,Wired,3.5mm,8,25000,1.5,True,False,False,,,,Gunmetal,540,2017,4.2,Over-Ear
+Amazfit,Sound Max,Wireless,Bluetooth,10,24000,,True,True,True,36.1,5.0,USB-C,Forest Green,270,2019,4.7,In-Ear
+Koss,HE892,Wired,3.5mm,5,22000,1.5,False,False,False,,,,Space Gray,50,2017,3.4,In-Ear
+Philips,N223,Wired,3.5mm,8,20000,1.5,False,False,False,,,,Sand,170,2023,3.5,In-Ear
+Meze,K 1000 Studio,Wired,3.5mm,15,50000,1.5,False,False,True,,,,Graphite,180,2021,4.6,Over-Ear
+Mpow,Sport 4,Wireless,Bluetooth,10,24000,,True,True,False,37.3,Multipoint 5.3,USB-C,Carbon,190,2020,4.6,In-Ear
+Status Audio,Go 900,Wireless,Bluetooth,15,40000,,True,True,False,34.8,5.0,Lightning,White,220,2021,4.3,In-Ear
+Thieaudio,SR 600 Monitor,Wired,3.5mm,10,50000,1.5,False,False,False,,,,Sand,360,2016,4.6,Over-Ear
+Sensaphonics,HE467,Wired,3.5mm,10,30000,1.2,True,False,False,,,,Silver,150,2018,4.1,In-Ear
+Cleer,Ultra 700,Wireless,Bluetooth,5,30000,,True,False,True,25.5,5.0,USB-C,Graphite,130,2024,4.2,Over-Ear
+Bowers & Wilkins,Veritas Max,Wireless,Bluetooth,15,22000,,True,True,True,36.8,5.2,Lightning,Pearl White,200,2024,4.4,On-Ear
+1MORE,Pro 2,Wireless,Bluetooth,10,35000,,True,True,False,42.0,5.2,USB-C,Champagne,370,2018,4.8,Over-Ear
+Grado,Air 200,Wireless,Bluetooth,4,25000,,True,True,True,29.7,5.2,USB-C,Gunmetal,340,2018,4.1,Over-Ear
+iBasso,HD 990X,Wired,3.5mm,15,22000,1.2,False,False,False,,,,Gunmetal,70,2016,4.2,On-Ear
+JBL,Prestige 900,Wireless,Bluetooth,18,20000,,True,True,True,22.4,5.2,Lightning,Carbon,120,2021,3.9,Over-Ear
+HyperX,Sport 4,Wireless,Bluetooth,15,22000,,True,True,True,30.2,5.3,USB-C,Midnight Blue,210,2024,4.4,On-Ear
+Bose,Nano,Wireless,Bluetooth,20,35000,,True,True,False,45.2,4.2,USB-C,Black,310,2020,4.2,Over-Ear
+HiFiMAN,SE160,Wired,3.5mm,20,22000,1.0,False,False,False,,,,Forest Green,190,2020,4.5,In-Ear
+Sony,True 700,Wireless,Bluetooth,18,22000,,True,True,False,47.7,5.0,Micro-USB,Silver,240,2018,4.4,In-Ear
+Jabra,Wings 900,Wireless,Bluetooth,15,40000,,True,True,False,21.6,5.2,USB-C,Silver,240,2019,4.7,In-Ear
+Philips,ATH 1000 Studio,Wired,3.5mm,10,25000,1.2,False,False,True,,,,Silver,260,2018,4.1,Over-Ear
+Amazfit,Live 3,Wireless,Bluetooth,8,35000,,True,True,True,22.8,5.3,USB-C,Carbon,190,2019,4.3,Over-Ear
+Skullcandy,ER419,Wired,3.5mm,20,20000,1.0,False,False,False,,,,Brown,200,2023,4.3,In-Ear
+Sensaphonics,RE385,Wired,3.5mm,5,22000,1.5,False,False,False,,,,Indigo,120,2017,3.7,In-Ear
+CCA,SRH 600 Open,Wired,3.5mm,20,22000,1.2,False,False,False,,,,Forest Green,50,2023,4.1,On-Ear
+Focal,HE 80Pro,Wired,3.5mm,10,50000,3.0,False,False,False,,,,Cream,170,2023,4.0,Over-Ear
+Sony,MDR 300 Limited,Wired,3.5mm,15,25000,3.0,False,False,False,,,,White,350,2023,3.5,Over-Ear
+HiFiMAN,LCD 100 Open,Wired,3.5mm,8,22000,2.0,False,False,False,,,,Indigo,250,2020,3.8,Over-Ear
+Beyerdynamic,Go 500,Wireless,Bluetooth,20,24000,,True,True,False,12.9,5.3,USB-C,Graphite,270,2021,3.7,In-Ear
+Philips,Elite X,Wireless,Bluetooth,8,22000,,True,False,True,36.4,5.0,USB-C,Sand,210,2020,4.1,Over-Ear
+DUNU,RHA382,Wired,3.5mm,14,20000,1.5,False,False,False,,,,Space Gray,200,2018,4.9,In-Ear
+Philips,Vibe 200,Wireless,Bluetooth,20,20000,,True,True,False,53.4,4.2,USB-C,Navy,160,2019,4.3,Over-Ear
+Thieaudio,T509,Wired,3.5mm,10,20000,1.5,False,False,False,,,,Graphite,240,2020,4.6,In-Ear
+Focal,Ultra 5,Wireless,Bluetooth,15,30000,,True,True,True,45.8,5.0,Micro-USB,Carbon,270,2024,3.9,Over-Ear
+Sennheiser,SRH 900 Monitor,Wired,3.5mm,8,35000,2.0,False,False,False,,,,Titanium,190,2022,4.2,Over-Ear
+Bose,Max 500,Wireless,Bluetooth,10,20000,,True,True,True,20.7,5.3,USB-C,Sand,200,2019,4.3,On-Ear
+Bowers & Wilkins,True 700,Wireless,Bluetooth,18,40000,,True,True,False,57.5,5.2,USB-C,Champagne,120,2024,4.2,In-Ear
+Status Audio,Rhythm,Wireless,Bluetooth,5,35000,,True,True,False,21.8,5.3,Lightning,Black,210,2023,4.4,Over-Ear
+Apple,Freedom 100,Wireless,Bluetooth,10,22000,,True,False,False,40.4,5.3,USB-C,Brown,140,2020,4.5,In-Ear
+Jabra,Freedom 200,Wireless,Bluetooth,20,20000,,True,False,False,20.4,5.3,USB-C,Cosmic Black,130,2021,4.2,In-Ear
+Beyerdynamic,T483,Wired,3.5mm,14,40000,1.2,True,False,False,,,,Gunmetal,60,2023,4.4,In-Ear
+Turtle Beach,True 300,Wireless,Bluetooth,15,22000,,True,True,False,20.7,Multipoint 5.3,USB-C,Silver,260,2024,4.4,In-Ear
+Pioneer,Sound 300,Wireless,Bluetooth,15,20000,,True,True,False,42.5,Multipoint 5.3,Micro-USB,Brown,130,2024,4.7,In-Ear
+HiFiMAN,E779,Wired,3.5mm,15,22000,1.0,False,False,False,,,,Dark Green,200,2022,4.8,In-Ear
+Amazfit,Vibe Pro,Wireless,Bluetooth,5,22000,,True,False,True,21.8,5.3,USB-C,Silver,110,2024,4.0,Over-Ear
+Shure,EW20,Wired,3.5mm,5,50000,1.2,False,False,False,,,,Pearl White,690,2024,4.8,In-Ear
+Skullcandy,DT 800 Limited,Wired,3.5mm,12,40000,2.0,False,False,False,,,,Midnight Blue,150,2017,4.3,Over-Ear
+HiFiMAN,SRH 1000Pro,Wired,3.5mm,12,50000,2.5,True,False,True,,,,Navy,280,2019,4.2,Over-Ear
+Logitech,Live X,Wireless,Bluetooth,15,25000,,True,False,True,25.9,Multipoint 5.3,USB-C,Indigo,90,2020,4.6,Over-Ear
+Koss,Max 300,Wireless,Bluetooth,5,40000,,True,False,False,53.0,4.2,Micro-USB,Pearl White,180,2024,4.5,Over-Ear
+1MORE,Fit 200,Wireless,Bluetooth,18,40000,,True,True,False,14.2,4.2,USB-C,Cosmic Black,130,2019,4.1,In-Ear
+Bowers & Wilkins,Dots 1000,Wireless,Bluetooth,10,22000,,True,False,False,11.2,5.0,USB-C,Forest Green,170,2023,4.1,In-Ear
+Sennheiser,One 3,Wireless,Bluetooth,10,40000,,True,True,True,75.2,5.0,USB-C,Dark Green,250,2021,4.5,Over-Ear
+Bowers & Wilkins,Clear X,Wireless,Bluetooth,20,24000,,True,True,False,21.4,Multipoint 5.3,USB-C,Cosmic Black,200,2021,4.2,In-Ear
+Jabra,Ultra 200,Wireless,Bluetooth,8,40000,,True,False,True,36.5,5.3,USB-C,Rose Gold,130,2020,4.3,Over-Ear
+Unique Melody,SR 800,Wired,3.5mm,15,22000,1.5,False,False,False,,,,Pearl White,460,2023,4.3,Over-Ear
+Audio-Technica,Aura 500,Wireless,Bluetooth,20,20000,,True,False,True,18.8,5.2,USB-C,Sand,160,2023,4.6,In-Ear
+Focal,MDR 100Pro,Wired,3.5mm,4,35000,2.5,True,False,True,,,,Space Gray,310,2017,4.3,Over-Ear
+Creative,HD 300,Wireless,Bluetooth,8,30000,,True,False,True,52.8,5.0,USB-C,Sand,180,2021,4.3,Over-Ear
+DUNU,SR 500,Wired,3.5mm,8,50000,2.0,True,False,False,,,,Cosmic Black,270,2021,3.6,Over-Ear
+1MORE,One Pro,Wireless,Bluetooth,8,40000,,True,True,True,32.1,5.2,Lightning,Sand,250,2024,4.5,Over-Ear
+JBL,T717,Wired,3.5mm,8,40000,1.2,False,False,False,,,,Champagne,160,2024,4.1,In-Ear
+Focal,DCA 990 Studio,Wired,3.5mm,8,50000,3.0,False,False,True,,,,Pearl White,210,2021,4.5,Over-Ear
+Master & Dynamic,Dots,Wireless,Bluetooth,15,22000,,True,True,False,19.3,Multipoint 5.3,USB-C,Graphite,140,2024,4.4,In-Ear
+Beyerdynamic,Series 200,Wireless,Bluetooth,10,24000,,True,False,False,15.9,Multipoint 5.3,USB-C,Indigo,180,2023,3.7,In-Ear
+Empire Ears,RE767,Wired,3.5mm,15,30000,1.0,False,False,False,,,,Black,230,2024,3.9,In-Ear
+Unique Melody,MDR 150,Wired,3.5mm,18,22000,1.5,False,False,False,,,,Brown,90,2022,4.6,On-Ear
+Plantronics,Sparks 100,Wireless,Bluetooth,10,24000,,True,True,False,34.0,5.2,Lightning,Matte Black,260,2020,4.1,In-Ear
+Shure,DCA 900,Wired,3.5mm,12,25000,2.0,True,False,True,,,,Champagne,350,2020,3.9,Over-Ear
+Kinera,ER680,Wired,3.5mm,8,22000,1.2,False,False,False,,,,Cream,130,2021,4.3,In-Ear
+Beyerdynamic,RE530,Wired,3.5mm,8,22000,1.0,True,False,False,,,,Space Gray,240,2021,4.0,In-Ear
+CCA,EW119,Wired,3.5mm,20,50000,1.5,True,False,False,,,,Graphite,110,2023,4.3,In-Ear
+Tin HiFi,HE 80 Monitor,Wired,3.5mm,10,40000,1.5,False,False,True,,,,Red,140,2024,4.5,Over-Ear
+Sennheiser,E603,Wired,3.5mm,10,22000,1.5,False,False,False,,,,Cosmic Black,230,2016,4.1,In-Ear
+Denon,Rush 700,Wireless,Bluetooth,20,40000,,True,True,True,16.2,5.2,Micro-USB,Forest Green,310,2020,4.3,In-Ear
+Master & Dynamic,Clear 4,Wireless,Bluetooth,18,40000,,True,False,True,51.4,5.1,USB-C,Champagne,220,2022,4.2,In-Ear
+Monolith,N332,Wired,3.5mm,8,50000,1.0,False,False,False,,,,Graphite,240,2022,3.5,In-Ear
+Sennheiser,SRH 900X,Wired,3.5mm,12,22000,1.2,False,False,False,,,,Forest Green,320,2018,5.0,Over-Ear
+ZMF,SRH 100 Limited,Wired,3.5mm,5,30000,1.2,True,False,False,,,,Dark Green,240,2019,4.4,Over-Ear
+Sennheiser,Wings 700,Wireless,Bluetooth,15,22000,,True,True,False,21.8,5.3,USB-C,Cream,250,2019,4.2,In-Ear
+Shure,EW516,Wired,3.5mm,15,20000,1.0,True,False,False,,,,Titanium,120,2021,4.5,In-Ear
+JBL,K 150 Open,Wired,3.5mm,20,20000,1.5,True,False,False,,,,Silver,160,2016,3.9,On-Ear
+Letshuoer,DT 800,Wired,3.5mm,15,22000,1.5,False,False,False,,,,White,140,2017,4.7,On-Ear
+Baseus,Nano 2,Wireless,Bluetooth,6,25000,,True,False,True,28.5,5.3,USB-C,Cream,130,2021,4.4,Over-Ear
+Marshall,Core,Wireless,Bluetooth,20,22000,,True,True,True,43.3,5.2,USB-C,Graphite,480,2022,4.3,In-Ear
+AKG,Drops Max,Wireless,Bluetooth,15,22000,,True,False,False,13.8,Multipoint 5.3,Micro-USB,Brown,210,2020,4.1,In-Ear
+Sivga,K 500Pro,Wired,3.5mm,4,50000,2.5,True,False,False,,,,Navy,320,2018,3.8,Over-Ear
+HiFiMAN,T383,Wired,3.5mm,10,22000,1.2,True,False,False,,,,Red,400,2021,4.1,In-Ear
+AKG,Vibe X,Wireless,Bluetooth,18,22000,,True,True,False,54.2,5.3,USB-C,Cream,190,2019,4.6,On-Ear
+AKG,N995,Wired,3.5mm,15,50000,1.0,False,False,False,,,,Navy,710,2023,4.3,In-Ear
+Meze,K 600 Limited,Wired,3.5mm,4,30000,1.2,False,False,False,,,,Dark Green,840,2023,4.3,Over-Ear
+CCA,HE619,Wired,3.5mm,14,20000,1.5,False,False,False,,,,Cosmic Black,120,2016,3.4,In-Ear
+Mpow,Sparks 100,Wireless,Bluetooth,18,40000,,True,True,False,31.5,5.2,USB-C,Brown,420,2018,4.3,In-Ear
+Simgot,HE545,Wired,3.5mm,8,50000,1.0,False,False,False,,,,Dark Green,90,2017,3.9,In-Ear
+Grado,Wave 2,Wireless,Bluetooth,20,22000,,True,True,False,47.9,5.3,Micro-USB,Champagne,130,2021,4.5,In-Ear
+Skullcandy,Pro 500,Wireless,Bluetooth,18,40000,,True,False,True,19.3,Multipoint 5.3,Micro-USB,Cosmic Black,170,2023,4.7,Over-Ear
+Plantronics,Wings Max,Wireless,Bluetooth,10,22000,,True,True,False,31.8,5.0,Lightning,Graphite,150,2023,4.0,In-Ear
+Cleer,True 4,Wireless,Bluetooth,20,24000,,True,True,True,43.2,5.0,USB-C,Black,200,2021,4.9,In-Ear
+AKG,Drops 100,Wireless,Bluetooth,10,22000,,True,False,False,27.5,5.2,Lightning,Pearl White,80,2019,4.6,In-Ear
+OnePlus,Active 200,Wireless,Bluetooth,18,24000,,True,False,False,38.9,5.3,USB-C,Red,150,2021,4.1,In-Ear
+DUNU,IE595,Wired,3.5mm,15,40000,1.5,False,False,False,,,,Gunmetal,240,2016,4.1,In-Ear
+Samsung,Studio 500,Wireless,Bluetooth,18,20000,,True,True,False,40.0,5.0,USB-C,Cream,160,2023,4.7,Over-Ear
+Denon,Air 900,Wireless,Bluetooth,12,30000,,True,True,False,26.4,5.0,USB-C,Forest Green,290,2022,4.1,Over-Ear
+Tribit,Tune 3,Wireless,Bluetooth,12,20000,,True,False,False,55.4,5.3,Lightning,Pearl White,90,2023,4.5,On-Ear
+64 Audio,LCD 500X,Wired,3.5mm,12,22000,2.0,False,False,False,,,,Brown,210,2019,3.9,Over-Ear
+Koss,Plus 1000,Wireless,Bluetooth,15,25000,,True,True,True,38.7,5.1,USB-C,Silver,160,2023,4.7,Over-Ear
+Philips,Max 5,Wireless,Bluetooth,18,40000,,True,False,True,30.1,5.3,USB-C,Brown,190,2020,4.5,Over-Ear
+Apple,Buds 300,Wireless,Bluetooth,20,20000,,True,False,False,8.8,5.3,USB-C,Rose Gold,240,2021,3.8,In-Ear
+Empire Ears,EW808,Wired,3.5mm,5,30000,1.0,False,False,False,,,,Pearl White,240,2021,4.4,In-Ear
+Dan Clark Audio,SE200,Wired,3.5mm,14,40000,1.5,False,False,False,,,,Space Gray,230,2018,3.7,In-Ear
+Technics,Aura Pro,Wireless,Bluetooth,20,40000,,True,False,False,28.3,5.1,USB-C,Cream,100,2022,4.8,In-Ear
+Master & Dynamic,Nano X,Wireless,Bluetooth,12,22000,,True,False,False,53.7,4.2,Micro-USB,Navy,140,2020,4.6,Over-Ear
+Bowers & Wilkins,Elite 5,Wireless,Bluetooth,12,35000,,True,True,False,30.1,Multipoint 5.3,USB-C,Sand,180,2020,4.7,Over-Ear
+DUNU,HE832,Wired,3.5mm,8,30000,1.0,True,False,False,,,,Red,160,2019,4.7,In-Ear
+JBL,Sport 2,Wireless,Bluetooth,15,20000,,True,False,False,42.2,5.3,USB-C,Pearl White,130,2018,4.9,In-Ear
+Skullcandy,HE514,Wired,3.5mm,14,22000,1.2,False,False,False,,,,Cosmic Black,90,2023,4.3,In-Ear
+Grado,Active,Wireless,Bluetooth,5,40000,,True,True,True,40.1,5.2,Micro-USB,Forest Green,260,2019,4.4,Over-Ear
+JBL,ER17,Wired,3.5mm,15,50000,1.2,False,False,False,,,,Midnight Blue,180,2017,4.3,In-Ear
+Nothing,Pro X,Wireless,Bluetooth,15,22000,,True,False,True,19.5,5.1,USB-C,Cosmic Black,170,2018,3.9,In-Ear
+Etymotic,HD 80 Studio,Wired,3.5mm,10,25000,3.0,False,False,True,,,,Rose Gold,290,2023,3.7,Over-Ear
+Technics,Clear 100,Wireless,Bluetooth,15,40000,,True,True,True,19.8,5.0,Micro-USB,Navy,230,2022,4.2,In-Ear
+Status Audio,HD 990 Open,Wired,3.5mm,8,35000,2.0,False,False,False,,,,Indigo,290,2019,4.0,Over-Ear
+KZ,T299,Wired,3.5mm,5,40000,1.5,True,False,False,,,,Cream,130,2018,4.2,In-Ear
+Plantronics,Go 700,Wireless,Bluetooth,4,20000,,True,False,True,26.0,4.2,USB-C,Midnight Blue,180,2019,4.2,Over-Ear
+Mpow,Veritas 3,Wireless,Bluetooth,15,25000,,True,False,False,53.4,5.0,USB-C,Midnight Blue,120,2019,4.0,Over-Ear
+Status Audio,N649,Wired,3.5mm,8,22000,1.2,False,False,False,,,,Graphite,240,2023,3.9,In-Ear
+HIFIMAN,Freedom 4,Wireless,Bluetooth,10,20000,,True,False,False,19.2,5.3,USB-C,Navy,120,2023,4.5,In-Ear
+Cleer,Live 4,Wireless,Bluetooth,5,40000,,True,True,False,53.1,4.2,Micro-USB,Pearl White,260,2022,4.2,Over-Ear
+UE,HD 900 Monitor,Wired,3.5mm,5,22000,2.0,False,False,True,,,,Carbon,320,2021,4.2,Over-Ear
+EarFun,Core 700,Wireless,Bluetooth,15,24000,,True,False,True,40.0,Multipoint 5.3,USB-C,Indigo,150,2018,4.6,In-Ear
+Mpow,HD X,Wireless,Bluetooth,20,30000,,True,False,True,31.7,5.2,USB-C,Gunmetal,170,2023,4.7,Over-Ear
+Beyerdynamic,HE210,Wired,3.5mm,14,50000,1.0,False,False,False,,,,Space Gray,140,2016,3.5,In-Ear
+HIFIMAN,Bass Pro,Wireless,Bluetooth,10,20000,,True,False,True,34.2,5.3,USB-C,Indigo,70,2023,4.5,In-Ear
+Beats,Air Pro,Wireless,Bluetooth,4,40000,,True,False,True,26.7,Multipoint 5.3,USB-C,Indigo,110,2018,4.5,Over-Ear
+Koss,Tune 2,Wireless,Bluetooth,20,20000,,True,False,False,70.4,5.2,USB-C,Dark Green,70,2022,4.3,On-Ear
+Moondrop,IE406,Wired,3.5mm,15,40000,1.2,False,False,False,,,,Navy,220,2023,4.5,In-Ear
+Philips,E213,Wired,3.5mm,8,30000,1.2,False,False,False,,,,Matte Black,140,2021,4.0,In-Ear
+Apple,Tune 3,Wireless,Bluetooth,18,22000,,True,True,True,17.6,5.1,USB-C,Midnight Blue,150,2024,4.6,On-Ear
+Samsung,Fit Max,Wireless,Bluetooth,20,40000,,True,True,True,26.9,5.3,Lightning,Titanium,280,2021,3.8,In-Ear
+Sony,Prestige 3,Wireless,Bluetooth,12,20000,,True,False,True,43.6,5.3,Lightning,Midnight Blue,90,2021,4.4,Over-Ear
+Empire Ears,IE735,Wired,3.5mm,15,40000,1.2,False,False,False,,,,Graphite,160,2021,4.2,In-Ear
+Nothing,Everest 300,Wireless,Bluetooth,10,25000,,True,True,True,31.5,5.2,USB-C,Dark Green,270,2020,4.0,Over-Ear
+Plantronics,Aura 300,Wireless,Bluetooth,10,24000,,True,True,False,25.9,5.2,Lightning,White,150,2019,4.2,In-Ear
+Philips,HE 1000 Studio,Wired,3.5mm,12,22000,2.0,True,False,False,,,,Gunmetal,360,2018,4.5,Over-Ear
+Monoprice,Drift,Wireless,Bluetooth,15,22000,,True,False,False,24.3,5.2,USB-C,Rose Gold,100,2023,3.6,In-Ear
+Bang & Olufsen,HD X,Wireless,Bluetooth,18,25000,,True,False,False,62.7,5.0,Micro-USB,Matte Black,200,2023,3.8,On-Ear
+Sensaphonics,MDR 150X,Wired,3.5mm,5,35000,3.0,False,False,True,,,,White,340,2016,3.5,Over-Ear
+ZMF,SR 150Pro,Wired,3.5mm,10,30000,2.0,False,False,True,,,,Red,600,2024,3.8,Over-Ear
+JBL,EW436,Wired,3.5mm,20,22000,1.0,False,False,False,,,,Pearl White,290,2024,4.5,In-Ear
+HiFiMAN,SRH 500 Limited,Wired,3.5mm,10,30000,3.0,False,False,True,,,,Sand,180,2017,3.9,Over-Ear
+OnePlus,X Max,Wireless,Bluetooth,5,30000,,True,False,False,46.4,5.3,Lightning,Navy,110,2021,4.3,Over-Ear
+Thieaudio,E712,Wired,3.5mm,8,22000,1.0,False,False,False,,,,Cream,170,2016,4.3,In-Ear
+Skullcandy,DCA 700,Wired,3.5mm,12,40000,1.5,True,False,False,,,,Pearl White,200,2021,3.9,Over-Ear
+64 Audio,SE178,Wired,3.5mm,15,30000,1.5,True,False,False,,,,Cosmic Black,480,2017,4.5,In-Ear
+Cleer,Ultra,Wireless,Bluetooth,10,40000,,True,False,False,44.6,5.2,Lightning,Gunmetal,140,2024,4.0,Over-Ear
+Status Audio,HE419,Wired,3.5mm,14,22000,1.0,False,False,False,,,,Carbon,640,2018,3.7,In-Ear
+Moondrop,RHA768,Wired,3.5mm,10,40000,1.5,False,False,False,,,,Silver,180,2021,3.6,In-Ear
+1MORE,EW960,Wired,3.5mm,10,40000,1.5,False,False,False,,,,Space Gray,170,2020,4.2,In-Ear
+Creative,Sparks 900,Wireless,Bluetooth,20,24000,,True,False,False,38.6,5.3,Lightning,Forest Green,90,2023,4.7,In-Ear
+Etymotic,HD 50,Wired,3.5mm,15,50000,1.2,True,False,True,,,,Gunmetal,200,2020,4.2,Over-Ear
+Edifier,Wave 3,Wireless,Bluetooth,20,40000,,True,True,False,48.3,5.0,USB-C,Dark Green,280,2021,4.4,In-Ear
+Shokz,Zen Pro,Wireless,Bluetooth,10,22000,,True,False,False,56.9,5.0,USB-C,Cream,110,2018,4.6,On-Ear
+Shure,N218,Wired,3.5mm,14,50000,1.2,False,False,False,,,,Forest Green,200,2018,4.0,In-Ear
+Logitech,Plus Pro,Wireless,Bluetooth,18,22000,,True,True,True,13.2,5.0,Lightning,Gunmetal,230,2024,4.4,In-Ear
+AKG,X 500,Wireless,Bluetooth,15,30000,,True,False,True,76.0,5.0,Micro-USB,Red,150,2024,4.2,Over-Ear
+Thieaudio,IE516,Wired,3.5mm,10,22000,1.0,False,False,False,,,,White,220,2016,4.5,In-Ear
+JBL,HE458,Wired,3.5mm,15,30000,1.2,False,False,False,,,,Space Gray,210,2016,4.6,In-Ear
+Audio-Technica,Dots 300,Wireless,Bluetooth,20,24000,,True,True,True,17.2,5.2,USB-C,Space Gray,190,2021,4.6,In-Ear
+Logitech,Wave 1000,Wireless,Bluetooth,10,24000,,True,False,False,55.8,5.3,Lightning,Matte Black,110,2021,4.6,In-Ear
+HIFIMAN,Bass 1000,Wireless,Bluetooth,10,20000,,True,False,False,28.3,Multipoint 5.3,USB-C,Silver,170,2021,4.5,In-Ear
+64 Audio,HD 990 Open,Wired,3.5mm,4,35000,2.5,False,False,False,,,,Champagne,630,2024,3.6,Over-Ear
+Audio-Technica,Mini 500,Wireless,Bluetooth,6,40000,,True,False,True,46.8,5.2,USB-C,Forest Green,130,2019,4.5,Over-Ear
+Monolith,DT 500Pro,Wired,3.5mm,15,22000,1.5,False,False,False,,,,Black,180,2018,4.2,Over-Ear
+Samsung,Elite,Wireless,Bluetooth,6,22000,,True,False,False,22.7,5.0,USB-C,Graphite,240,2023,4.0,Over-Ear
+Panasonic,Pro,Wireless,Bluetooth,5,25000,,True,False,True,34.7,5.3,USB-C,Dark Green,260,2023,4.3,Over-Ear
+Mpow,Drops,Wireless,Bluetooth,15,40000,,True,True,False,22.7,5.2,USB-C,Black,150,2019,3.9,In-Ear
+Denon,Air 2,Wireless,Bluetooth,6,20000,,True,False,False,27.9,5.2,USB-C,Midnight Blue,120,2024,4.4,Over-Ear
+Monoprice,Air 700,Wireless,Bluetooth,12,20000,,True,True,True,42.6,5.2,USB-C,Cosmic Black,330,2020,4.7,Over-Ear
+Westone,E883,Wired,3.5mm,8,40000,1.0,True,False,False,,,,Indigo,180,2024,3.6,In-Ear
+JBL,HE 990 Studio,Wired,3.5mm,8,25000,1.2,False,False,False,,,,Black,370,2021,4.5,Over-Ear
+Truthear,SRH 800 Monitor,Wired,3.5mm,20,22000,1.5,True,False,False,,,,Brown,100,2021,4.6,On-Ear
+Skullcandy,Pro 2,Wireless,Bluetooth,15,30000,,True,False,False,27.6,5.0,USB-C,Cream,180,2022,4.6,Over-Ear
+Skullcandy,Go 700,Wireless,Bluetooth,10,22000,,True,True,True,40.7,5.0,USB-C,White,330,2019,4.1,In-Ear
+Koss,Dots 5,Wireless,Bluetooth,18,20000,,True,False,False,34.3,5.2,USB-C,White,180,2021,4.4,In-Ear
+HyperX,Sport Max,Wireless,Bluetooth,18,22000,,True,True,False,23.5,Multipoint 5.3,USB-C,Cream,160,2019,4.7,In-Ear
+Audio-Technica,Pro 5,Wireless,Bluetooth,10,40000,,True,False,False,35.6,5.1,USB-C,Carbon,110,2023,4.0,In-Ear
+Sony,Signature,Wireless,Bluetooth,8,35000,,True,False,False,36.0,5.0,Micro-USB,Champagne,200,2018,3.8,Over-Ear
+SteelSeries,Sport 2,Wireless,Bluetooth,10,40000,,True,False,False,30.9,5.0,Micro-USB,Red,160,2021,4.2,In-Ear
+EarFun,Buds 100,Wireless,Bluetooth,15,24000,,True,False,False,39.8,5.1,USB-C,Carbon,110,2020,4.3,In-Ear
+Logitech,Tune X,Wireless,Bluetooth,12,35000,,True,True,False,51.1,Multipoint 5.3,USB-C,Midnight Blue,210,2020,4.2,Over-Ear
+Etymotic,SRH 700,Wired,3.5mm,15,25000,2.5,False,False,True,,,,Sand,120,2018,4.1,Over-Ear
+Rose,RHA422,Wired,3.5mm,8,40000,1.0,False,False,False,,,,Cream,240,2023,4.8,In-Ear
+Audio-Technica,HE597,Wired,3.5mm,5,50000,1.2,False,False,False,,,,Carbon,200,2016,4.1,In-Ear
+Unique Melody,LCD 50 Studio,Wired,3.5mm,10,30000,1.5,False,False,False,,,,Pearl White,90,2023,3.7,Over-Ear
+Anker Soundcore,Apex 500,Wireless,Bluetooth,18,35000,,True,False,False,35.4,5.2,Lightning,Red,210,2024,4.1,Over-Ear
+Status Audio,Apex 1000,Wireless,Bluetooth,10,22000,,True,True,True,18.7,5.3,Lightning,Black,260,2019,3.9,Over-Ear
+Audeze,EW901,Wired,3.5mm,5,50000,1.2,False,False,False,,,,Pearl White,60,2017,4.3,In-Ear
+Shure,ATH 500,Wired,3.5mm,12,22000,1.5,False,False,True,,,,Matte Black,180,2018,4.7,Over-Ear
+Simgot,RE520,Wired,3.5mm,15,40000,1.0,False,False,False,,,,Carbon,160,2023,4.6,In-Ear
+Turtle Beach,Reference 4,Wireless,Bluetooth,20,25000,,True,True,False,47.3,4.2,Lightning,Rose Gold,310,2022,3.7,On-Ear
+Shure,HD 1000 Studio,Wired,3.5mm,10,30000,1.2,True,False,True,,,,Rose Gold,210,2023,4.8,Over-Ear
+Sony,Dots Pro,Wireless,Bluetooth,18,22000,,True,False,True,36.0,5.0,Micro-USB,Black,110,2019,4.5,In-Ear
+Koss,X 2,Wireless,Bluetooth,12,40000,,True,True,False,38.5,5.3,USB-C,Champagne,460,2021,4.6,Over-Ear
+Razer,Air Max,Wireless,Bluetooth,20,20000,,True,False,False,27.9,5.3,USB-C,Pearl White,120,2018,4.1,On-Ear
+Tin HiFi,LCD 900,Wired,3.5mm,4,22000,1.2,False,False,False,,,,Brown,340,2017,4.1,Over-Ear
+1MORE,Freedom 1000,Wireless,Bluetooth,20,22000,,True,False,False,18.2,5.0,USB-C,Cream,210,2021,4.4,In-Ear
+Sony,RHA52,Wired,3.5mm,8,40000,1.2,False,False,False,,,,White,250,2020,4.3,In-Ear
+Kinera,RHA848,Wired,3.5mm,8,22000,1.5,True,False,False,,,,Carbon,110,2023,4.2,In-Ear
+Amazfit,Veritas 2,Wireless,Bluetooth,18,25000,,True,False,True,27.3,4.2,USB-C,Matte Black,70,2024,4.1,On-Ear
+Microsoft,Ultra 5,Wireless,Bluetooth,15,30000,,True,True,False,37.1,5.2,USB-C,Midnight Blue,210,2019,4.4,Over-Ear
+Focal,DT 600 Studio,Wired,3.5mm,10,50000,1.2,False,False,False,,,,Black,120,2020,4.2,Over-Ear
+SteelSeries,Everest X,Wireless,Bluetooth,4,40000,,True,True,True,45.7,5.1,Micro-USB,Silver,220,2021,4.7,Over-Ear
+TOZO,One 4,Wireless,Bluetooth,10,25000,,True,True,False,33.0,5.0,Lightning,Matte Black,410,2020,4.2,Over-Ear
+Mpow,One,Wireless,Bluetooth,6,30000,,True,True,True,40.0,5.3,USB-C,Dark Green,380,2018,3.7,Over-Ear
+Nothing,Series 300,Wireless,Bluetooth,18,40000,,True,True,False,10.9,5.0,USB-C,Silver,360,2022,4.6,In-Ear
+Audio-Technica,Wave X,Wireless,Bluetooth,18,20000,,True,False,False,16.9,5.2,Lightning,White,150,2020,3.9,In-Ear
+AKG,DT 150 Studio,Wired,3.5mm,8,22000,1.2,False,False,True,,,,Navy,280,2019,4.6,Over-Ear
+Status Audio,Plus 700,Wireless,Bluetooth,20,22000,,True,False,False,37.9,5.0,USB-C,Gunmetal,150,2020,4.2,In-Ear
+SteelSeries,Pro 900,Wireless,Bluetooth,10,40000,,True,False,False,29.7,5.1,USB-C,Titanium,210,2019,4.5,In-Ear
+SteelSeries,Veritas 300,Wireless,Bluetooth,12,22000,,True,True,True,44.5,5.3,Micro-USB,Dark Green,270,2019,3.9,Over-Ear
+Bowers & Wilkins,Ultra 1000,Wireless,Bluetooth,18,22000,,True,False,False,38.4,5.0,USB-C,Pearl White,180,2018,4.0,Over-Ear
+Bose,Clear 2,Wireless,Bluetooth,18,40000,,True,False,False,52.8,5.3,Micro-USB,Forest Green,100,2024,4.3,In-Ear
+Philips,EW909,Wired,3.5mm,14,30000,1.5,False,False,False,,,,Carbon,200,2022,4.6,In-Ear
+Monoprice,Drops 300,Wireless,Bluetooth,18,22000,,True,False,True,30.6,5.3,USB-C,Dark Green,180,2019,4.5,In-Ear
+Fiio,IE704,Wired,3.5mm,14,30000,1.0,False,False,False,,,,Midnight Blue,200,2019,3.7,In-Ear
+Tin HiFi,ER244,Wired,3.5mm,10,30000,1.0,False,False,False,,,,Gunmetal,110,2021,3.8,In-Ear
+64 Audio,SRH 500 Open,Wired,3.5mm,15,40000,2.5,False,False,True,,,,White,300,2019,4.5,Over-Ear
+Focal,Fit 700,Wireless,Bluetooth,10,40000,,True,True,False,36.3,5.0,Micro-USB,Red,180,2021,4.1,In-Ear
+JBL,Studio 1000,Wireless,Bluetooth,5,25000,,True,False,True,39.6,5.0,USB-C,Rose Gold,270,2024,4.5,Over-Ear
+Pioneer,Air 200,Wireless,Bluetooth,20,35000,,True,True,True,38.8,5.2,USB-C,Silver,150,2024,4.0,Over-Ear
+Status Audio,EW194,Wired,3.5mm,10,20000,1.0,False,False,False,,,,Black,180,2017,4.0,In-Ear
+TOZO,Flow 2,Wireless,Bluetooth,15,40000,,True,True,True,25.8,5.0,USB-C,Cream,180,2019,4.5,In-Ear
+Truthear,HD 150,Wired,3.5mm,5,40000,2.5,False,False,True,,,,Midnight Blue,120,2022,3.7,Over-Ear
+Logitech,Air 700,Wireless,Bluetooth,18,30000,,True,False,True,65.1,5.2,Lightning,Red,160,2022,3.9,Over-Ear
+Bowers & Wilkins,Ultra 1000,Wireless,Bluetooth,10,35000,,True,False,False,31.8,5.2,Lightning,Dark Green,190,2023,4.5,Over-Ear
+Grado,ER157,Wired,3.5mm,14,30000,1.0,False,False,False,,,,Cream,150,2019,3.9,In-Ear
+Nothing,Aura X,Wireless,Bluetooth,15,24000,,True,False,False,46.3,5.0,USB-C,White,120,2020,4.0,In-Ear
+Jabra,Clear,Wireless,Bluetooth,10,22000,,True,True,True,46.8,5.3,USB-C,Space Gray,160,2022,4.6,In-Ear
+Etymotic,K 500,Wired,3.5mm,5,25000,2.0,False,False,False,,,,Forest Green,920,2021,4.0,Over-Ear
+Master & Dynamic,Max 200,Wireless,Bluetooth,10,35000,,True,True,True,58.9,5.0,USB-C,Gunmetal,450,2024,4.0,Over-Ear
+1MORE,Sound 100,Wireless,Bluetooth,20,22000,,True,False,False,19.4,5.0,USB-C,Sand,210,2022,3.9,In-Ear
+Etymotic,E260,Wired,3.5mm,15,50000,1.5,False,False,False,,,,Pearl White,190,2016,3.8,In-Ear
+Focal,Everest X,Wireless,Bluetooth,15,20000,,True,True,True,29.2,Multipoint 5.3,USB-C,Sand,280,2019,4.4,Over-Ear
+64 Audio,T392,Wired,3.5mm,14,22000,1.5,False,False,False,,,,White,340,2016,4.4,In-Ear
+TOZO,Dots 4,Wireless,Bluetooth,10,40000,,True,True,False,19.3,5.3,Micro-USB,Graphite,340,2021,4.4,In-Ear
+Shokz,Mini 100,Wireless,Bluetooth,12,35000,,True,True,False,55.8,5.2,USB-C,Pearl White,320,2023,4.1,Over-Ear
+Bang & Olufsen,Air 100,Wireless,Bluetooth,20,24000,,True,True,False,23.4,5.0,USB-C,Brown,260,2019,3.7,In-Ear
+Audio-Technica,Air 3,Wireless,Bluetooth,15,25000,,True,False,True,46.7,5.3,USB-C,Pearl White,130,2018,4.5,Over-Ear
+Philips,IE215,Wired,3.5mm,8,20000,1.5,False,False,False,,,,Gunmetal,270,2019,3.9,In-Ear
+Status Audio,Apex Max,Wireless,Bluetooth,12,22000,,True,True,True,44.3,5.3,USB-C,Rose Gold,220,2018,4.7,On-Ear
+HiFiMAN,SE306,Wired,3.5mm,14,20000,1.0,True,False,False,,,,Rose Gold,140,2022,4.4,In-Ear
+Etymotic,SE610,Wired,3.5mm,8,30000,1.5,False,False,False,,,,Indigo,180,2018,3.6,In-Ear
+HiFiMAN,SRH 1000,Wired,3.5mm,8,40000,2.0,True,False,False,,,,Brown,340,2021,3.9,Over-Ear
+Amazfit,Vibe 900,Wireless,Bluetooth,6,30000,,True,True,False,52.8,4.2,USB-C,Red,170,2023,4.3,Over-Ear
+Etymotic,SE82,Wired,3.5mm,20,20000,1.5,True,False,False,,,,Champagne,240,2019,4.3,In-Ear
+Focal,Dots 5,Wireless,Bluetooth,10,40000,,True,False,False,46.7,5.0,USB-C,Dark Green,130,2018,4.6,In-Ear
+Nothing,Rhythm Max,Wireless,Bluetooth,8,40000,,True,True,False,55.9,5.3,USB-C,Black,110,2018,4.9,Over-Ear
+AKG,DCA 300,Wired,3.5mm,12,40000,1.2,True,False,False,,,,Cosmic Black,230,2022,3.9,Over-Ear
+Status Audio,X 100,Wireless,Bluetooth,6,40000,,True,False,False,66.3,5.1,USB-C,Sand,230,2020,4.7,Over-Ear
+Grado,SR 800Pro,Wired,3.5mm,8,50000,1.5,False,False,False,,,,Graphite,260,2018,4.5,Over-Ear
+Turtle Beach,Ultra 900,Wireless,Bluetooth,10,22000,,True,False,False,36.1,5.1,Micro-USB,Sand,170,2018,4.2,Over-Ear
+Sennheiser,ER571,Wired,3.5mm,14,22000,1.5,False,False,False,,,,Matte Black,220,2019,4.3,In-Ear
+iBasso,RHA112,Wired,3.5mm,5,20000,1.2,True,False,False,,,,Forest Green,160,2021,3.5,In-Ear
+OnePlus,Series 900,Wireless,Bluetooth,20,24000,,True,False,False,57.2,5.0,USB-C,Silver,120,2019,4.2,In-Ear
+Dan Clark Audio,EW665,Wired,3.5mm,20,30000,1.0,False,False,False,,,,Dark Green,190,2022,4.5,In-Ear
+Moondrop,ER412,Wired,3.5mm,8,50000,1.5,False,False,False,,,,Titanium,360,2016,4.3,In-Ear
+Audio-Technica,Rush 1000,Wireless,Bluetooth,20,20000,,True,True,False,54.4,5.3,Micro-USB,Cream,280,2018,4.3,In-Ear
+Bang & Olufsen,Plus 300,Wireless,Bluetooth,20,24000,,True,False,False,37.7,4.2,USB-C,Cosmic Black,140,2019,4.3,In-Ear
+Master & Dynamic,X 5,Wireless,Bluetooth,8,35000,,True,True,True,45.7,5.0,USB-C,Sand,230,2019,4.2,Over-Ear
+Monolith,HE95,Wired,3.5mm,14,50000,1.0,False,False,False,,,,Space Gray,430,2019,4.3,In-Ear
+Focal,DT 900X,Wired,3.5mm,10,25000,2.0,True,False,False,,,,Graphite,460,2017,4.1,Over-Ear
+Samsung,Prestige 5,Wireless,Bluetooth,20,22000,,True,False,True,31.5,5.1,USB-C,Graphite,140,2024,4.2,On-Ear
+Jabra,Air 100,Wireless,Bluetooth,5,40000,,True,True,False,33.0,5.0,Micro-USB,Pearl White,170,2023,4.1,Over-Ear
+Apple,Pods 500,Wireless,Bluetooth,10,20000,,True,False,False,24.1,5.2,Micro-USB,Sand,130,2024,4.4,In-Ear
+Logitech,HD 5,Wireless,Bluetooth,20,40000,,True,True,False,70.8,5.0,Micro-USB,Cream,330,2024,4.1,Over-Ear
+Westone,K 700X,Wired,3.5mm,15,35000,1.2,False,False,False,,,,White,310,2017,4.6,Over-Ear
+Audio-Technica,Elite 3,Wireless,Bluetooth,12,30000,,True,True,True,75.1,5.0,USB-C,Indigo,280,2018,4.2,Over-Ear
+AKG,Air 200,Wireless,Bluetooth,5,22000,,True,True,True,26.6,5.3,USB-C,White,360,2019,4.3,Over-Ear
+Audeze,HD 150Pro,Wired,3.5mm,20,22000,1.5,False,False,False,,,,White,100,2019,3.5,On-Ear
+Beyerdynamic,HE 990 Open,Wired,3.5mm,20,22000,1.5,True,False,False,,,,Black,70,2022,3.6,On-Ear
+Denon,Dots 900,Wireless,Bluetooth,20,22000,,True,True,False,29.6,5.2,USB-C,Cosmic Black,130,2021,3.7,In-Ear
+Status Audio,SRH 900Pro,Wired,3.5mm,12,30000,1.5,False,False,False,,,,Pearl White,620,2021,4.7,Over-Ear
+AKG,IE515,Wired,3.5mm,5,40000,1.0,False,False,False,,,,Red,60,2016,4.2,In-Ear
+Shure,E174,Wired,3.5mm,8,40000,1.2,False,False,False,,,,Silver,240,2016,4.1,In-Ear
+Bang & Olufsen,Plus 4,Wireless,Bluetooth,20,20000,,True,False,False,40.5,5.3,Micro-USB,Red,150,2023,3.9,In-Ear
+Denon,Elite 300,Wireless,Bluetooth,15,40000,,True,True,True,29.3,4.2,Lightning,Matte Black,260,2022,4.8,Over-Ear
+DUNU,DT 100 Studio,Wired,3.5mm,8,40000,3.0,True,False,True,,,,Pearl White,210,2024,4.8,Over-Ear
+Bang & Olufsen,Aura 1000,Wireless,Bluetooth,18,24000,,True,True,False,25.8,5.0,Lightning,Indigo,270,2019,4.3,In-Ear
+1MORE,E654,Wired,3.5mm,20,30000,1.2,False,False,False,,,,Matte Black,150,2023,3.7,In-Ear
+Beyerdynamic,Sport 4,Wireless,Bluetooth,20,40000,,True,False,False,30.7,5.0,USB-C,Navy,130,2024,4.3,In-Ear
+Jabra,Go 3,Wireless,Bluetooth,15,40000,,True,False,False,18.2,5.0,Micro-USB,Carbon,120,2020,3.8,In-Ear
+Technics,Tune 1000,Wireless,Bluetooth,8,35000,,True,True,True,56.1,Multipoint 5.3,USB-C,Space Gray,180,2022,4.0,Over-Ear
+Sennheiser,ER436,Wired,3.5mm,14,50000,1.0,False,False,False,,,,Indigo,350,2017,4.2,In-Ear
+Status Audio,Buds 900,Wireless,Bluetooth,10,24000,,True,True,False,17.7,5.2,USB-C,Space Gray,210,2022,4.3,In-Ear
+Audeze,MDR 100 Monitor,Wired,3.5mm,15,40000,2.5,False,False,False,,,,Graphite,690,2019,3.8,Over-Ear
+1MORE,EW603,Wired,3.5mm,15,40000,1.0,False,False,False,,,,Silver,110,2021,4.1,In-Ear
+Beats,Go,Wireless,Bluetooth,6,25000,,True,False,False,31.8,5.0,USB-C,Pearl White,120,2024,4.0,Over-Ear
+Creative,Signature 4,Wireless,Bluetooth,5,30000,,True,True,False,38.3,5.3,USB-C,Champagne,240,2023,4.4,Over-Ear
+Shure,EW630,Wired,3.5mm,15,50000,1.2,True,False,False,,,,Titanium,120,2017,3.5,In-Ear
+Status Audio,Drift 300,Wireless,Bluetooth,15,20000,,True,False,False,53.3,Multipoint 5.3,USB-C,Carbon,120,2021,3.6,In-Ear
+Grado,N721,Wired,3.5mm,10,22000,1.0,True,False,False,,,,Brown,90,2023,4.3,In-Ear
+Denon,Clear 500,Wireless,Bluetooth,20,20000,,True,False,False,12.5,5.3,USB-C,Midnight Blue,160,2023,4.3,In-Ear
+Westone,MDR 900,Wired,3.5mm,8,22000,1.5,True,False,False,,,,Graphite,300,2018,4.9,Over-Ear
+SteelSeries,HD 500,Wireless,Bluetooth,20,30000,,True,True,False,51.4,5.2,Lightning,White,190,2019,4.4,Over-Ear
+JBL,Drift 4,Wireless,Bluetooth,18,24000,,True,True,False,18.1,5.3,USB-C,Indigo,180,2022,4.4,In-Ear
+Sennheiser,Pods 5,Wireless,Bluetooth,18,40000,,True,False,False,45.0,5.2,USB-C,Brown,260,2022,4.5,In-Ear
+Focal,Core X,Wireless,Bluetooth,18,40000,,True,True,True,36.0,5.2,USB-C,Indigo,340,2018,3.5,In-Ear
+Etymotic,K 150,Wired,3.5mm,12,50000,2.5,False,False,True,,,,Pearl White,940,2017,4.1,Over-Ear
+Master & Dynamic,Live 200,Wireless,Bluetooth,15,40000,,True,True,True,19.4,5.3,USB-C,Pearl White,220,2019,4.4,Over-Ear
+Anker Soundcore,Pro Max,Wireless,Bluetooth,18,24000,,True,False,True,37.2,5.3,USB-C,White,110,2024,4.7,In-Ear
+HiFiMAN,SR 300 Monitor,Wired,3.5mm,8,22000,1.5,False,False,False,,,,Champagne,100,2023,4.4,Over-Ear
+Turtle Beach,Air 500,Wireless,Bluetooth,18,22000,,True,True,False,49.8,5.3,USB-C,Midnight Blue,260,2023,4.2,Over-Ear
+Plantronics,Go X,Wireless,Bluetooth,18,25000,,True,True,False,66.7,Multipoint 5.3,USB-C,Red,120,2021,5.0,Over-Ear
+KZ,IE796,Wired,3.5mm,5,20000,1.5,False,False,False,,,,Cosmic Black,110,2016,4.2,In-Ear
+AKG,Sparks 5,Wireless,Bluetooth,20,20000,,True,False,False,7.9,5.0,Lightning,Navy,270,2018,4.0,In-Ear
+Focal,IE56,Wired,3.5mm,10,40000,1.2,True,False,False,,,,Red,80,2024,4.0,In-Ear
+Philips,DCA 50,Wired,3.5mm,10,22000,3.0,False,False,True,,,,Cosmic Black,200,2018,4.4,Over-Ear
+Status Audio,Active 3,Wireless,Bluetooth,15,22000,,True,True,True,56.9,4.2,Lightning,Black,180,2022,4.5,In-Ear
+Tribit,Sound X,Wireless,Bluetooth,10,40000,,True,False,True,19.8,5.2,Lightning,Midnight Blue,90,2023,4.8,In-Ear
+Beats,Ultra 3,Wireless,Bluetooth,15,25000,,True,True,True,32.2,5.2,USB-C,Red,200,2021,4.1,Over-Ear
+Status Audio,LCD 300 Limited,Wired,3.5mm,20,20000,1.2,False,False,False,,,,Space Gray,330,2021,4.1,On-Ear
+Etymotic,E823,Wired,3.5mm,15,40000,1.2,True,False,False,,,,Gunmetal,370,2018,4.3,In-Ear
+EarFun,Sound 1000,Wireless,Bluetooth,15,20000,,True,True,False,23.4,4.2,USB-C,Sand,300,2024,4.8,In-Ear
+Koss,Reference X,Wireless,Bluetooth,10,22000,,True,False,False,51.4,4.2,Micro-USB,Space Gray,120,2018,4.7,On-Ear
