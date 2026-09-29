@@ -20,9 +20,14 @@ The original collaborative repository, including the full development history, b
 
 [Applied-Generative-AI-Group-26](https://github.com/jaklob1233/Applied-Generative-AI-Group-26)
 
-### My contributions
+## My contributions
 
-The project was developed collaboratively, with responsibilities shared across the team rather than being strictly divided between individual members.
+The project was developed collaboratively, and all team members contributed to the codebase. Within the team, I had a particular responsibility for:
+
+- **Usability and user experience:** Making the assistant easy to use for anyone, regardless of technical background. This included shaping how the final interface and recommendations are presented to the user, such as product cards, comparisons and clear, conversational replies.
+- **Guardrails:** Making sure the model does exactly what it is meant to do, and nothing more. This covered preventing hallucinated products or specifications, keeping answers grounded in the real product catalogue, and handling out-of-scope requests honestly instead of guessing.
+
+The guardrails were validated through the project's adversarial and safety tests, where the final agent reached 100%.
 
 ---
 
